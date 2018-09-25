@@ -1,2 +1,2 @@
-# fastidious.github.com
-Weblog
+# Collantes.us
+A simple weblog.

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon on David Collantes</title>
+    <link>https://collantes.us/tags/amazon/</link>
+    <description>Recent content in Amazon on David Collantes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 12 Nov 2015 14:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://collantes.us/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amazon Cloud Drive Feedback</title>
+      <link>https://collantes.us/2015/11/12/amazon-cloud-drive-feedback/</link>
+      <pubDate>Thu, 12 Nov 2015 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2015/11/12/amazon-cloud-drive-feedback/</guid>
+      <description>This is not merely a technical problem, but I did not have the choice for multiple selections. Anytime I use the word &amp;ldquo;you&amp;rdquo; down below, I mean Amazon.
+First the good. I love you, I have used AWS S3 for a long time, no complains. I do much of my online purchases on you, although I am not a fervent shopper. I rent my movies on Amazon Video. I am signed up for Flex.</description>
+    </item>
+    
+    <item>
+      <title>On AWS S3</title>
+      <link>https://collantes.us/2012/01/28/on-aws-s3/</link>
+      <pubDate>Sat, 28 Jan 2012 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2012/01/28/on-aws-s3/</guid>
+      <description>I have moved from Linode (which I will be canceling soon) to Namecheap DNS management (I have all my domains on Namecheap) and Amazon S3. Transition went well, and painless. It should save me some money.
+Nothing wrong with Linode, which I recommend to anyone looking to having their own Virtual Server. Their service rock, and their price is hard to beat. I used their services for a year and totally loved it.</description>
+    </item>
+    
+    <item>
+      <title>Route 53, wish I could have used you</title>
+      <link>https://collantes.us/2011/02/24/almost-at-route53-and-s3/</link>
+      <pubDate>Thu, 24 Feb 2011 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2011/02/24/almost-at-route53-and-s3/</guid>
+      <description>Ever since Amazon announced it&amp;rsquo;s Route 53 service I have been dreaming on using it, but since I dislike to have services too spread out (got Google Apps and Linode now), I held up. Two days ago or so, Amazon announced new features that make hosting static websites&amp;mdash;such as this one&amp;mdash;on AWS S3 buckets possible. This was it, just what I have been waiting for!
+Promptly I set off to migrate one of my domains over Route 53.</description>
+    </item>
+    
+  </channel>
+</rss>

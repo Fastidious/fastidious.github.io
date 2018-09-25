@@ -1,0 +1,169 @@
+@font-face {
+	font-family: "Colfax";
+    src: url("fonts/Colfax-Regular.eot?") format("eot"),
+         url("fonts/Colfax-Regular.ttf") format("truetype"),
+         url("fonts/Colfax-Regular.woff") format("woff"),
+         url("fonts/Colfax-Regular.svg#Colfax-Regular") format("svg");
+}
+
+@import url('https://fonts.googleapis.com/css?family=ABeeZee:400,400i');
+
+html { overflow-y: scroll; }
+
+body {
+    font-family: "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "ABeeZee", "Colfax", Oxygen-Sans, Cantarell, "Helvetica Neue", "Siyam Rupali", sans-serif;
+    text-rendering: optimizeLegibility;
+}
+
+.title, body, button, h1, h2, h3, h4, h5, h6, input, select, textarea {
+    font-family: "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "ABeeZee", "Colfax", Oxygen-Sans, Cantarell, "Helvetica Neue", "Siyam Rupali", sans-serif;
+}
+
+p {
+    color: #111111;
+}
+
+p code, li code {
+    padding: 0.2em 0.4em;
+    margin: 0;
+    font-size: 85%;
+    background-color: rgba(27,31,35,0.05);
+    border: none;
+    border-radius: 3px;
+}
+
+pre { 
+    font-family: Menlo, Consolas, Monaco, Ubuntu Mono, Liberation Mono, Lucida Console, monospace;
+    font-size: .875em;
+    background: #212121;
+    color: #fafafa;
+    text-align: initial;
+    max-width: 100%;
+    padding: 1em 1.5em;
+    margin-bottom: 1.725em;
+    overflow: auto;
+    word-wrap: normal;
+}
+
+.social-menu {
+    border-bottom: none;
+    text-decoration: none;
+}
+
+sup, sub {
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
+}
+
+sub {
+    top: 0.4em;
+}
+
+article a[href^="http://"]:not([href*="collantes.us"]) {
+    color: #3284c5;
+    border-bottom: .01em #ffafaf solid;
+}
+
+article a[href^="https://"]:not([href*="collantes.us"]) {
+    color: #3284c5;
+    border-bottom: .01em #ffafaf solid;
+}
+
+article a:hover[href^="http://"]:not([href*="collantes.us"]) {
+    color: #111111;
+    border-bottom: .01em red solid;
+}
+
+article a:hover[href^="https://"]:not([href*="collantes.us"]) {
+    color: #111111;
+    border-bottom: .01em red solid;
+}
+
+article a, .entry-content a, .list-container a, .term-cloud-container a, .item-title a {
+    border-bottom: .01em solid #3284c5;
+    color: #3284c5;
+}
+
+article a:hover, .list-container a:active, .list-container a:focus, .list-container a:hover, .term-cloud-container a:hover, .item-title a:hover {
+    border-bottom-color: #ffcd00;
+}
+
+:target {
+    animation: hilite 3s ease; 
+}
+
+@keyframes hilite {
+    0%   { background-color: transparent; }
+    10%  { background-color: #e6f7ff;     }
+    100% { background-color: transparent; }
+}
+
+.entry-nav>div a {
+    font-style: normal;
+}
+
+.desc {
+    color: #787878;
+    font-size: 95%;
+}
+
+.endofpage {
+    text-align: center;
+    color: #787878;
+}
+
+.date {
+    font-style: normal;
+}
+
+.footnotes, .copyright, figcaption {
+    font-size: 85%;
+    color: #787878;
+}
+
+blockquote {
+    font-style: normal;
+    font-size: 100%;
+}
+
+.video-container {
+    position:relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}
+
+.divider {
+    margin-top: 2em;
+    width: 4em;
+    border-color: #bdbdbd;
+    border-style: solid;
+    border-width: .125em 0 0 0;
+    background-color: transparent;
+}
+
+.meicon {
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 15px;
+    vertical-align: text-top;
+    width: 80px;
+}
+.convo .person {
+    @include font-size(0.9);
+    font-weight: bold;
+    font-style: normal;
+    text-align: right;
+}

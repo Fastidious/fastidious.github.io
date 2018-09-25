@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flash on David Collantes</title>
+    <link>https://collantes.us/tags/flash/</link>
+    <description>Recent content in Flash on David Collantes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 29 Apr 2010 14:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://collantes.us/tags/flash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thoughts on Flash</title>
+      <link>https://collantes.us/2010/04/29/thoughts-on-flash/</link>
+      <pubDate>Thu, 29 Apr 2010 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2010/04/29/thoughts-on-flash/</guid>
+      <description>Steve Jobs shared with us this month his thoughts on Flash:
+ &amp;ldquo;Flash was created during the PC era &amp;mdash;for PCs and mice. Flash is a successful business for Adobe, and we can understand why they want to push it beyond PCs. But the mobile era is about low power devices, touch interfaces and open web standards &amp;mdash;all areas where Flash falls short.
+The avalanche of media outlets offering their content for Apple’s mobile devices demonstrates that Flash is no longer necessary to watch video or consume any kind of web content.</description>
+    </item>
+    
+  </channel>
+</rss>

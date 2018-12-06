@@ -116,7 +116,7 @@ article a:hover, .list-container a:active, .list-container a:focus, .list-contai
 
 @keyframes hilite {
     0%   { background-color: transparent; }
-    10%  { background-color: #e6f7ff;     }
+    10%  { background-color: #212121;     }
     100% { background-color: transparent; }
 }
 

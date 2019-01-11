@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on David Collantes</title>
+    <link>https://collantes.us/categories/tech/</link>
+    <description>Recent content in Tech on David Collantes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 25 Mar 2018 18:02:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://collantes.us/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Someone Is in Trouble When...</title>
+      <link>https://collantes.us/2018/03/25/someone-is-in-trouble-when.../</link>
+      <pubDate>Sun, 25 Mar 2018 18:02:05 -0400</pubDate>
+      
+      <guid>https://collantes.us/2018/03/25/someone-is-in-trouble-when.../</guid>
+      <description>You know a company is in trouble when they have to take a full page advertisement on several major newspapers in the U.S., and the U.K., with an apology from their chief. Facebook&amp;rsquo;s Mark Zuckerberg did just that.</description>
+    </item>
+    
+    <item>
+      <title>Simplicity</title>
+      <link>https://collantes.us/2018/03/22/simplicity/</link>
+      <pubDate>Thu, 22 Mar 2018 13:34:10 -0400</pubDate>
+      
+      <guid>https://collantes.us/2018/03/22/simplicity/</guid>
+      <description>That is a screenshot of my macOS desktop. It could be simpler, but as it is it does what I need, and want. When I need to use an app, I simply hit command (⌘) space and start typing the app name to launch it. That is, I use Spotlight.
+Wouldn&amp;rsquo;t it be great that iOS could be customized like that too? Preferably it would be a setting, that would allow to turn off the visibility of all, or any app on the phone.</description>
+    </item>
+    
+    <item>
+      <title>Adrian Lamo Has Died</title>
+      <link>https://collantes.us/2018/03/16/adrian-lamo-has-died/</link>
+      <pubDate>Fri, 16 Mar 2018 20:53:39 -0400</pubDate>
+      
+      <guid>https://collantes.us/2018/03/16/adrian-lamo-has-died/</guid>
+      <description>Adrian Lamo, mostly known as the hacker who broke into several major companies computer networks, and indirectly reported Chelsea Manning, has died — cause unknown thus far. The news was posted on Hacker News, of course, and I found one the comments — true or not — left there interesting.
+ I had a car, while my friend did not, and Adrian had traveled via transit, so I spent the day with them hopping around town.</description>
+    </item>
+    
+    <item>
+      <title>On AT&amp;T fibre</title>
+      <link>https://collantes.us/2017/10/08/att-fibre/</link>
+      <pubDate>Sun, 08 Oct 2017 12:42:10 +0000</pubDate>
+      
+      <guid>https://collantes.us/2017/10/08/att-fibre/</guid>
+      <description>Had to chat with an AT&amp;amp;T employee, as a result of an order I placed yesterday. This is the feedback I left (with minor spelling corrections), after concluding the chat:
+ The chat experience was excellent (chat agent, Marry). AT&amp;amp;T experience thus far, not quite so.
+I had an AT&amp;amp;T sales agent visit me yesterday. I signed up for Internet 1Gbps (Internet 1000 on AT&amp;amp;T lingo), and phone service (transferring my current number).</description>
+    </item>
+    
+    <item>
+      <title>A few technical changes</title>
+      <link>https://collantes.us/2017/03/05/a-few-technical-changes/</link>
+      <pubDate>Sun, 05 Mar 2017 19:28:16 -0500</pubDate>
+      
+      <guid>https://collantes.us/2017/03/05/a-few-technical-changes/</guid>
+      <description>A few things have happened on my current server setup. The biggest one was my move from FreeBSD to Ubuntu. I do not have complains about FreeBSD &amp;mdash; how could I? &amp;mdash; but I wanted to play with more recent stuff, and it was becoming very hard to do under BSD. I also wanted a refresh, since I had been running that VPS for a while and it was starting to feel &amp;ldquo;dirty.</description>
+    </item>
+    
+    <item>
+      <title>Fake Email Clients</title>
+      <link>https://collantes.us/2017/02/11/fake-email-clients/</link>
+      <pubDate>Sat, 11 Feb 2017 21:06:15 -0500</pubDate>
+      
+      <guid>https://collantes.us/2017/02/11/fake-email-clients/</guid>
+      <description>For a few (years?) now, there has been an increase of so called email clients that are not so. I am talking about the &amp;ldquo;value added email clients&amp;rdquo; that require a third party server/service to work. Within that category there is Nylas, Polymail, and Sparkmail, to mention a few. Although they bring an array of features not normally found on an email client, they are worthless if the third party company server(s) goes down, or have problems.</description>
+    </item>
+    
+    <item>
+      <title>Warming up to Emoji</title>
+      <link>https://collantes.us/2017/01/08/warming-up-to-emoji/</link>
+      <pubDate>Sun, 08 Jan 2017 19:39:17 +0000</pubDate>
+      
+      <guid>https://collantes.us/2017/01/08/warming-up-to-emoji/</guid>
+      <description>No long ago I wrote that I loathed Emoji. My main grumble was their usage abuse, and, especially, the overuse of &amp;ldquo;smilies.&amp;rdquo;
+Since Apple&amp;rsquo;s iOS 10, I have been warming up to them, but it wasn&amp;rsquo;t until I came across Mu-An that they really started to captivate me. She uses them, sparingly, but with such taste! A few of her repositories exclusively deal with Emoji as well. Thus, this post is to correct myself: I don&amp;rsquo;t loathe Emoji.</description>
+    </item>
+    
+    <item>
+      <title>A Dangerous Precedent</title>
+      <link>https://collantes.us/2016/02/17/a-dangerous-precedent/</link>
+      <pubDate>Wed, 17 Feb 2016 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2016/02/17/a-dangerous-precedent/</guid>
+      <description>The United States government demanded that Apple weakens the security on iOS. Tim Cook, Apple&amp;rsquo;s CEO, replied.
+ Rather than asking for legislative action through Congress, the FBI is proposing an unprecedented use of the All Writs Act of 1789 to justify an expansion of its authority.
+The government would have us remove security features and add new capabilities to the operating system, allowing a passcode to be input electronically. This would make it easier to unlock an iPhone by “brute force,” trying thousands or millions of combinations with the speed of a modern computer.</description>
+    </item>
+    
+    <item>
+      <title>Amazon Cloud Drive Feedback</title>
+      <link>https://collantes.us/2015/11/12/amazon-cloud-drive-feedback/</link>
+      <pubDate>Thu, 12 Nov 2015 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2015/11/12/amazon-cloud-drive-feedback/</guid>
+      <description>This is not merely a technical problem, but I did not have the choice for multiple selections. Anytime I use the word &amp;ldquo;you&amp;rdquo; down below, I mean Amazon.
+First the good. I love you, I have used AWS S3 for a long time, no complains. I do much of my online purchases on you, although I am not a fervent shopper. I rent my movies on Amazon Video. I am signed up for Flex.</description>
+    </item>
+    
+    <item>
+      <title>Apple on Encryption</title>
+      <link>https://collantes.us/2015/10/21/apple-on-encryption/</link>
+      <pubDate>Wed, 21 Oct 2015 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2015/10/21/apple-on-encryption/</guid>
+      <description>Apple mobile devices&amp;mdash;iPhones, iPads, iPods&amp;mdash;are used everywhere. The US smartphone subscriber market share highest percentage is dominated by them. As an American company, they are bound to comply with U.S. laws and regulations. So, when the U.S. Justice Department requested that Apple grants access to a locked iPhone, Apple brought the case to court.
+ Apple Inc told a U.S. judge that accessing data stored on a locked iPhone would be &amp;ldquo;impossible&amp;rdquo; with devices using its latest operating system, but the company has the &amp;ldquo;technical ability&amp;rdquo; to help law enforcement unlock older phones.</description>
+    </item>
+    
+    <item>
+      <title>Walking and using the Phone</title>
+      <link>https://collantes.us/2015/10/21/walking-and-using-the-phone/</link>
+      <pubDate>Wed, 21 Oct 2015 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2015/10/21/walking-and-using-the-phone/</guid>
+      <description>Walking around with your head stuck on the phone is like playing the chicken game. The fully aware pedestrian walking in your opposite direction&amp;mdash;and on the same path&amp;mdash;is forced to play the game. Not as dangerous as driving but still very annoying. When you walk, please pay attention, look where you are walking, and leave the phone in your pocket.</description>
+    </item>
+    
+    <item>
+      <title>Backing up and Restoring GPG Keys</title>
+      <link>https://collantes.us/2015/10/13/backing-up-and-restoring-gpg-keys/</link>
+      <pubDate>Tue, 13 Oct 2015 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2015/10/13/backing-up-and-restoring-gpg-keys/</guid>
+      <description>If you use GPG to occasionally encrypt and/or sign your email, or to encrypt your files before placing them on the cloud, you will understand how important it is to have a backup of your GPG keys. Similarly important will be to know how to restore them as well.
+Backing up your keys and configuration files To back your private, and public keys, as well as your trust database, you will do1:</description>
+    </item>
+    
+    <item>
+      <title>Glowforge</title>
+      <link>https://collantes.us/2015/09/24/glowforge/</link>
+      <pubDate>Thu, 24 Sep 2015 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2015/09/24/glowforge/</guid>
+      <description> We all need this. Watch the video and tell me if you do not feel amazed. It is pricey, but oh the fun one could have with one of those!
+ Glowforge is a wireless 3D laser printer that fits on your desktop, works with your favorite design programs, and stores your designs &amp;amp; data on a cloud.
+&amp;mdash; What is Glowforge?
+ </description>
+    </item>
+    
+    <item>
+      <title>Autumnal Equinox</title>
+      <link>https://collantes.us/2015/09/23/autumnal-equinox/</link>
+      <pubDate>Wed, 23 Sep 2015 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2015/09/23/autumnal-equinox/</guid>
+      <description>Today marks the beginning of one of my two favorite seasons, Autumn&amp;mdash;or Fall, as it is commonly called in the United States. Living in Florida makes the season a very, very mild one, with temperatures still quite high (it will be 90&amp;deg;F today), yet it brings the solid certainty that summer is being left behind.
+Join me on celebrating the Autumnal Equinox today, at 04:21 US Eastern time, which is 08:21 UTC.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Visual Studio Code</title>
+      <link>https://collantes.us/2015/09/19/microsoft-studio-code/</link>
+      <pubDate>Sat, 19 Sep 2015 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2015/09/19/microsoft-studio-code/</guid>
+      <description>Microsoft launched its free (non open source), cross-platform, code editor early this year (April, 2015), at its Build Developer Conference.
+I have been tempted to try it, as I read its file comparison is very nice, its intelliSense, and it&amp;rsquo;s based on the same platform as Atom, which I happen to love. Today was the day, but as you can see, it is a non-signed OS X application. Microsoft is big enough, and rich enough to afford signing their OS X applications, but they chose not to.</description>
+    </item>
+    
+    <item>
+      <title>I Loathe Emoji</title>
+      <link>https://collantes.us/2015/09/18/i-loathe-emoji/</link>
+      <pubDate>Fri, 18 Sep 2015 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2015/09/18/i-loathe-emoji/</guid>
+      <description>I despise Emoji and emoticons, specially graphical emoji, or people who continuously abuse them, and interject them in every single sentence they type, sometimes even more than once. I thought that I hated &amp;ldquo;LOL,&amp;rdquo; which I do, but I would rather see LOL &amp;mdash; when justified, not the moronic &amp;ldquo;LOL&amp;rdquo; without reason you see often &amp;mdash; than see the utter idiotic smiles, winks, etc., continuously, all the time. &amp;ldquo;I am an elitist asshole, but here, have an Emoji!</description>
+    </item>
+    
+    <item>
+      <title>About the removal of Garbage Apps</title>
+      <link>https://collantes.us/2015/09/15/about-the-removal-of-garbage-apps/</link>
+      <pubDate>Tue, 15 Sep 2015 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2015/09/15/about-the-removal-of-garbage-apps/</guid>
+      <description>Tim Cook answered a few questions for BuzzFeed, while they talked about things iPhone, iPad Pro, and many other Apple&amp;ndash;related things. This part got close to me, as I am sure it might be to anyone who likes iPhones. Why can&amp;rsquo;t we remove certain apps?
+ Why are there apps on the iOS that I can’t delete even though I never use them? Why does Apple insist that I keep Tips and Stocks”on my iPhone when I’d like nothing more than to delete them?</description>
+    </item>
+    
+    <item>
+      <title>Jekyll and Git</title>
+      <link>https://collantes.us/2015/08/29/jekyll-and-git/</link>
+      <pubDate>Sat, 29 Aug 2015 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2015/08/29/jekyll-and-git/</guid>
+      <description>I have been using Jekyll for a while now, but all this time I have been generating it on the server, That is, I had had a directory on the server holding the Jekyll files, in which I would run jekyll build to generate the website. Not too streamlined.
+Before hosting this weblog on Vultr, I had it on GitHub, and their Pages would do the publishing for me, right after a commit, which was great.</description>
+    </item>
+    
+    <item>
+      <title>Using Atom</title>
+      <link>https://collantes.us/2015/08/29/using-atom/</link>
+      <pubDate>Sat, 29 Aug 2015 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2015/08/29/using-atom/</guid>
+      <description>I have used many editors in the past, either under Windows or OS X. Too many, I have really lost the count. The last one I used was Sublime Text. Great editor, cross platform too, but pricey. Each time I would get the nag, I would feel guilty for not buying me a licensed copy.
+I tried Atom when it first came out. It was buggy and slow, really, really slow.</description>
+    </item>
+    
+    <item>
+      <title>Gmail.app on iOS</title>
+      <link>https://collantes.us/2015/05/16/gmail-app-on-ios/</link>
+      <pubDate>Sat, 16 May 2015 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2015/05/16/gmail-app-on-ios/</guid>
+      <description>I like Google and its services. Like is too little, I love them! Their mobile applications on the other hand &amp;mdash; specifically those running under iOS &amp;mdash; are horrible. The UIX is confusing and it does not follows Apple UIX design. Their choice of font is of poor taste and, again, does not match the rest of the OS. They lack of functionality and/or their functionality is limited by poor choices and, what is seems to be, a lack of common sense.</description>
+    </item>
+    
+    <item>
+      <title>iCloud mess</title>
+      <link>https://collantes.us/2015/05/02/icloud-mess/</link>
+      <pubDate>Sat, 02 May 2015 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2015/05/02/icloud-mess/</guid>
+      <description>Having lost many photos of certain sentimental value a few years ago has made me paranoid. Ever since I lost my child&amp;rsquo;s first four years of photographic memory I have kept copies of our family photos and videos in two different places. I keep a copy of photos and videos in our Synology NAS at home, which backup photos to Amazon S3 and videos to Glacier.
+When Apple announced their iCloud plans, and the ability to keep my entire photo library on the cloud, I was one of the first to sign up.</description>
+    </item>
+    
+    <item>
+      <title>iCloud Drive on standby</title>
+      <link>https://collantes.us/2014/11/13/icloud-drive-on-standby/</link>
+      <pubDate>Thu, 13 Nov 2014 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2014/11/13/icloud-drive-on-standby/</guid>
+      <description>When Apple announced the iCloud Drive integration in Yosemite, I got really excited. As I was already part of the &amp;ldquo;Apple ecosystem&amp;rdquo; (iPhone, iPad, iMac), the iCloud Drive availability in all, specially on the desktop, seemed like the culmination of all my dreams: a Cloud to rule them all. I ordered the 200 GB for $4 a month right away.
+As it turns out with products in infancy, the iCloud Drive is no yet mature.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft and Global Cybercrime</title>
+      <link>https://collantes.us/2014/07/01/microsoft-and-global-cybercrime/</link>
+      <pubDate>Tue, 01 Jul 2014 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2014/07/01/microsoft-and-global-cybercrime/</guid>
+      <description>From The Official Microsoft Blog:
+ On June 19, Microsoft filed for an ex parte temporary restraining order (TRO) from the U.S. District Court for Nevada against No-IP. On June 26, the court granted our request and made Microsoft the DNS authority for the company’s 23 free No-IP domains, allowing us to identify and route all known bad traffic to the Microsoft sinkhole and classify the identified threats.
+ Microsoft granted rights to take control of another business&amp;rsquo; DNS, to &amp;ldquo;identify and route&amp;rdquo; bad traffic?</description>
+    </item>
+    
+    <item>
+      <title>Moved to a Droplet</title>
+      <link>https://collantes.us/2014/06/29/moved-to-a-droplet/</link>
+      <pubDate>Sun, 29 Jun 2014 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2014/06/29/moved-to-a-droplet/</guid>
+      <description>Having wished for a while to run this little site on SSL &amp;mdash;as well as having the freedom to do more things&amp;mdash; which GitHub does not allow, I have finally decided to move to a virtual server of my own. At $5 a month per droplet, DigitalOcean was the provider of choice.
+DigitalOcean droplets web interface is very clean, simple, responsive and functional. Spawning the server took 54 seconds, and configuring nginx took 15 minutes, SSL included.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Backup</title>
+      <link>https://collantes.us/2014/06/28/cloud-backup/</link>
+      <pubDate>Sat, 28 Jun 2014 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2014/06/28/cloud-backup/</guid>
+      <description>I have a NAS at home, a Synology DS411J, which we use for backups, and to keep our family photos and videos. It works great, no complains here, but I am looking to keep an outside backup. A backup in the cloud, to be precise.
+The choices are:
+ Amazon Drive Amazon AWS S3 Google Drive Apple iCloud DropBox Microsoft OneDrive Any other?  I used to have Arqbackup, but it became unreliable, and I never liked the way it stored the files on AWS.</description>
+    </item>
+    
+    <item>
+      <title>T-Mobile and the iPad</title>
+      <link>https://collantes.us/2013/12/24/tmobile-and-the-ipad/</link>
+      <pubDate>Tue, 24 Dec 2013 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2013/12/24/tmobile-and-the-ipad/</guid>
+      <description>I am not sure about the other mobile telephony providers, but this morning I went to T-Mobile with the intention of buying an iPad mini. They had only the dark colour in stock, and on 32GB capacity &amp;ndash; I was wanting a 16GB. The transaction was almost finished, when I was asked for a telephone number. After stating that I just wanted the iPad, no connection, I was told they could only sell it, if it was with a mobile data plan.</description>
+    </item>
+    
+    <item>
+      <title>Hello World, or Hello Again!</title>
+      <link>https://collantes.us/2013/12/21/hello-world/</link>
+      <pubDate>Sat, 21 Dec 2013 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2013/12/21/hello-world/</guid>
+      <description>This is the first post. It seems I have started writing occasionally again. I still conserve the old posts, from the previous weblog. Not sure many of them were worth of keeping, but I might browse through them and pick one or two to bring back here.
+This time I will keep this simple. Well, as simple as a person with slight OCD can keep it. I promise, I think. This little site is generated by Jekyll and hosted on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Create files on GitHub</title>
+      <link>https://collantes.us/2012/12/05/files-on-github/</link>
+      <pubDate>Wed, 05 Dec 2012 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2012/12/05/files-on-github/</guid>
+      <description>There is a new feautre on GitHub, and this one allows you to create files directly from the web interface. This is very handy, for those of us running Jekyll.
+This is my first test of the feature, I had to try it right away. Only wishing now to have a friendlier Markdown/kramdown editor. But it&amp;rsquo;s a start. I like it!</description>
+    </item>
+    
+    <item>
+      <title>Sprint crookery</title>
+      <link>https://collantes.us/2012/11/19/sprint-crookery/</link>
+      <pubDate>Mon, 19 Nov 2012 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2012/11/19/sprint-crookery/</guid>
+      <description>I am not happy with Sprint, I think it is a bad company. That, of course, is my opinion.
+I left them and took the hit of the early termination fee (ETF) because their service in my area was, and is, not usable. Even though I had documented the many times I called for not having reception, not able to make calls, and their “unlimited” data plan been unusable, I paid the ETF and decided to move on.</description>
+    </item>
+    
+    <item>
+      <title>On AWS S3</title>
+      <link>https://collantes.us/2012/01/28/on-aws-s3/</link>
+      <pubDate>Sat, 28 Jan 2012 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2012/01/28/on-aws-s3/</guid>
+      <description>I have moved from Linode (which I will be canceling soon) to Namecheap DNS management (I have all my domains on Namecheap) and Amazon S3. Transition went well, and painless. It should save me some money.
+Nothing wrong with Linode, which I recommend to anyone looking to having their own Virtual Server. Their service rock, and their price is hard to beat. I used their services for a year and totally loved it.</description>
+    </item>
+    
+    <item>
+      <title>C.E.O. no longer, good bye Steve!</title>
+      <link>https://collantes.us/2011/08/24/ceo-no-longer/</link>
+      <pubDate>Wed, 24 Aug 2011 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2011/08/24/ceo-no-longer/</guid>
+      <description>Steve Jobs &amp;ldquo;resigns&amp;rdquo; as Apple&amp;rsquo;s C.E.O.
+ &amp;ldquo;I have always said if there ever came a day when I could no longer meet my duties and expectations as Apple’s C.E.O., I would be the first to let you know,&amp;rdquo; Mr. Jobs wrote. &amp;ldquo;Unfortunately, that day has come.&amp;rdquo;
+ The world needs more Steve Jobs. He will be missed. Get better Steve!</description>
+    </item>
+    
+    <item>
+      <title>Find what you love</title>
+      <link>https://collantes.us/2011/04/11/find-what-you-love/</link>
+      <pubDate>Mon, 11 Apr 2011 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2011/04/11/find-what-you-love/</guid>
+      <description>Steve Jobs commencement address at Stanford University, in 2005:
+ Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life. Because almost everything — all external expectations, all pride, all fear of embarrassment or failure — these things just fall away in the face of death, leaving only what is truly important. Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</description>
+    </item>
+    
+    <item>
+      <title>Many changes coming soon</title>
+      <link>https://collantes.us/2011/04/01/many-changes/</link>
+      <pubDate>Fri, 01 Apr 2011 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2011/04/01/many-changes/</guid>
+      <description>Just very recently I wrote about me moving to Jekyll from WordPress:
+ After much thought, and tinkering, I decided to ditch my six year old or so WordPress and start blogging like a hacker with the awesome Jekyll.
+ I also wrote —fairly recently— about living on a Linode:
+ Moved to Linode. Love it, highly recommend it. They reward customers that bring referrals, but notice my links do not have any referral code.</description>
+    </item>
+    
+    <item>
+      <title>Route 53, wish I could have used you</title>
+      <link>https://collantes.us/2011/02/24/almost-at-route53-and-s3/</link>
+      <pubDate>Thu, 24 Feb 2011 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2011/02/24/almost-at-route53-and-s3/</guid>
+      <description>Ever since Amazon announced it&amp;rsquo;s Route 53 service I have been dreaming on using it, but since I dislike to have services too spread out (got Google Apps and Linode now), I held up. Two days ago or so, Amazon announced new features that make hosting static websites&amp;mdash;such as this one&amp;mdash;on AWS S3 buckets possible. This was it, just what I have been waiting for!
+Promptly I set off to migrate one of my domains over Route 53.</description>
+    </item>
+    
+    <item>
+      <title>Forget Hyde, moved to Jekyll!</title>
+      <link>https://collantes.us/2011/02/03/forget-hyde-get-jekyll/</link>
+      <pubDate>Thu, 03 Feb 2011 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2011/02/03/forget-hyde-get-jekyll/</guid>
+      <description>After much thought, and tinkering, I decided to ditch my six year old or so WordPress and start blogging like a hacker with the awesome Jekyll.
+I am still getting a few things in place, like making sure all entries are properly converted to markdown, but overall I am liking this. A lot. I do not longer need MySQL, nor PHP. It is a no sweat setup! Some might say, back to basics.</description>
+    </item>
+    
+    <item>
+      <title>Living on a Linode</title>
+      <link>https://collantes.us/2011/01/14/living-on-a-linode/</link>
+      <pubDate>Fri, 14 Jan 2011 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2011/01/14/living-on-a-linode/</guid>
+      <description>TL;DR.
+Moved to Linode. Love it, highly recommend it. They reward customers that bring referrals, but notice my links do not have any referral code. That much I like their product.
+All my domains have resided on a ServerBeach dedicated server for over six years now. I have tried to find something else before (cheaper, price wise), but I always stayed on ServerBeach, as they have always been reliable, with fast connections.</description>
+    </item>
+    
+    <item>
+      <title>The Unthinkable</title>
+      <link>https://collantes.us/2010/06/25/the-unthinkable/</link>
+      <pubDate>Fri, 25 Jun 2010 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2010/06/25/the-unthinkable/</guid>
+      <description>Yesterday I did the unthinkable. Something I have never done &amp;mdash; nor will I do again &amp;mdash; before. I went very early (03:15) to stand at the Millenia all, to be one of the first (or so I thought) to buy the iPhone 4.
+I don&amp;rsquo;t want to write long about something I am more than half way ashamed of. Suffice it to say that I got an iPhone 4 after standing in line for 14 hours (17:15).</description>
+    </item>
+    
+    <item>
+      <title>Drobo FW800</title>
+      <link>https://collantes.us/2010/05/17/drobo-fw800/</link>
+      <pubDate>Mon, 17 May 2010 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2010/05/17/drobo-fw800/</guid>
+      <description>A Drobo FW800 (four bays) is all I want for Christmas. I will settle for one without drives, just the enclosure. I will buy the drives later. Slowly. One at a time.
+Please Santa. I know Christmas is far away, I am just giving you time. The device will be used mainly for family photos and videos. It is a good use, for a good device. Could you&amp;hellip; make it so?</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s decided</title>
+      <link>https://collantes.us/2010/05/05/its-decided/</link>
+      <pubDate>Wed, 05 May 2010 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2010/05/05/its-decided/</guid>
+      <description>It&amp;rsquo;s decided, my next machine will be an Apple computer. Most likely I will end up buying a Mac Mini, although an iMac is also being considered. Now, who wants a (still under warranty) DELL XPS 630i? It is a Q6600 (quad), with 4GB RAM, 500GB HD, and NVIDIA 9800GT. Comes with Windows 7 Ultimate. Nice machine!
+Note: Someone contacted me, but the email went to spam, and got deleted. Try again please, I have whitelisted the contact form address.</description>
+    </item>
+    
+    <item>
+      <title>Bright House saga</title>
+      <link>https://collantes.us/2010/05/02/bright-house-saga/</link>
+      <pubDate>Sun, 02 May 2010 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2010/05/02/bright-house-saga/</guid>
+      <description>In two occasions I have written about Bright House service, or the lack of. Ever since my last entry, many issues aroused, but I never came here to document them.
+What where those issues? They vary, and cover a wide range. So many Bright House technicians has passed by my house, I lost count. The proverbial &amp;ldquo;how many technicians do Bright House needs&amp;hellip;&amp;rdquo; comes to mind. Issues:
+ Black out screens, with &amp;ldquo;Please wait.</description>
+    </item>
+    
+    <item>
+      <title>Video quality while on 3G</title>
+      <link>https://collantes.us/2010/05/01/video-quality-while-on-3g/</link>
+      <pubDate>Sat, 01 May 2010 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2010/05/01/video-quality-while-on-3g/</guid>
+      <description>The same day I got the iPad 3G, I noticed a very contrasting video quality while using Wi-Fi and while using 3G. Videos watched on Youtube would have HD quality (Wi-Fi); same videos, while on 3G, would show horribly. Yet, videos on Apple, while on 3G or Wi-Fi, would show perfectly. All that whether using the app or the web browser, tested both.
+Is it Youtube serving a very low quality video to 3G users?</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on Flash</title>
+      <link>https://collantes.us/2010/04/29/thoughts-on-flash/</link>
+      <pubDate>Thu, 29 Apr 2010 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2010/04/29/thoughts-on-flash/</guid>
+      <description>Steve Jobs shared with us this month his thoughts on Flash:
+ &amp;ldquo;Flash was created during the PC era &amp;mdash;for PCs and mice. Flash is a successful business for Adobe, and we can understand why they want to push it beyond PCs. But the mobile era is about low power devices, touch interfaces and open web standards &amp;mdash;all areas where Flash falls short.
+The avalanche of media outlets offering their content for Apple’s mobile devices demonstrates that Flash is no longer necessary to watch video or consume any kind of web content.</description>
+    </item>
+    
+    <item>
+      <title>iPad 3G status</title>
+      <link>https://collantes.us/2010/04/29/ipad-3g-status/</link>
+      <pubDate>Thu, 29 Apr 2010 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2010/04/29/ipad-3g-status/</guid>
+      <description>It seems that it will be here tomorrow before, or around 3:00PM after all. Just when I was starting to lose my faith&amp;hellip; So happy!</description>
+    </item>
+    
+    <item>
+      <title>Paradox of the Active User</title>
+      <link>https://collantes.us/2010/04/26/paradox-of-the-active-user/</link>
+      <pubDate>Mon, 26 Apr 2010 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2010/04/26/paradox-of-the-active-user/</guid>
+      <description>The &amp;ldquo;paradox of the active user&amp;rdquo; is a concept introduced by John M. Carroll and Mary Beth Rosson (then at IBM, now at Penn State) to explain a common observation in several user studies done at the IBM User Interface Institute in the early 1980s (later confirmed by many other studies, including my own): Users never read manuals but start using the software immediately. They are motivated to get started and to get their immediate task done: they don&amp;rsquo;t care about the system as such and don&amp;rsquo;t want to spend time up front on getting established, set up, or going through learning packages.</description>
+    </item>
+    
+    <item>
+      <title>The wheels of justice</title>
+      <link>https://collantes.us/2010/04/26/the-wheels-of-justice/</link>
+      <pubDate>Mon, 26 Apr 2010 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2010/04/26/the-wheels-of-justice/</guid>
+      <description>I thought twice before coming here and write two or three sentences. But sometimes two or three sentences is all you have. I had to do it: Apple Inc., you rock!
+If you want to be a &amp;ldquo;journalist&amp;rdquo;, act as one. As Powazek wrote in a tweet, &amp;ldquo;Real journalists don&amp;rsquo;t buy stolen property.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Host hunting</title>
+      <link>https://collantes.us/2009/11/24/host-hunting/</link>
+      <pubDate>Tue, 24 Nov 2009 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2009/11/24/host-hunting/</guid>
+      <description>I had had all my websites &amp;mdash;this one, and many other test ones, etc&amp;mdash;, plus my self-managed DNS on ServerBeach (now part of Peer1) for a very long time. They all reside on a dedicated server, which has, sadly, reached it&amp;rsquo;s end of life (EOL).
+Although I can keep it as it is, doing so represents a liability problem, as I will be out of luck, should it decide to fail.</description>
+    </item>
+    
+    <item>
+      <title>Bookmarklets I use</title>
+      <link>https://collantes.us/2009/11/07/bookmarklets-i-use/</link>
+      <pubDate>Sat, 07 Nov 2009 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2009/11/07/bookmarklets-i-use/</guid>
+      <description>These are some of the general bookmarklets I use. I have them synchronized with Chrome and Google Docs, but I am listing them here in case I want to share them with someone else, like you (yes, you there, reading this now). Here there go:  Tweet it! Translate to English Google Dictionary Get Youtube MP4 Record your screen URL to QR Code Selection to QR Code  More will be added as I find the need for something else.</description>
+    </item>
+    
+    <item>
+      <title>Use Google Checkout</title>
+      <link>https://collantes.us/2009/11/01/use-google-checkout/</link>
+      <pubDate>Sun, 01 Nov 2009 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2009/11/01/use-google-checkout/</guid>
+      <description>I was going to write a longer note on Paypal and eBay, but after some time to cool down I do not think it is worth it. Instead I am going to recommend, wholeheartedly, the use of Google Checkout for all your payments and shopping needs. Really, once again Google did not let me down and transformed an otherwise nightmare into a pleasant auctioning/shopping dream.
+If you must use eBay, find a way to use Google Checkout with it.</description>
+    </item>
+    
+    <item>
+      <title>The Hero</title>
+      <link>https://collantes.us/2009/10/22/the-hero/</link>
+      <pubDate>Thu, 22 Oct 2009 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2009/10/22/the-hero/</guid>
+      <description>I am in love with the HTC Hero. I do not have one&amp;hellip; yet, still, when thinking on a mobile device I would love to have, the Hero is what comes to mind. And what better song to keep my hopes alive than &amp;ldquo;Holding out for a Hero&amp;rdquo;, by Bonnie Tyler? So, here it goes!
+Edited: Song removed. Did not wanted to get sued for hosting a sound track which copyright might forbid wide audience availability.</description>
+    </item>
+    
+    <item>
+      <title>Bright House Follow Up</title>
+      <link>https://collantes.us/2009/10/09/bright-house-follow-up/</link>
+      <pubDate>Fri, 09 Oct 2009 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2009/10/09/bright-house-follow-up/</guid>
+      <description>You will remember my previous Bright House post. The same day I wrote that, I got a call from a Bright House customer service representative. Since there is no need to know names, let&amp;rsquo;s call her Christine. I like that name.
+Christine told me Bright House was aware I had publicly written about my displeasure with their services, and that her job was to make sure I was completely satisfied. Fair enough.</description>
+    </item>
+    
+    <item>
+      <title>Avoid Bright House if You Can</title>
+      <link>https://collantes.us/2009/10/05/avoid-brighthouse/</link>
+      <pubDate>Mon, 05 Oct 2009 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2009/10/05/avoid-brighthouse/</guid>
+      <description>I live in Central Florida. In my area, if I want cable TV and Internet, I have no choice but to use Bright House services. The competition is satellite TV/Internet and/or DSL (for Internet). Why am I recommending to avoid Bright House, if you can? It is simple: their service is far from being of a good quality and/or reliable. I will elaborate a little.
+On cable TV, you get black screens (no video or audio), or &amp;ldquo;Please wait&amp;rdquo; screens, constantly and randomly.</description>
+    </item>
+    
+    <item>
+      <title>Another Facebook rant</title>
+      <link>https://collantes.us/2009/09/28/another-facebook-rant/</link>
+      <pubDate>Mon, 28 Sep 2009 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2009/09/28/another-facebook-rant/</guid>
+      <description>This one will be short, Twitter style&amp;hellip; almost. A while ago I wrote about how Facebook has cached my OpenID credentials (wrong ones) and it was refusing to clear them after a few days. Well, twenty five (that is 25) days after, Facebook is still insisting on going to the wrong place, when I enter /bits/ as my OpenID on my &amp;ldquo;Settings &amp;rarr; Account Settings &amp;rarr; Linked Accounts &amp;rarr; OpenID&amp;hellip;&amp;ldquo;.</description>
+    </item>
+    
+    <item>
+      <title>IP migration</title>
+      <link>https://collantes.us/2009/09/09/ip-migration/</link>
+      <pubDate>Wed, 09 Sep 2009 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2009/09/09/ip-migration/</guid>
+      <description>I have a deadline to meet. I must migrate all my servers, and clients to a private IP space. Servers must be done &amp;mdash; if at all possible &amp;mdash; by September 30th. Clients by October 30th. That is, this year. Problem is, I have never done anything close to it, and there are so many things that need to be done at once, I don&amp;rsquo;t know where to start.
+I have a Linux DNS/DHCP to change (Internet facing one).</description>
+    </item>
+    
+    <item>
+      <title>Facebook and OpenID caching</title>
+      <link>https://collantes.us/2009/09/04/facebook-and-openid-caching/</link>
+      <pubDate>Fri, 04 Sep 2009 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2009/09/04/facebook-and-openid-caching/</guid>
+      <description>When I first read that Facebook was going to allow OpenID logins, I was happy. OpenID means less usernames and passwords to remember. So I merrily went to setup mine, just to find out that their support was exclusively for OpenID version 2.0, and my implementation was 1.1. No graceful fall back, Facebook demands OpenID 2.0. So I decided it was time for me to upgrade my implementation for one capable to handle 1.</description>
+    </item>
+    
+    <item>
+      <title>Safari 4 Beta</title>
+      <link>https://collantes.us/2009/02/24/safari-4-beta/</link>
+      <pubDate>Tue, 24 Feb 2009 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2009/02/24/safari-4-beta/</guid>
+      <description>Safari 4 Beta is out and it is rocking. Apple has adopted (copied) quite a bit from Chrome interface and I have to say the browser looks and behaves awesomely under Windows 7.
+But, why bore you with senseless praise? Go download it, and see it for yourself.</description>
+    </item>
+    
+    <item>
+      <title>NETBROS.COM for sale</title>
+      <link>https://collantes.us/2008/12/02/netbros-com-for-sale/</link>
+      <pubDate>Tue, 02 Dec 2008 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2008/12/02/netbros-com-for-sale/</guid>
+      <description>Yes, I am selling this domain, which I have have since, well, I already lost count. If you are interested on buying this domain, please contact me. I would rather sell it directly than going through a broker.</description>
+    </item>
+    
+    <item>
+      <title>MCITP - Enterprise Server Administrator</title>
+      <link>https://collantes.us/2008/08/10/mcitp-enterprise-server-administrator/</link>
+      <pubDate>Sun, 10 Aug 2008 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2008/08/10/mcitp-enterprise-server-administrator/</guid>
+      <description>The last two weeks were very busy ones. I went through a Boot Camp and obtained the Microsoft Certified Information Technology Professional certification, as an Enterprise Server 2008 Administrator. Much more to do with the product, but migration is on my close horizon.
+As a side note, and totally unrelated, I will change the way this weblog look soon. I will probably start over as well, all the old content gone.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft DRM server going offline</title>
+      <link>https://collantes.us/2008/05/06/ms-drm-server-going-offline/</link>
+      <pubDate>Tue, 06 May 2008 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2008/05/06/ms-drm-server-going-offline/</guid>
+      <description>Rob Bennett, head of MSN Entertainment and Video Services, wrote to customers in an email:
+ As of August 31, 2008, we will no longer be able to support the retrieval of license keys for the songs you purchased from MSN Music or the authorization of additional computers. You will need to obtain a license key for each of your songs downloaded from MSN Music on any new computer, and you must do so before August 31, 2008.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Hardy Heron Released</title>
+      <link>https://collantes.us/2008/04/24/ubuntu-hardy-heron-released/</link>
+      <pubDate>Thu, 24 Apr 2008 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2008/04/24/ubuntu-hardy-heron-released/</guid>
+      <description>503 Service Temporarily Unavailable
+Service Temporarily Unavailable The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later. Apache/2.2.8 (Ubuntu) Server at www.ubuntu.com Port 80  Duh! (Homer Simpson style)</description>
+    </item>
+    
+    <item>
+      <title>Linuxers for Obama</title>
+      <link>https://collantes.us/2008/04/21/linuxers-for-obama/</link>
+      <pubDate>Mon, 21 Apr 2008 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2008/04/21/linuxers-for-obama/</guid>
+      <description>Linuxers for Obama &amp;ndash; LinuxersForObama is a campaign for all Free and Open Source Software advocates to contribute to the Obama campaign. Sorry for the shorthand &amp;ldquo;LinuxForObama&amp;rdquo;, I know it should have been &amp;ldquo;FLOSSGNUX11BSDApacheMySQLForObama&amp;rdquo;, but I went for short and simple.
+Hopefully team LinuxForObama can do some nice fund raising for Obama and we can settle once and for all the argument about which operating system is the best.</description>
+    </item>
+    
+    <item>
+      <title>Within ten days!</title>
+      <link>https://collantes.us/2008/02/07/within-ten-days/</link>
+      <pubDate>Thu, 07 Feb 2008 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2008/02/07/within-ten-days/</guid>
+      <description>Thank you for submitting your registration to Microsoft Heroes Happen Here: 2008 Launch Events.
+You can print this page for your records using the &amp;ldquo;Print&amp;rdquo; button at right. Please expect to receive a confirmation email from [long email] within ten business days.
+ The key words here are &amp;ldquo;within ten business days&amp;rdquo;. Ten &amp;ldquo;business&amp;rdquo; days. A confirmation email! Do you find that as crazy as I do? What in the world!</description>
+    </item>
+    
+    <item>
+      <title>Yahoo! and the future of the Internet</title>
+      <link>https://collantes.us/2008/02/04/yahoo-and-the-future-of-the-internet/</link>
+      <pubDate>Mon, 04 Feb 2008 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2008/02/04/yahoo-and-the-future-of-the-internet/</guid>
+      <description>Official Google Blog: Yahoo! and the future of the Internet
+ Could the acquisition of Yahoo! allow Microsoft &amp;ndash; despite its legacy of serious legal and regulatory offenses &amp;ndash; to extend unfair practices from browsers and operating systems to the Internet? In addition, Microsoft plus Yahoo! equals an overwhelming share of instant messaging and web email accounts. And between them, the two companies operate the two most heavily trafficked portals on the Internet.</description>
+    </item>
+    
+    <item>
+      <title>Lets us make sure</title>
+      <link>https://collantes.us/2007/12/28/lets-make-sure/</link>
+      <pubDate>Fri, 28 Dec 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/12/28/lets-make-sure/</guid>
+      <description>Comes v. Microsoft &amp;ndash; Plaintiff&amp;rsquo;s Exhibit 2991 &amp;ndash; (PDF)
+  From: Bill Gates Sent: Saturday, December 05, 1998 9:44 AM To: Bob Muglia; Jon DeVaan; Steven Sinofsky Cc: Paul Maritz Subject: Office rendering  One thing we have got to change in our strategy - allowing Office documents to be rendered very well by other peoples browsers is one of the most destructive things we could do to the company.</description>
+    </item>
+    
+    <item>
+      <title>Want the darn thing?</title>
+      <link>https://collantes.us/2007/12/18/want-the-darn-thing/</link>
+      <pubDate>Tue, 18 Dec 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/12/18/want-the-darn-thing/</guid>
+      <description>Beta of XP update made public, A blog by Ina Fried, CNET News.com
+ Microsoft issued a release candidate version of XP SP3 in November and expanded its testing earlier this month, promising the public test version would come at some later date.
+For anyone who still wants to try the darn thing, Microsoft says, the beta should be up on Microsoft&amp;rsquo;s Web site later Tuesday and ready in final form in the first half of next year.</description>
+    </item>
+    
+    <item>
+      <title>Another Dell</title>
+      <link>https://collantes.us/2007/12/14/another-dell/</link>
+      <pubDate>Fri, 14 Dec 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/12/14/another-dell/</guid>
+      <description>Almost four years ago I bought our first Dell machine. And almost four year after, that machine died. Not a really long life.
+Since we need a computer, we acquired another Dell&amp;hellip; again. This time it is a refurbished Precision 390. For the first time ever, I haven&amp;rsquo;t rebuilt that machine yet. I am using Dell&amp;rsquo;s factory install, cleaned up a bit, to remove the extra junk. I am starting to doubt my choice of both: buying Dell again and not completely wiping out the system.</description>
+    </item>
+    
+    <item>
+      <title>Programmers != Antisocials</title>
+      <link>https://collantes.us/2007/12/14/programmers-antisocials/</link>
+      <pubDate>Fri, 14 Dec 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/12/14/programmers-antisocials/</guid>
+      <description>BBC NEWS: Business: Bill Gates: The skills you need to succeed
+ A lot of people assume that creating software is purely a solitary activity where you sit in an office with the door closed all day and write lots of code.
+This isn&amp;rsquo;t true at all.
+Software innovation, like almost every other kind of innovation, requires the ability to collaborate and share ideas with other people, and to sit down and talk with customers and get their feedback and understand their needs.</description>
+    </item>
+    
+    <item>
+      <title>SuperGenPass update</title>
+      <link>https://collantes.us/2007/12/07/supergenpass-update/</link>
+      <pubDate>Fri, 07 Dec 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/12/07/supergenpass-update/</guid>
+      <description>SuperGenPass: A Free Bookmarklet Password Generator
+Chris Zarate has updated his SuperGenPass bookmarlet, which now has it&amp;rsquo;s own dedicated domain. Version 1.1 comes with (from the website):  Moveable window: The SuperGenPass window can be moved by dragging the title bar. Smarter password capturing: When multiple master passwords are found, the conflict must be resolved by double-clicking the desired field. Smarter autopopulate: Autopopulate is on by default, but only for fields where the master password was found.</description>
+    </item>
+    
+    <item>
+      <title>What a load of crock!</title>
+      <link>https://collantes.us/2007/11/06/what-a-load-of-crock/</link>
+      <pubDate>Tue, 06 Nov 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/11/06/what-a-load-of-crock/</guid>
+      <description>If it weren&amp;rsquo;t enough that you have to go through airport hell every time you must take an airplane, some people is trying to cash in, and they are using terrorism to their advantage. Enter Clear card.
+From their CEO (read while playing patriotic music on the background, waving an American flag) :
+ &amp;ldquo;I started Verified Identity Pass with a simple idea: In the post 9-11 era we have to take new measures to protect ourselves yet not destroy our way of life by strangling the free flow of people and commerce.</description>
+    </item>
+    
+    <item>
+      <title>The slashes</title>
+      <link>https://collantes.us/2007/09/14/the-slashes/</link>
+      <pubDate>Fri, 14 Sep 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/09/14/the-slashes/</guid>
+      <description>Lots of people do not get it. Lots of businesses and governmental institutions do not get it. Yesterday my call to the Federal Reserve Complain line (I called to complain about them, and their delay on ACH transfers, but there was no option to complain about them, yet, many to complain about others) had it wrong too:
+The symbol &amp;ldquo;/&amp;rdquo; (without quotes, of course) is a &amp;ldquo;slash&amp;rdquo; or &amp;ldquo;stroke.&amp;rdquo; The symbol &amp;ldquo;\&amp;rdquo; is a &amp;ldquo;backslash&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Write Articles, Not Blog Postings</title>
+      <link>https://collantes.us/2007/07/17/write-articles-not-blog-postings/</link>
+      <pubDate>Tue, 17 Jul 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/07/17/write-articles-not-blog-postings/</guid>
+      <description>Write Articles, Not Blog Postings &amp;ndash; Jakob Nielsens Alertbox
+Boy, do I agree with Nielsen on this one. I have been guilty of many of the things he points out. That is why I am scribbling less lately. And it will be much less in the future. Totally dislike the &amp;ldquo;tumbler&amp;rdquo; generation. Junk.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft is a crying baby</title>
+      <link>https://collantes.us/2007/04/16/microsoft-is-a-crying-baby/</link>
+      <pubDate>Mon, 16 Apr 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/04/16/microsoft-is-a-crying-baby/</guid>
+      <description>What does Microsoft do when they don&amp;rsquo;t get it their way? They cry like babies, they snitch and they try to use their mu$cle to get things their way.
+ Microsoft Urges Review of Google-DoubleClick Deal &amp;ndash; Microsoft, a veteran defendant of epic antitrust battles in the United States and Europe, is urging regulators to consider scuttling Google&amp;rsquo;s plan to buy DoubleClick, an online advertising company.
+Microsoft contends that the $3.</description>
+    </item>
+    
+    <item>
+      <title>Vista, don&#39;t like it? Too bad!</title>
+      <link>https://collantes.us/2007/04/12/dont-want-vista-too-bad/</link>
+      <pubDate>Thu, 12 Apr 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/04/12/dont-want-vista-too-bad/</guid>
+      <description>It seems that for those individuals who do not build their own machines &amp;ndash;that is, assemble them&amp;ndash; there will be no choice when it comes to pick their OS.
+ Windows XP to be phased out by year&amp;rsquo;s end despite customer demand &amp;ndash; Computer makers have been told they&amp;rsquo;ll no longer be able to get Windows XP OEM by the end of this year, despite consumer resistance to Vista and its compatibility problems.</description>
+    </item>
+    
+    <item>
+      <title>iPhone is near, Leopard not so</title>
+      <link>https://collantes.us/2007/04/12/iphone-is-near-leopard-not-so/</link>
+      <pubDate>Thu, 12 Apr 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/04/12/iphone-is-near-leopard-not-so/</guid>
+      <description>For many Apple fans (me included) that were anxiously waiting for both products, this is a good and slight bad news. Good news, iPhone is on track and it will be delivered as promised. Slight bad news, we will have to wait a bit longer for the Big Cat to come out.
+ Apple - Hot News &amp;ndash; iPhone has already passed several of its required certification tests and is on schedule to ship in late June as planned.</description>
+    </item>
+    
+    <item>
+      <title>GoDaddy and MediaTemple</title>
+      <link>https://collantes.us/2007/04/07/godaddy-and-mediatemple/</link>
+      <pubDate>Sat, 07 Apr 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/04/07/godaddy-and-mediatemple/</guid>
+      <description>Not long ago I was looking for a new collocation provider. I was with ServerBeach, as I am right now, but the friend I was teaming up with to share the expenses wanted to move from Linux to a Windows server, and I have nothing to do with one &amp;ndash;Windows server, that is. Since I couldn&amp;rsquo;t afford to pay the fees on my own, I was off to find a new provider.</description>
+    </item>
+    
+    <item>
+      <title>Small changes here and there</title>
+      <link>https://collantes.us/2007/04/05/small-changes/</link>
+      <pubDate>Thu, 05 Apr 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/04/05/small-changes/</guid>
+      <description>I have changed, once again, the theme around here, as you can see. Simple approaches have always been my favorites and this one excels in simplicity, hence the name I have given it, &amp;ldquo;Simplissimo&amp;rdquo;. It is a modified version of a WordPress theme based on an original Typo theme. As you can see, I have done slight (or not so slight) changes to make it mine. And still might change more or I might change it all together.</description>
+    </item>
+    
+    <item>
+      <title>Stop spamming, GoDaddy!</title>
+      <link>https://collantes.us/2007/03/28/stop-spamming-godaddy/</link>
+      <pubDate>Wed, 28 Mar 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/03/28/stop-spamming-godaddy/</guid>
+      <description>I have several domains registered at Godaddy. For the ones I care about, I have auto renew enabled. For those I am letting go, I don&amp;rsquo;t. Godaddy gentlemanly reminds me when those about to expire domains are about to do so&amp;hellip; four months in advance! The email &amp;ldquo;reminders&amp;rdquo; do not cease from there on. And then regular mail (snail mail, that is) starts coming to my mailbox as well.
+Don&amp;rsquo;t you get it, Godaddy?</description>
+    </item>
+    
+    <item>
+      <title>Dabbling with OpenID</title>
+      <link>https://collantes.us/2007/03/20/dabbling-with-openid/</link>
+      <pubDate>Tue, 20 Mar 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/03/20/dabbling-with-openid/</guid>
+      <description>I have implemented OpenID commenting here, and I have gone one step further, by allowing commenting only after logged in, while using OpenID. This isn&amp;rsquo;t to avoid comment spam, which I think it will happen regardless. I am encouraging the use of the technology, which others might consider flawed (the CardInfo lovers, etc).
+All OpenID providers are accepted, of course. I have even setup a small OpenID server of my own as well.</description>
+    </item>
+    
+    <item>
+      <title>Two visions?</title>
+      <link>https://collantes.us/2007/03/20/two-visions/</link>
+      <pubDate>Tue, 20 Mar 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/03/20/two-visions/</guid>
+      <description>Mark posted yesterday that he will be working for Google, since out of the &amp;ldquo;two visions&amp;rdquo; of the web, he says, Google is the right one. I am not web savvy nor I really care much about it, but I am sure there is more than two visions on the web, there is not right and wrong, but many, many, many shades in between. But the way I see it, the bottom line in my mind: he is going to work for someone who will pay him very well.</description>
+    </item>
+    
+    <item>
+      <title>Heavy Microsoft ads on Freshmeat</title>
+      <link>https://collantes.us/2006/11/30/heavy-microsoft-ads-on-freshmeat/</link>
+      <pubDate>Thu, 30 Nov 2006 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2006/11/30/heavy-microsoft-ads-on-freshmeat/</guid>
+      <description>Freshmeat is, in their own words, &amp;ldquo;the first stop for Linux users hunting for the software they need for work or play.&amp;rdquo; and it also &amp;ldquo;offers a variety of original content on technical, political, and social aspects of software and programming, written by both Freshmeat readers and Free Software luminaries.&amp;rdquo;
+I have been very surprised to see, more and more, Microsoft ads on Freshmeat. All over the place. Quite often. Freshmeat lists thousands of applications, &amp;ldquo;[&amp;hellip;] preferably released under an open source license [&amp;hellip;]&amp;rdquo; .</description>
+    </item>
+    
+    <item>
+      <title>Why Vista is not going in</title>
+      <link>https://collantes.us/2006/11/30/why-vista-is-not-going-in/</link>
+      <pubDate>Thu, 30 Nov 2006 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2006/11/30/why-vista-is-not-going-in/</guid>
+      <description>I was talking &amp;mdash;well, chatting&amp;mdash; the other day with a friend of mine and he was telling me some bad experiences he had had with a Windows Media Center upgrade. That got me talking about Windows Vista, perhaps it is because Windows Vista Ultimate comes with it, I am not sure. Anyways&amp;hellip;
+I told my friend I am not installing Vista (although I have Windows Vista Ultimate &amp;mdash;the final version of Vista, no beta, no RC, but final&amp;mdash; as part of my MSDN subscription).</description>
+    </item>
+    
+    <item>
+      <title>Wired News: Apple&#39;s iPhone is Calling</title>
+      <link>https://collantes.us/2006/11/15/wired-news-apples-iphone-is-calling/</link>
+      <pubDate>Wed, 15 Nov 2006 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2006/11/15/wired-news-apples-iphone-is-calling/</guid>
+      <description>Wired News: Apple&amp;rsquo;s iPhone is Calling
+ The most likely scenario, as Jupiter analyst Ian Fogg has pointed out, is that the iPhone will be a stand-alone device that will accept a standard SIM card. You&amp;rsquo;ll pop the SIM card out of your current cell phone and plug it into the iPhone. It&amp;rsquo;ll be just like buying an unlocked handset from Asia, except you&amp;rsquo;ll buy it at an Apple store instead of on Craigslist.</description>
+    </item>
+    
+    <item>
+      <title>Craigslist founder will not sell</title>
+      <link>https://collantes.us/2006/11/07/craigslist-founder-has-no-desire-to-sell/</link>
+      <pubDate>Tue, 07 Nov 2006 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2006/11/07/craigslist-founder-has-no-desire-to-sell/</guid>
+      <description>The founder of craigslist, the free social-networking and classifieds Web site, said on Thursday he is not interested in selling out, just hours after MySpace.com was valued at $15 billion.
+&amp;ldquo;Who needs the money? We don&amp;rsquo;t really care,&amp;rdquo; Craig Newmark said in an interview at the Picnic &amp;lsquo;06 Cross Media Week conference in Amsterdam.
+&amp;ldquo;If you&amp;rsquo;re living comfortably, what&amp;rsquo;s the point of having more?&amp;rdquo; Newmark said.
+[&amp;hellip;]
+Newmark said raising the money to subsequently give it away to good causes also did not interest him.</description>
+    </item>
+    
+    <item>
+      <title>Too busy, too much money or...</title>
+      <link>https://collantes.us/2006/10/18/too-busy-too-much-money-or-just-uneducated/</link>
+      <pubDate>Wed, 18 Oct 2006 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2006/10/18/too-busy-too-much-money-or-just-uneducated/</guid>
+      <description>Our College is trying to re-design. Our web manager has been assigned to some other project of more importance (Dean&amp;rsquo;s order), so he can&amp;rsquo;t tackle the conversion of the existing website to a full blown CMS driven one. Other than the locals we have seeing and sit through presentations and proposals, I sent emails &amp;ndash;very brief ones, but to the point&amp;ndash; to Dan Cederholm, Dan Bejamin (we live in the same town), and David Shea.</description>
+    </item>
+    
+    <item>
+      <title>Blue Security has gone down</title>
+      <link>https://collantes.us/2006/05/17/blue-security-has-gone-down-or-has-it/</link>
+      <pubDate>Wed, 17 May 2006 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2006/05/17/blue-security-has-gone-down-or-has-it/</guid>
+      <description>Blue Security has announced it has ceased their anti-spam operations. From their website (which could be down as I type this):
+ As we cannot build the Blue Security business on the foundation we originally envisioned, we are discontinuing all of our anti-spam activities on your behalf and are exploring other, non spam-related avenues for our technological developments. As much as it saddens us, we believe this is the responsible thing to do.</description>
+    </item>
+    
+    <item>
+      <title>Do not phone and drive</title>
+      <link>https://collantes.us/2006/05/16/do-not-phone-and-drive/</link>
+      <pubDate>Tue, 16 May 2006 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2006/05/16/do-not-phone-and-drive/</guid>
+      <description>It infuriates me the idiots who think (and insist) that driving a car while talking on their mobile phones represents no problem for them or those around. Well, it does, fools! I have done it, I confess &amp;ndash;although I have stopped doing so for a while, unless it is a real emergency&amp;ndash; and I know what I am talking about. A driver handling a phone conversation while driving is impaired. It is!</description>
+    </item>
+    
+    <item>
+      <title>Gmail for Domains</title>
+      <link>https://collantes.us/2006/05/12/gmail-for-domains/</link>
+      <pubDate>Fri, 12 May 2006 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2006/05/12/gmail-for-domains/</guid>
+      <description>Yesterday I received my invitation to move my Collantes.US domain over Google, to handle all mail by using the Gmail interface. That is Google new beta testing of hosted email for corporations or midsize companies. I don&amp;rsquo;t have a midsize company, but have a big family, so I qualified. Collantes.US, of course, is way too valuable for beta testing, but I have several more domains I can use, so I decided to resubmit my request.</description>
+    </item>
+    
+    <item>
+      <title>Neoseeker: IBM will not use Windows[...]</title>
+      <link>https://collantes.us/2006/03/08/neoseeker-ibm-will-not-use-windows-vista/</link>
+      <pubDate>Wed, 08 Mar 2006 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2006/03/08/neoseeker-ibm-will-not-use-windows-vista/</guid>
+      <description>IBM will not use Windows Vista - but will move to Linux desktops - Neoseeker News Article: IBM switching to Linux desktops in Germany according to a Linux Forum 2006 presentation by their head of open source and Linux sales in Germany.</description>
+    </item>
+    
+    <item>
+      <title>You can&#39;t do that!</title>
+      <link>https://collantes.us/2006/02/23/you-cant-do-that/</link>
+      <pubDate>Thu, 23 Feb 2006 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2006/02/23/you-cant-do-that/</guid>
+      <description>Technology, Technology news, Times Online
+ &amp;ldquo;I can&amp;rsquo;t believe that your company would allow people to make money from something that you allow people to have free access to. Is this really the case?&amp;rdquo; she asked.
+&amp;ldquo;If Mozilla permit the sale of copied versions of its software, it makes it virtually impossible for us, from a practical point of view, to enforce UK anti-piracy legislation, as it is difficult for us to give general advice to businesses over what is/is not permitted.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Security Bulletins</title>
+      <link>https://collantes.us/2005/07/13/microsoft-security-bulletins/</link>
+      <pubDate>Wed, 13 Jul 2005 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2005/07/13/microsoft-security-bulletins/</guid>
+      <description>This is the second time that I receive a Microsoft Security Bulletin and, since Microsoft uses PGP to sign their bulletins, I have decided to check their signature validity. I don&amp;rsquo;t know if this has been a flaw in the past as well, since I delete those bulletins without even reading them most of the time, but in the two occassions I have checked them, they had failed to verify, since the signature is bad.</description>
+    </item>
+    
+    <item>
+      <title>They advertise with the best</title>
+      <link>https://collantes.us/2005/06/13/they-advertise-with-the-best/</link>
+      <pubDate>Mon, 13 Jun 2005 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2005/06/13/they-advertise-with-the-best/</guid>
+      <description>Imagine my surprise when I saw the following Google Ad showing under one of my posts this morning:
+[Was a screenshot of a Microsoft MSN advertisement on Google]
+I guess Microsoft knows who is the best, right? I mean, the only way to see that advertising (other than serving adds on your own web space) is by searching the web using Google. I think it is funny&amp;hellip; and interesting.</description>
+    </item>
+    
+    <item>
+      <title>Changes</title>
+      <link>https://collantes.us/2005/06/10/changes/</link>
+      <pubDate>Fri, 10 Jun 2005 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2005/06/10/changes/</guid>
+      <description>Changes are coming soon. After a couple of years with the same patched interface I am about to a) have it right and migrate it to WP 1.5 or b) asimilate an existing WP template and start fresh. The advances behind WP 1.5.1 are way too attracting, I am not going to wait any longer.
+So, should you tomorrow (or next month) come and find things completely different, do not fret.</description>
+    </item>
+    
+    <item>
+      <title>PGP Corporation Decadence</title>
+      <link>https://collantes.us/2005/05/28/pgp-corporation-decadence/</link>
+      <pubDate>Sat, 28 May 2005 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2005/05/28/pgp-corporation-decadence/</guid>
+      <description>Recently PGP Corporation released their latest version of the PGP software created by Phil Zimmerman and made famous by millions of users around the world (me included). I wish I could say such latest release is great, but I can&amp;rsquo;t.
+The new PGP Desktop 9.0 (or 9.0.1 beta as of this writting) come with a few new &amp;ldquo;features&amp;rdquo; and lacks of a few others that any old school PGP user might notice right away.</description>
+    </item>
+    
+    <item>
+      <title>Shameful website</title>
+      <link>https://collantes.us/2005/05/28/shameful-website/</link>
+      <pubDate>Sat, 28 May 2005 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2005/05/28/shameful-website/</guid>
+      <description>Have you ever tried going to the U.S. website for Kenwood? Kenwood, you know, that audio equipment, transceivers maker, etc? Go look! They ought to be ashamed!</description>
+    </item>
+    
+    <item>
+      <title>Your Privacy at stake</title>
+      <link>https://collantes.us/2005/03/31/your-privacy-at-stake/</link>
+      <pubDate>Thu, 31 Mar 2005 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2005/03/31/your-privacy-at-stake/</guid>
+      <description>Something very infortunated has happened and I want to encourage you, and the people you know, to help amend this by signing the petition and emailing your elected officials as soon as possible.
+The NTIA, which is the telecommunications and Internet arm of the Department of Commerce, has disallowed private registrations for .US domain names. This unfortunate decision was made by the NTIA, without a hearing or an opportunity for a response by those affected &amp;ndash; in fact; there was no due process of any kind.</description>
+    </item>
+    
+    <item>
+      <title>Adsense presence</title>
+      <link>https://collantes.us/2005/01/25/adsense-presence/</link>
+      <pubDate>Tue, 25 Jan 2005 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2005/01/25/adsense-presence/</guid>
+      <description>I few of you might have realized that I, finally, got approved on Goggle&amp;rsquo;s Adsense program. Two years ago I applied, with the hopes of becoming rich. I was very naïve and I was denied participation. Recently I applied again. I did it mainly for two reasons: I love Google. I can not deny I am in love with it. Everything that Google has offered so far is of my liking.</description>
+    </item>
+    
+    <item>
+      <title>Sex is everything</title>
+      <link>https://collantes.us/2005/01/12/sex-is-everything/</link>
+      <pubDate>Wed, 12 Jan 2005 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2005/01/12/sex-is-everything/</guid>
+      <description>For spammers &amp;ndash;and others&amp;ndash;, that is. Other than the trackback attack that a good group of people including me received recently, sex related spam seems to have doubled as the year increased by one. And all comes down to this: human beings are a bunch of sex driven machines. Take it or leave it. We all like it, enjoy it and are driven to it in a multifaceted spectrum. It goes beyond the Mother Nature purpose of procreation (continuity).</description>
+    </item>
+    
+    <item>
+      <title>More on VoIP</title>
+      <link>https://collantes.us/2005/01/06/more-on-voip/</link>
+      <pubDate>Thu, 06 Jan 2005 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2005/01/06/more-on-voip/</guid>
+      <description>Last year I wrote about Lingo and recommended their VoIP service. While I was not that off on that &amp;ldquo;review&amp;rdquo;, I have changed my mind long ago and decided not to keep the service. I got a lot of emails from people wanting to try and/or get the service and they used my email for referral. As a result, I got a lot of free Lingo service, but I called them at the end of December to cancel for good (something they told me they did, but I still have the service, I am not sure why.</description>
+    </item>
+    
+    <item>
+      <title>Gmail invitations</title>
+      <link>https://collantes.us/2004/08/25/gmail-invitations/</link>
+      <pubDate>Wed, 25 Aug 2004 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2004/08/25/gmail-invitations/</guid>
+      <description>I have 6 Gmail invitations that I will give out to anyone who writes a sincere comment about the use it will give to such account, if given. I have been using Gmail for a while now and I can assure you it is a great service, addictive indeed. It is not all about the 1GB of space that Google gives with it, but the excellent features and blazing speed. You can read more about Gmail on the Gmail Support Center.</description>
+    </item>
+    
+    <item>
+      <title>Google&#39;s Doodles</title>
+      <link>https://collantes.us/2004/08/22/googles-doodles/</link>
+      <pubDate>Sun, 22 Aug 2004 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2004/08/22/googles-doodles/</guid>
+      <description>Google is well known for altering its homepage logos to commemorate a special event or Holidays. They have done it since 1999 &amp;mdash;at least, that is the earliest documented year.
+This year Olympic Games are not an exception. Google Doodle VIII celebrates the 2004 Olympic Games in Athens. Below is a local cache of them (I will keep adding them until the Olympics are over). I hope I will not get into trouble for doing so.</description>
+    </item>
+    
+    <item>
+      <title>More on Lingo</title>
+      <link>https://collantes.us/2004/08/21/more-on-lingo/</link>
+      <pubDate>Sat, 21 Aug 2004 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2004/08/21/more-on-lingo/</guid>
+      <description>A while ago I wrote about my plans of dropping BellSouth for a VoIP provider called Lingo. At that time I also wrote that I would come back and write a review about it. Well, this is not a real review &amp;ndash;I really do not know how to write one&amp;ndash; but it contains my experiences with Lingo voice over IP (VoIP) service, so far.
+When something works fine there is very little to tell.</description>
+    </item>
+    
+  </channel>
+</rss>

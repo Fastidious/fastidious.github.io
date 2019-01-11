@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bookmarklets on David Collantes</title>
+    <link>https://collantes.us/tags/bookmarklets/</link>
+    <description>Recent content in Bookmarklets on David Collantes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 07 Nov 2009 14:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://collantes.us/tags/bookmarklets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bookmarklets I use</title>
+      <link>https://collantes.us/2009/11/07/bookmarklets-i-use/</link>
+      <pubDate>Sat, 07 Nov 2009 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2009/11/07/bookmarklets-i-use/</guid>
+      <description>These are some of the general bookmarklets I use. I have them synchronized with Chrome and Google Docs, but I am listing them here in case I want to share them with someone else, like you (yes, you there, reading this now). Here there go:  Tweet it! Translate to English Google Dictionary Get Youtube MP4 Record your screen URL to QR Code Selection to QR Code  More will be added as I find the need for something else.</description>
+    </item>
+    
+    <item>
+      <title>SuperGenPass update</title>
+      <link>https://collantes.us/2007/12/07/supergenpass-update/</link>
+      <pubDate>Fri, 07 Dec 2007 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2007/12/07/supergenpass-update/</guid>
+      <description>SuperGenPass: A Free Bookmarklet Password Generator
+Chris Zarate has updated his SuperGenPass bookmarlet, which now has it&amp;rsquo;s own dedicated domain. Version 1.1 comes with (from the website):  Moveable window: The SuperGenPass window can be moved by dragging the title bar. Smarter password capturing: When multiple master passwords are found, the conflict must be resolved by double-clicking the desired field. Smarter autopopulate: Autopopulate is on by default, but only for fields where the master password was found.</description>
+    </item>
+    
+    <item>
+      <title>Single sign on</title>
+      <link>https://collantes.us/2005/05/29/single-sign-on/</link>
+      <pubDate>Sun, 29 May 2005 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2005/05/29/single-sign-on/</guid>
+      <description>Since I am going to start migrating all my web logins to a single sign on approach (using Chris Zarate SuperGenPass), I think the best way to start is by saving the bookmarklet I will have to use over and over. There is a Greasemonkey version available, which has much more features than this bookmarklet version. I will use the latest because it works with all browsers.
+The bookmarklet is: Single Sign on.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linode on David Collantes</title>
+    <link>https://collantes.us/tags/linode/</link>
+    <description>Recent content in Linode on David Collantes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 28 Jan 2012 14:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://collantes.us/tags/linode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On AWS S3</title>
+      <link>https://collantes.us/2012/01/28/on-aws-s3/</link>
+      <pubDate>Sat, 28 Jan 2012 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2012/01/28/on-aws-s3/</guid>
+      <description>I have moved from Linode (which I will be canceling soon) to Namecheap DNS management (I have all my domains on Namecheap) and Amazon S3. Transition went well, and painless. It should save me some money.
+Nothing wrong with Linode, which I recommend to anyone looking to having their own Virtual Server. Their service rock, and their price is hard to beat. I used their services for a year and totally loved it.</description>
+    </item>
+    
+    <item>
+      <title>Many changes coming soon</title>
+      <link>https://collantes.us/2011/04/01/many-changes/</link>
+      <pubDate>Fri, 01 Apr 2011 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2011/04/01/many-changes/</guid>
+      <description>Just very recently I wrote about me moving to Jekyll from WordPress:
+ After much thought, and tinkering, I decided to ditch my six year old or so WordPress and start blogging like a hacker with the awesome Jekyll.
+ I also wrote —fairly recently— about living on a Linode:
+ Moved to Linode. Love it, highly recommend it. They reward customers that bring referrals, but notice my links do not have any referral code.</description>
+    </item>
+    
+    <item>
+      <title>Living on a Linode</title>
+      <link>https://collantes.us/2011/01/14/living-on-a-linode/</link>
+      <pubDate>Fri, 14 Jan 2011 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2011/01/14/living-on-a-linode/</guid>
+      <description>TL;DR.
+Moved to Linode. Love it, highly recommend it. They reward customers that bring referrals, but notice my links do not have any referral code. That much I like their product.
+All my domains have resided on a ServerBeach dedicated server for over six years now. I have tried to find something else before (cheaper, price wise), but I always stayed on ServerBeach, as they have always been reliable, with fast connections.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,10 +5,19 @@
     <link>https://collantes.us/blog/</link>
     <description>Recent content in Blog Entries on David Collantes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 Aug 2018 10:54:11 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 11 Feb 2019 20:22:10 -0500</lastBuildDate>
     
 	<atom:link href="https://collantes.us/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Friend</title>
+      <link>https://collantes.us/2019/02/11/my-friend/</link>
+      <pubDate>Mon, 11 Feb 2019 20:22:10 -0500</pubDate>
+      
+      <guid>https://collantes.us/2019/02/11/my-friend/</guid>
+      <description>Friends are not easy to come by. They are made, just like good wine, after many years of ageing. At a certain point, which is hard to pinpoint, they cease to be just friends to become family. Just like a family member would, and should, they give you the best advise, uncompromisingly, unabashedly, unreservedly. They praise your virtues and take pride on them, but are quick to call out the stupid things you are bound to do.</description>
+    </item>
     
     <item>
       <title>What is Happiness?</title>
@@ -1005,16 +1014,6 @@ If you add to that the fact that the kid is learning them, hence bound to make m
       <guid>https://collantes.us/2012/02/02/the-meaning-of-life/</guid>
       <description>Will Durant sent a letter to a few notable figures, asking them for the meaning of life.
  Spare me a moment to tell me what meaning life has for you, what keeps you going, what help—if any—religion gives you, what are the sources of your inspiration and your energy, what is the goal or motive-force of your toil, where you find your consolations and your happiness, where, in the last resort, your treasure lies.</description>
-    </item>
-    
-    <item>
-      <title>On AWS S3</title>
-      <link>https://collantes.us/2012/01/28/on-aws-s3/</link>
-      <pubDate>Sat, 28 Jan 2012 14:00:00 +0000</pubDate>
-      
-      <guid>https://collantes.us/2012/01/28/on-aws-s3/</guid>
-      <description>I have moved from Linode (which I will be canceling soon) to Namecheap DNS management (I have all my domains on Namecheap) and Amazon S3. Transition went well, and painless. It should save me some money.
-Nothing wrong with Linode, which I recommend to anyone looking to having their own Virtual Server. Their service rock, and their price is hard to beat. I used their services for a year and totally loved it.</description>
     </item>
     
   </channel>

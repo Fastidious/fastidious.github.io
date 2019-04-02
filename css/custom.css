@@ -224,3 +224,16 @@ kbd {
     border-radius: 3px;
     box-shadow: inset 0 -1px 0 #bbb
 }
+
+.note_update {
+    padding: 0.6rem 0.8rem 0.6rem 0.8rem;
+    border-left: 4px #F05133 solid;
+    font-size: 15px;
+    text-transform: uppercase;
+    background-color: #212121;
+}
+
+.note_update_timestamp {
+    font-weight: 700;
+    opacity: 0.6;
+}

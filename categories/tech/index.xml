@@ -141,6 +141,16 @@ Backing up your keys and configuration files To back your private, and public ke
     </item>
     
     <item>
+      <title>Selling Out</title>
+      <link>https://collantes.us/2015/09/24/selling-out/</link>
+      <pubDate>Thu, 24 Sep 2015 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2015/09/24/selling-out/</guid>
+      <description>It seems iOS 9 ad blocker, Crystal, will allow some ads to go through for a fee. From an article on the Wall Street Journal:
+ Mr. Murphy said he has taken Eyeo up on its offer, and plans to implement an option within his app whereby “acceptable” ads will be displayed to users. The feature will be switched on by default, Mr. Murphy said, and he will receive a flat monthly fee from Eyeo in return.</description>
+    </item>
+    
+    <item>
       <title>Autumnal Equinox</title>
       <link>https://collantes.us/2015/09/23/autumnal-equinox/</link>
       <pubDate>Wed, 23 Sep 2015 14:00:00 +0000</pubDate>
@@ -548,6 +558,27 @@ I have a Linux DNS/DHCP to change (Internet facing one).</description>
       
       <guid>https://collantes.us/2009/09/04/facebook-and-openid-caching/</guid>
       <description>When I first read that Facebook was going to allow OpenID logins, I was happy. OpenID means less usernames and passwords to remember. So I merrily went to setup mine, just to find out that their support was exclusively for OpenID version 2.0, and my implementation was 1.1. No graceful fall back, Facebook demands OpenID 2.0. So I decided it was time for me to upgrade my implementation for one capable to handle 1.</description>
+    </item>
+    
+    <item>
+      <title>Special, just like you</title>
+      <link>https://collantes.us/2009/09/03/special-just-like-you/</link>
+      <pubDate>Thu, 03 Sep 2009 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2009/09/03/special-just-like-you/</guid>
+      <description>At first I thought I was special, when I received my first offering of marriage, or the bank transfer to help the widow of some foreign fallen dignitary. Then they kept going, and I knew I was &amp;ldquo;special&amp;rdquo;, just like everyone else.
+Read one of today&amp;rsquo;s emails and smile:
+ I am 26 years old, just started work with Central bank of Nigeria, as a scientist and why i was diong system maintance .</description>
+    </item>
+    
+    <item>
+      <title>gOS is coming our way</title>
+      <link>https://collantes.us/2009/07/08/gos-is-coming-our-way/</link>
+      <pubDate>Wed, 08 Jul 2009 14:00:00 +0000</pubDate>
+      
+      <guid>https://collantes.us/2009/07/08/gos-is-coming-our-way/</guid>
+      <description>Yes, it is coming!
+ We hear a lot from our users and their message is clear &amp;ndash; computers need to get better. People want to get to their email instantly, without wasting time waiting for their computers to boot and browsers to start up. They want their computers to always run as fast as when they first bought them. They want their data to be accessible to them wherever they are and not have to worry about losing their computer or forgetting to back up files.</description>
     </item>
     
     <item>
@@ -976,35 +1007,6 @@ The NTIA, which is the telecommunications and Internet arm of the Department of 
       
       <guid>https://collantes.us/2005/01/06/more-on-voip/</guid>
       <description>Last year I wrote about Lingo and recommended their VoIP service. While I was not that off on that &amp;ldquo;review&amp;rdquo;, I have changed my mind long ago and decided not to keep the service. I got a lot of emails from people wanting to try and/or get the service and they used my email for referral. As a result, I got a lot of free Lingo service, but I called them at the end of December to cancel for good (something they told me they did, but I still have the service, I am not sure why.</description>
-    </item>
-    
-    <item>
-      <title>Gmail invitations</title>
-      <link>https://collantes.us/2004/08/25/gmail-invitations/</link>
-      <pubDate>Wed, 25 Aug 2004 14:00:00 +0000</pubDate>
-      
-      <guid>https://collantes.us/2004/08/25/gmail-invitations/</guid>
-      <description>I have 6 Gmail invitations that I will give out to anyone who writes a sincere comment about the use it will give to such account, if given. I have been using Gmail for a while now and I can assure you it is a great service, addictive indeed. It is not all about the 1GB of space that Google gives with it, but the excellent features and blazing speed. You can read more about Gmail on the Gmail Support Center.</description>
-    </item>
-    
-    <item>
-      <title>Google&#39;s Doodles</title>
-      <link>https://collantes.us/2004/08/22/googles-doodles/</link>
-      <pubDate>Sun, 22 Aug 2004 14:00:00 +0000</pubDate>
-      
-      <guid>https://collantes.us/2004/08/22/googles-doodles/</guid>
-      <description>Google is well known for altering its homepage logos to commemorate a special event or Holidays. They have done it since 1999 &amp;mdash;at least, that is the earliest documented year.
-This year Olympic Games are not an exception. Google Doodle VIII celebrates the 2004 Olympic Games in Athens. Below is a local cache of them (I will keep adding them until the Olympics are over). I hope I will not get into trouble for doing so.</description>
-    </item>
-    
-    <item>
-      <title>More on Lingo</title>
-      <link>https://collantes.us/2004/08/21/more-on-lingo/</link>
-      <pubDate>Sat, 21 Aug 2004 14:00:00 +0000</pubDate>
-      
-      <guid>https://collantes.us/2004/08/21/more-on-lingo/</guid>
-      <description>A while ago I wrote about my plans of dropping BellSouth for a VoIP provider called Lingo. At that time I also wrote that I would come back and write a review about it. Well, this is not a real review &amp;ndash;I really do not know how to write one&amp;ndash; but it contains my experiences with Lingo voice over IP (VoIP) service, so far.
-When something works fine there is very little to tell.</description>
     </item>
     
   </channel>

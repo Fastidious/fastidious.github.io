@@ -158,7 +158,11 @@ article a:hover, .list-container a:active, .list-container a:focus, .list-contai
 
 .footnotes, .copyright, figcaption {
     font-size: 85%;
-    color: #787878;
+    color: #e6e6e6;
+}
+
+blockquote p {
+    color: #999999;
 }
 
 blockquote {

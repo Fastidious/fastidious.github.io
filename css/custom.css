@@ -64,7 +64,7 @@ p code, li code {
     padding: 0.2em 0.4em;
     margin: 0;
     font-size: 85%;
-    background-color: #212121;
+    background-color: #181818;
     color: #d9d9d9;
     border: none;
     border-radius: 3px;
@@ -73,7 +73,7 @@ p code, li code {
 pre { 
     font-family: Menlo, Consolas, Monaco, Ubuntu Mono, Liberation Mono, Lucida Console, monospace;
     font-size: .875em;
-    background: #212121;
+    background-color: #181818;
     color: #fafafa;
     text-align: initial;
     max-width: 100%;
@@ -156,18 +156,26 @@ article a:hover, .list-container a:active, .list-container a:focus, .list-contai
     font-style: normal;
 }
 
-.footnotes, .copyright, figcaption {
+.footnotes, .copyright p, figcaption {
     font-size: 85%;
-    color: #e6e6e6;
+    color: #888888;
 }
 
 blockquote p {
-    color: #999999;
+    color: #909090;
 }
 
 blockquote {
     font-style: normal;
     font-size: 100%;
+    background-color: #181818;
+    padding: 15px;
+}
+
+.entry-meta span {
+    font-style: normal;
+    font-size: 0.9em;
+    font-family: Menlo, Consolas, Monaco, Ubuntu Mono, Liberation Mono, Lucida Console, monospace;
 }
 
 .video-container {
@@ -216,7 +224,7 @@ kbd {
     padding: 3px 5px;
     font-size: 11px;
     line-height: 10px;
-    color: #555;
+    color: #555555;
     vertical-align: middle;
     background-color: #fcfcfc;
     border: solid 1px #ccc;

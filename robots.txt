@@ -1,5 +1,2 @@
 User-agent: *
-Allow: /
-Disallow: /error/
-Disallow: /categories/
-Disallow: /tags/
+Disallow:

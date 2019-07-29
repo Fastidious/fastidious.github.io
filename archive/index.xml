@@ -5,10 +5,19 @@
     <link>https://collantes.us/archive/</link>
     <description>Recent content in Archive on David Collantes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 Jul 2019 11:48:32 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2019 17:04:16 -0400</lastBuildDate>
     
 	<atom:link href="https://collantes.us/archive/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>There Is Always a First Time</title>
+      <link>https://collantes.us/2019/07/29/there-is-always-a-first-time/</link>
+      <pubDate>Mon, 29 Jul 2019 17:04:16 -0400</pubDate>
+      
+      <guid>https://collantes.us/2019/07/29/there-is-always-a-first-time/</guid>
+      <description>For eleven years I have used iPhones exclusively. More than half of that time, I have used them without any cover. My rationale? It is a beautifully crafted device, why to hide its beauty behind a cover? I never had an issue with it, until today. I am coming here to mark the first time my iPhone screen has ever shattered. I didn&amp;rsquo;t drop it, but placed it in a way that, after a few vibrations, made it fall to the floor—a tiled floor, nonetheless, the &amp;ldquo;evil&amp;rdquo; kind!</description>
+    </item>
     
     <item>
       <title>Closing LinkedIn</title>
@@ -1005,16 +1014,6 @@ This time I will keep this simple. Well, as simple as a person with slight OCD c
       <guid>https://collantes.us/2012/12/05/files-on-github/</guid>
       <description>There is a new feautre on GitHub, and this one allows you to create files directly from the web interface. This is very handy, for those of us running Jekyll.
 This is my first test of the feature, I had to try it right away. Only wishing now to have a friendlier Markdown/kramdown editor. But it&amp;rsquo;s a start. I like it!</description>
-    </item>
-    
-    <item>
-      <title>Sprint crookery</title>
-      <link>https://collantes.us/2012/11/19/sprint-crookery/</link>
-      <pubDate>Mon, 19 Nov 2012 14:00:00 +0000</pubDate>
-      
-      <guid>https://collantes.us/2012/11/19/sprint-crookery/</guid>
-      <description>I am not happy with Sprint, I think it is a bad company. That, of course, is my opinion.
-I left them and took the hit of the early termination fee (ETF) because their service in my area was, and is, not usable. Even though I had documented the many times I called for not having reception, not able to make calls, and their “unlimited” data plan been unusable, I paid the ETF and decided to move on.</description>
     </item>
     
   </channel>

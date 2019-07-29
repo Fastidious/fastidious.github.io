@@ -5,7 +5,7 @@
     <link>https://collantes.us/</link>
     <description>Recent content in Bits and Rambles on David Collantes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 12 Jul 2019 18:23:05 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2019 11:48:32 -0400</lastBuildDate>
     
 	<atom:link href="https://collantes.us/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,6 +18,16 @@
       <guid>https://collantes.us/about/</guid>
       <description>Ego Hi there, welcome! You are now browsing my personal blog. In here I write about whatever happens to interest me from time to time. I am a father and a husband living in Orlando, FL, U.S.A.
 I have worked for the Florida Educational System as a system administrator (sysadmin) since June of 1996 or whereabouts, but nothing on this site is affiliated with, sponsored, or endorsed by them.</description>
+    </item>
+    
+    <item>
+      <title>Closing Linkedin</title>
+      <link>https://collantes.us/2019/07/29/closing-linkedin/</link>
+      <pubDate>Mon, 29 Jul 2019 11:48:32 -0400</pubDate>
+      
+      <guid>https://collantes.us/2019/07/29/closing-linkedin/</guid>
+      <description>Not long ago—not even a year now—I re-created a LinkedIn account, mostly following an invitation to join from one of my friends. I did it against my will, because for whatever reason I have hated LinkedIn even since before it was acquired by Microsoft. Yet, I joined, filled very little information, set privacy settings to fully closed—or so I thought—and moved on.
+Soon after I started receiving UCE from medical, or pharmaceutical related companies.</description>
     </item>
     
     <item>
@@ -1005,16 +1015,6 @@ This time I will keep this simple. Well, as simple as a person with slight OCD c
       <guid>https://collantes.us/2012/12/05/files-on-github/</guid>
       <description>There is a new feautre on GitHub, and this one allows you to create files directly from the web interface. This is very handy, for those of us running Jekyll.
 This is my first test of the feature, I had to try it right away. Only wishing now to have a friendlier Markdown/kramdown editor. But it&amp;rsquo;s a start. I like it!</description>
-    </item>
-    
-    <item>
-      <title>Sprint crookery</title>
-      <link>https://collantes.us/2012/11/19/sprint-crookery/</link>
-      <pubDate>Mon, 19 Nov 2012 14:00:00 +0000</pubDate>
-      
-      <guid>https://collantes.us/2012/11/19/sprint-crookery/</guid>
-      <description>I am not happy with Sprint, I think it is a bad company. That, of course, is my opinion.
-I left them and took the hit of the early termination fee (ETF) because their service in my area was, and is, not usable. Even though I had documented the many times I called for not having reception, not able to make calls, and their “unlimited” data plan been unusable, I paid the ETF and decided to move on.</description>
     </item>
     
   </channel>

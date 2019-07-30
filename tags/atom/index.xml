@@ -5,7 +5,7 @@
     <link>https://collantes.us/tags/atom/</link>
     <description>Recent content in atom on David Collantes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 Aug 2015 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2015 14:00:01 +0000</lastBuildDate>
     
 	<atom:link href="https://collantes.us/tags/atom/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>Jekyll and Git</title>
       <link>https://collantes.us/2015/08/29/jekyll-and-git/</link>
-      <pubDate>Sat, 29 Aug 2015 14:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Aug 2015 14:00:01 +0000</pubDate>
       
       <guid>https://collantes.us/2015/08/29/jekyll-and-git/</guid>
       <description>I have been using Jekyll for a while now, but all this time I have been generating it on the server, That is, I had had a directory on the server holding the Jekyll files, in which I would run jekyll build to generate the website. Not too streamlined.

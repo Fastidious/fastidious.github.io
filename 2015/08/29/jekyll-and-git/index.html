@@ -98,8 +98,9 @@ Before hosting this weblog on Vultr, I had it on GitHub, and their Pages would d
 <li>Created empty git repository (<code>git init --bare website.git</code>).</li>
 <li>Cloned it.</li>
 <li>Added my Jekyll files.</li>
+</ol>
 
-<li><p>Added the following <code>post-receive</code> hook<sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup>:</p>
+<p>What was left was to add the following <code>post-receive</code> hook<sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup>:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#75715e">#!/bin/bash -l
 </span><span style="color:#75715e"></span>GIT_REPOSITORY<span style="color:#f92672">=</span>/path/to/my/website.git
 TMP_GIT_CLONE<span style="color:#f92672">=</span>/tmp/git/website
@@ -108,9 +109,7 @@ WWW_ROOT<span style="color:#f92672">=</span>/path/to/my/website
 git clone $GIT_REPOSITORY $TMP_GIT_CLONE
 jekyll build --source $TMP_GIT_CLONE --destination $WWW_ROOT
 rm -rf $TMP_GIT_CLONE
-exit</code></pre></div></li>
-</ol>
-
+exit</code></pre></div>
 <p>Now a few seconds right after committing, my website will show the changes. Being able to use Atom with <code>markdown-writer</code> to compose entries, and use git to deploy them is a bliss.</p>
 <div class="footnotes">
 

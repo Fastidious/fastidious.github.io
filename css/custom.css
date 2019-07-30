@@ -161,7 +161,11 @@ article a:hover, .list-container a:active, .list-container a:focus, .list-contai
     color: #888888;
 }
 
-blockquote p, li {
+blockquote p {
+    color: #909090;
+}
+
+blockquote li {
     color: #909090;
 }
 

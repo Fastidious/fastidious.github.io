@@ -5,10 +5,23 @@
     <link>https://collantes.us/categories/tech/</link>
     <description>Recent content in tech on David Collantes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 Jul 2019 17:04:16 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2019 13:15:56 -0400</lastBuildDate>
     
 	<atom:link href="https://collantes.us/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using GPG and Openssl to Encrypt</title>
+      <link>https://collantes.us/2019/07/30/using-gpg-and-openssl-to-encrypt/</link>
+      <pubDate>Tue, 30 Jul 2019 13:15:56 -0400</pubDate>
+      
+      <guid>https://collantes.us/2019/07/30/using-gpg-and-openssl-to-encrypt/</guid>
+      <description>I have used gpg to encrypt my private files, specially those that I upload to the clouds, for a long time. I used to encrypt to self, using my own key, then later moved to symmetric encryption only. The command is easy:
+To encrypt:
+gpg --cipher-algo aes256 --symmetric file.txt Adding the option --armor to the above will produce an ASCII armoured encrypted file.
+To decrypt:
+gpg --output file.txt --decrypt file.txt.{gpg,asc} Use asc ending to decrypt, if encrypted with the --armor option.</description>
+    </item>
     
     <item>
       <title>There Is Always a First Time</title>
@@ -998,15 +1011,6 @@ The NTIA, which is the telecommunications and Internet arm of the Department of 
       
       <guid>https://collantes.us/2005/01/25/adsense-presence/</guid>
       <description>I few of you might have realized that I, finally, got approved on Goggle&amp;rsquo;s Adsense program. Two years ago I applied, with the hopes of becoming rich. I was very naïve and I was denied participation. Recently I applied again. I did it mainly for two reasons: I love Google. I can not deny I am in love with it. Everything that Google has offered so far is of my liking.</description>
-    </item>
-    
-    <item>
-      <title>Sex is everything</title>
-      <link>https://collantes.us/2005/01/12/sex-is-everything/</link>
-      <pubDate>Wed, 12 Jan 2005 14:00:00 +0000</pubDate>
-      
-      <guid>https://collantes.us/2005/01/12/sex-is-everything/</guid>
-      <description>For spammers &amp;ndash;and others&amp;ndash;, that is. Other than the trackback attack that a good group of people including me received recently, sex related spam seems to have doubled as the year increased by one. And all comes down to this: human beings are a bunch of sex driven machines. Take it or leave it. We all like it, enjoy it and are driven to it in a multifaceted spectrum. It goes beyond the Mother Nature purpose of procreation (continuity).</description>
     </item>
     
   </channel>

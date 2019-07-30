@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>openssl on David Collantes</title>
+    <link>https://collantes.us/tags/openssl/</link>
+    <description>Recent content in openssl on David Collantes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 30 Jul 2019 13:15:56 -0400</lastBuildDate>
+    
+	<atom:link href="https://collantes.us/tags/openssl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using GPG and Openssl to Encrypt</title>
+      <link>https://collantes.us/2019/07/30/using-gpg-and-openssl-to-encrypt/</link>
+      <pubDate>Tue, 30 Jul 2019 13:15:56 -0400</pubDate>
+      
+      <guid>https://collantes.us/2019/07/30/using-gpg-and-openssl-to-encrypt/</guid>
+      <description>I have used gpg to encrypt my private files, specially those that I upload to the clouds, for a long time. I used to encrypt to self, using my own key, then later moved to symmetric encryption only. The command is easy:
+To encrypt:
+gpg --cipher-algo aes256 --symmetric file.txt Adding the option --armor to the above will produce an ASCII armoured encrypted file.
+To decrypt:
+gpg --output file.txt --decrypt file.txt.{gpg,asc} Use asc ending to decrypt, if encrypted with the --armor option.</description>
+    </item>
+    
+  </channel>
+</rss>

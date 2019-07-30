@@ -12,7 +12,7 @@ Before hosting this weblog on Vultr, I had it on GitHub, and their Pages would d
 Before hosting this weblog on Vultr, I had it on GitHub, and their Pages would do the publishing for me, right after a commit, which was great.'>
 <meta property='og:url' content='https://collantes.us/2015/08/29/jekyll-and-git/'>
 <meta property='og:site_name' content='David Collantes'>
-<meta property='og:type' content='article'><meta property='og:image' content='https://collantes.us/resources/david_collantes.png' /><meta property='article:section' content='Blog'><meta property='article:tag' content='jekyll'><meta property='article:tag' content='git'><meta property='article:tag' content='vultr'><meta property='article:tag' content='github'><meta property='article:tag' content='atom'><meta property='article:published_time' content='2015-08-29T14:00:01Z'/><meta property='article:modified_time' content='2015-08-29T14:00:01Z'/><meta name='twitter:card' content='summary'><meta name='twitter:site' content='@connivingmonkey'><meta property='twitter:image' content='https://collantes.us/resources/david_collantes.png' />
+<meta property='og:type' content='article'><meta property='og:image' content='https://collantes.us/resources/david_collantes.png' /><meta property='article:section' content='Blog'><meta property='article:tag' content='jekyll'><meta property='article:tag' content='git'><meta property='article:tag' content='vultr'><meta property='article:tag' content='github'><meta property='article:tag' content='atom'><meta property='article:published_time' content='2015-08-29T14:00:03Z'/><meta property='article:modified_time' content='2015-08-29T14:00:03Z'/><meta name='twitter:card' content='summary'><meta name='twitter:site' content='@connivingmonkey'><meta property='twitter:image' content='https://collantes.us/resources/david_collantes.png' />
 
 <meta name="generator" content="Hugo 0.56.0" />
 
@@ -75,7 +75,7 @@ Before hosting this weblog on Vultr, I had it on GitHub, and their Pages would d
   
 </svg>
 <span class='screen-reader-text'>Posted on </span>
-  <time class='entry-date' datetime='2015-08-29T14:00:01Z'>29 August, 2015</time>
+  <time class='entry-date' datetime='2015-08-29T14:00:03Z'>29 August, 2015</time>
 </span>
 
   
@@ -94,7 +94,7 @@ Before hosting this weblog on Vultr, I had it on GitHub, and their Pages would d
 
 <p>Before hosting this weblog on <a href="http://www.vultr.com/?ref=6815414">Vultr</a>, I had it on <a href="https://github.com/">GitHub</a>, and their <a href="https://pages.github.com/">Pages</a> would do the publishing for me, right after a commit, which was great. Yesterday I decided to implement the same, but on my VPS. This is what I did:</p>
 
-<ul>
+<ol>
 <li>Created empty git repository (<code>git init --bare website.git</code>).</li>
 <li>Cloned it.</li>
 <li>Added my Jekyll files.</li>
@@ -108,8 +108,8 @@ WWW_ROOT<span style="color:#f92672">=</span>/path/to/my/website
 git clone $GIT_REPOSITORY $TMP_GIT_CLONE
 jekyll build --source $TMP_GIT_CLONE --destination $WWW_ROOT
 rm -rf $TMP_GIT_CLONE
-exit  </code></pre></div></li>
-</ul>
+exit</code></pre></div></li>
+</ol>
 
 <p>Now a few seconds right after committing, my website will show the changes. Being able to use Atom with <code>markdown-writer</code> to compose entries, and use git to deploy them is a bliss.</p>
 <div class="footnotes">

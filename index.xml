@@ -35,11 +35,11 @@ I have worked for the Florida Educational System as a system administrator (sysa
       <pubDate>Tue, 30 Jul 2019 13:15:56 -0400</pubDate>
       
       <guid>https://collantes.us/2019/07/30/using-gpg-and-openssl-to-encrypt/</guid>
-      <description>I have used gpg to encrypt my private files, specially those that I upload to the clouds, for a long time. I used to encrypt to self, using my own key, then later moved to symmetric encryption only. The command is easy:
-To encrypt:
+      <description>I have used Gnupg to encrypt my private files, specially those that I upload to the clouds, for a long time. I used to encrypt to self, using my own key, then later moved to symmetric encryption only. The command is easy:
+Using Gnupg To encrypt:
 gpg --cipher-algo aes256 --symmetric file.txt Adding the option --armor to the above will produce an ASCII armoured encrypted file.
 To decrypt:
-gpg --output file.txt --decrypt file.txt.{gpg,asc} Use asc ending to decrypt, if encrypted with the --armor option.</description>
+gpg --output file.</description>
     </item>
     
     <item>

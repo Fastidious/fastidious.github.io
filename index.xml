@@ -5,7 +5,7 @@
     <link>https://collantes.us/</link>
     <description>Recent content in Bits and Rambles on David Collantes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 Jul 2019 16:48:09 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2019 16:40:20 -0400</lastBuildDate>
     
 	<atom:link href="https://collantes.us/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,6 +18,15 @@
       <guid>https://collantes.us/about/</guid>
       <description>Ego Hi there, welcome! You are now browsing my personal blog. In here I write about whatever happens to interest me from time to time. I am a father and a husband living in Orlando, FL, U.S.A.
 I have worked for the Florida Educational System as a system administrator (sysadmin) since June of 1996 or whereabouts, but nothing on this site is affiliated with, sponsored, or endorsed by them.</description>
+    </item>
+    
+    <item>
+      <title>Automatically Scheduled Bank Payments</title>
+      <link>https://collantes.us/2019/08/02/automatically-scheduled-bank-payments/</link>
+      <pubDate>Fri, 02 Aug 2019 16:40:20 -0400</pubDate>
+      
+      <guid>https://collantes.us/2019/08/02/automatically-scheduled-bank-payments/</guid>
+      <description>So, you sign up for a gym, or another service, that gives you a small discount for paying using an automatic scheduled widthdraw from your bank&amp;rsquo;s checking account. Things go well for a while, then they go sour—or you simply change your mind—and you want to sever that agreement, to disconnect the link between them and your bank account. Guess what? You can&amp;rsquo;t. Not throught your mobile banking app, nor through a bank&amp;rsquo;s web site, call, or in-person visit.</description>
     </item>
     
     <item>
@@ -1007,15 +1016,6 @@ So far, other than finding the book boring &amp;mdash; mind it, he is barely 13 
       
       <guid>https://collantes.us/2013/12/24/tmobile-and-the-ipad/</guid>
       <description>I am not sure about the other mobile telephony providers, but this morning I went to T-Mobile with the intention of buying an iPad mini. They had only the dark colour in stock, and on 32GB capacity &amp;ndash; I was wanting a 16GB. The transaction was almost finished, when I was asked for a telephone number. After stating that I just wanted the iPad, no connection, I was told they could only sell it, if it was with a mobile data plan.</description>
-    </item>
-    
-    <item>
-      <title>A Christmas Tree Small Story</title>
-      <link>https://collantes.us/2013/12/23/a-christmas-tree-small-story/</link>
-      <pubDate>Mon, 23 Dec 2013 14:00:00 +0000</pubDate>
-      
-      <guid>https://collantes.us/2013/12/23/a-christmas-tree-small-story/</guid>
-      <description>Last year we had a plastic Christmas tree. Wife was not happy. This year she wanted a real one, so this morning the child and I went on the quest of getting it. Most families in the States will get a Christmas tree right after Thanksgiving, but I am used to get it the day before Christmas. Of course, if I wait for that day there will be none left. So it is today, or never1.</description>
     </item>
     
   </channel>

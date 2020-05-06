@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bookmarklets on David Collantes</title>
@@ -16,7 +16,7 @@
       <pubDate>Sat, 07 Nov 2009 14:00:00 +0000</pubDate>
       
       <guid>https://collantes.us/2009/11/07/bookmarklets-i-use/</guid>
-      <description>These are some of the general bookmarklets I use. I have them synchronized with Chrome and Google Docs, but I am listing them here in case I want to share them with someone else, like you (yes, you there, reading this now). Here there go:  Tweet it! Translate to English Google Dictionary Get Youtube MP4 Record your screen URL to QR Code Selection to QR Code  More will be added as I find the need for something else.</description>
+      <description>These are some of the general bookmarklets I use. I have them synchronized with Chrome and Google Docs, but I am listing them here in case I want to share them with someone else, like you (yes, you there, reading this now). Here there go:</description>
     </item>
     
     <item>
@@ -25,8 +25,8 @@
       <pubDate>Fri, 07 Dec 2007 14:00:00 +0000</pubDate>
       
       <guid>https://collantes.us/2007/12/07/supergenpass-update/</guid>
-      <description>SuperGenPass: A Free Bookmarklet Password Generator
-Chris Zarate has updated his SuperGenPass bookmarlet, which now has it&amp;rsquo;s own dedicated domain. Version 1.1 comes with (from the website):  Moveable window: The SuperGenPass window can be moved by dragging the title bar. Smarter password capturing: When multiple master passwords are found, the conflict must be resolved by double-clicking the desired field. Smarter autopopulate: Autopopulate is on by default, but only for fields where the master password was found.</description>
+      <description>SuperGenPass: A Free Bookmarklet Password GeneratorChris Zarate has updated his SuperGenPass bookmarlet, which now has it&amp;rsquo;s own dedicated domain. Version 1.1 comes with (from the website):
+I first mentioned about this on my Single Sign onpost, and I have been using ever since. Nice to see Chris keeps the utility fresh and useful.</description>
     </item>
     
     <item>

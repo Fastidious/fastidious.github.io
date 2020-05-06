@@ -14,7 +14,7 @@ Before hosting this weblog on Vultr, I had it on GitHub, and their Pages would d
 <meta property='og:site_name' content='David Collantes'>
 <meta property='og:type' content='article'><meta property='og:image' content='https://collantes.us/resources/david_collantes.png' /><meta property='article:section' content='Blog'><meta property='article:tag' content='jekyll'><meta property='article:tag' content='git'><meta property='article:tag' content='vultr'><meta property='article:tag' content='github'><meta property='article:tag' content='atom'><meta property='article:published_time' content='2015-08-29T14:00:03Z'/><meta property='article:modified_time' content='2015-08-29T14:00:03Z'/><meta name='twitter:card' content='summary'><meta name='twitter:site' content='@connivingmonkey'><meta property='twitter:image' content='https://collantes.us/resources/david_collantes.png' />
 
-<meta name="generator" content="Hugo 0.56.0" />
+<meta name="generator" content="Hugo 0.69.2" />
 
   <title>Jekyll and Git - David Collantes</title>
   <link rel='canonical' href='https://collantes.us/2015/08/29/jekyll-and-git/'>
@@ -91,16 +91,13 @@ Before hosting this weblog on Vultr, I had it on GitHub, and their Pages would d
   
   <div class='container entry-content'>
   <p>I have been using <a href="/2011/02/03/forget-hyde-get-jekyll/">Jekyll</a> for a while now, but all this time I have been generating it on the server, That is, I had had a directory on the server holding the Jekyll files, in which I would run <code>jekyll build</code> to generate the website. Not too streamlined.</p>
-
 <p>Before hosting this weblog on <a href="http://www.vultr.com/?ref=6815414">Vultr</a>, I had it on <a href="https://github.com/">GitHub</a>, and their <a href="https://pages.github.com/">Pages</a> would do the publishing for me, right after a commit, which was great. Yesterday I decided to implement the same, but on my VPS. This is what I did:</p>
-
 <ol>
 <li>Created empty git repository (<code>git init --bare website.git</code>).</li>
 <li>Cloned it.</li>
 <li>Added my Jekyll files.</li>
 </ol>
-
-<p>What was left was to add the following <code>post-receive</code> hook<sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup>:</p>
+<p>What was left was to add the following <code>post-receive</code> hook<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#75715e">#!/bin/bash -l
 </span><span style="color:#75715e"></span>GIT_REPOSITORY<span style="color:#f92672">=</span>/path/to/my/website.git
 TMP_GIT_CLONE<span style="color:#f92672">=</span>/tmp/git/website
@@ -109,17 +106,16 @@ WWW_ROOT<span style="color:#f92672">=</span>/path/to/my/website
 git clone $GIT_REPOSITORY $TMP_GIT_CLONE
 jekyll build --source $TMP_GIT_CLONE --destination $WWW_ROOT
 rm -rf $TMP_GIT_CLONE
-exit</code></pre></div>
-<p>Now a few seconds right after committing, my website will show the changes. Being able to use Atom with <code>markdown-writer</code> to compose entries, and use git to deploy them is a bliss.</p>
-<div class="footnotes">
-
-<hr />
-
+exit
+</code></pre></div><p>Now a few seconds right after committing, my website will show the changes. Being able to use Atom with <code>markdown-writer</code> to compose entries, and use git to deploy them is a bliss.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
 <ol>
-<li id="fn:1">Thanks to <a href="https://www.digitalocean.com/community/tutorials/how-to-deploy-jekyll-blogs-with-git">Matt Harzewski</a> for pointing me to the right path.
- <a class="footnote-return" href="#fnref:1">&#8673;</a></li>
+<li id="fn:1" role="doc-endnote">
+<p>Thanks to <a href="https://www.digitalocean.com/community/tutorials/how-to-deploy-jekyll-blogs-with-git">Matt Harzewski</a> for pointing me to the right path. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
 </ol>
-</div>
+</section>
 
   
   <p class="endofpage">§</p>
@@ -232,7 +228,7 @@ exit</code></pre></div>
 </section>
 
           <div class='copyright'>
-  <p>Made in Orlando, FL, U.S.A. &copy; 1992-2019 &mdash; David Collantes. </p>
+  <p>Made in Orlando, FL, U.S.A. &copy; 1992-2020 &mdash; David Collantes. </p>
 </div>
 
         </div>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>openssl on David Collantes</title>
@@ -20,7 +20,7 @@
 Using Gnupg To encrypt:
 gpg --cipher-algo aes256 --symmetric file.txt Adding the option --armor to the above will produce an ASCII armoured encrypted file.
 To decrypt:
-gpg --output file.</description>
+gpg --output file.txt --decrypt file.</description>
     </item>
     
   </channel>

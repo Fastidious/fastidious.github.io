@@ -12,7 +12,7 @@
 <meta property='og:site_name' content='David Collantes'>
 <meta property='og:type' content='article'><meta property='og:image' content='https://collantes.us/resources/david_collantes.png' /><meta property='article:section' content='Blog'><meta property='article:tag' content='gpg'><meta property='article:published_time' content='2015-10-13T14:00:00Z'/><meta property='article:modified_time' content='2015-10-13T14:00:00Z'/><meta name='twitter:card' content='summary'><meta name='twitter:site' content='@connivingmonkey'><meta property='twitter:image' content='https://collantes.us/resources/david_collantes.png' />
 
-<meta name="generator" content="Hugo 0.56.0" />
+<meta name="generator" content="Hugo 0.69.2" />
 
   <title>Backing up and Restoring GPG Keys - David Collantes</title>
   <link rel='canonical' href='https://collantes.us/2015/10/13/backing-up-and-restoring-gpg-keys/'>
@@ -90,42 +90,36 @@
   
   
   <div class='container entry-content'>
-  
-
-<p>If you use GPG to occasionally encrypt and/or sign your email, or to encrypt your files before placing them on the cloud, you will understand how important it is to have a backup of your GPG keys. Similarly important will be to know how to restore them as well.</p>
-
+  <p>If you use GPG to occasionally encrypt and/or sign your email, or to encrypt your files before placing them on the cloud, you will understand how important it is to have a backup of your GPG keys. Similarly important will be to know how to restore them as well.</p>
 <h3 id="backing-up-your-keys-and-configuration-files">Backing up your keys and configuration files</h3>
-
-<p>To back your private, and public keys, as well as your trust database, you will do<sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup>:</p>
+<p>To back your private, and public keys, as well as your trust database, you will do<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gpg --armor --export-secret-keys &gt; ~/Desktop/gpg_private_keys.asc
 gpg --armor --export &gt; ~/Desktop/gpg_public_keys.asc
-gpg --export-ownertrust &gt; ~/Desktop/gpg_ownertrust.asc</code></pre></div>
-<p>You might want to backup your <code>gpg.conf</code> and <code>gpg-agent.conf</code> as well:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cp ~/.gnupg/gpg.conf ~/.gnupg/gpg-agent.conf ~/Desktop/</code></pre></div>
-<p>Next, you will want to compress all the files into a single archive:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cd ~/Desktop/; zip gpg_stuff.zip gpg_private_keys.asc gpg_public_keys.asc gpg_ownertrust.asc gpg.conf gpg-agent.conf</code></pre></div>
-<p>Finally, encrypt  <code>gpg_stuff.zip</code> before uploading it to you cloud service of choice:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gpg -c -z <span style="color:#ae81ff">9</span> --require-secmem --cipher-algo AES256 --s2k-cipher-algo AES256 --s2k-digest-algo SHA512 --digest-algo SHA512 --s2k-mode <span style="color:#ae81ff">3</span> --s2k-count <span style="color:#ae81ff">65000000</span> --compress-algo BZIP2 --bzip2-compress-level <span style="color:#ae81ff">9</span> gpg_stuff.zip</code></pre></div>
-<p>Make sure to remember the password you used, as you will not be able to decompress the files if you forget it, and your keys and configuration files will be rendered worthless.</p>
-
+gpg --export-ownertrust &gt; ~/Desktop/gpg_ownertrust.asc
+</code></pre></div><p>You might want to backup your <code>gpg.conf</code> and <code>gpg-agent.conf</code> as well:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cp ~/.gnupg/gpg.conf ~/.gnupg/gpg-agent.conf ~/Desktop/
+</code></pre></div><p>Next, you will want to compress all the files into a single archive:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cd ~/Desktop/; zip gpg_stuff.zip gpg_private_keys.asc gpg_public_keys.asc gpg_ownertrust.asc gpg.conf gpg-agent.conf
+</code></pre></div><p>Finally, encrypt  <code>gpg_stuff.zip</code> before uploading it to you cloud service of choice:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gpg -c -z <span style="color:#ae81ff">9</span> --require-secmem --cipher-algo AES256 --s2k-cipher-algo AES256 --s2k-digest-algo SHA512 --digest-algo SHA512 --s2k-mode <span style="color:#ae81ff">3</span> --s2k-count <span style="color:#ae81ff">65000000</span> --compress-algo BZIP2 --bzip2-compress-level <span style="color:#ae81ff">9</span> gpg_stuff.zip
+</code></pre></div><p>Make sure to remember the password you used, as you will not be able to decompress the files if you forget it, and your keys and configuration files will be rendered worthless.</p>
 <h3 id="restoring-your-keys-and-configuration-files">Restoring your keys and configuration files</h3>
-
 <p>To restore the key and configuration files, you will first need to decrypt and decompress <code>gpg_stuff.zip.gpg</code>:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gpg gpg_stuff.zip.gpg; unzip gpg_stuff.zip</code></pre></div>
-<p>And then restore the keys and trust database:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gpg gpg_stuff.zip.gpg; unzip gpg_stuff.zip
+</code></pre></div><p>And then restore the keys and trust database:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gpg --import gpg_private_keys.asc
 gpg --import gpg_public_keys.asc
-gpg --import-ownertrust gpg_ownertrust.asc</code></pre></div>
-<p>Finally, copy your configuration files to the proper directory:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cp gpg.conf gpg-agent.conf ~/.gnupg/</code></pre></div><div class="footnotes">
-
-<hr />
-
+gpg --import-ownertrust gpg_ownertrust.asc
+</code></pre></div><p>Finally, copy your configuration files to the proper directory:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cp gpg.conf gpg-agent.conf ~/.gnupg/
+</code></pre></div><section class="footnotes" role="doc-endnotes">
+<hr>
 <ol>
-<li id="fn:1">This assumes your are using OS X. Change destinations depending on your OS accordingly, if using another Unix alike OS.
- <a class="footnote-return" href="#fnref:1">&#8673;</a></li>
+<li id="fn:1" role="doc-endnote">
+<p>This assumes your are using OS X. Change destinations depending on your OS accordingly, if using another Unix alike OS. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
 </ol>
-</div>
+</section>
 
   
   <p class="endofpage">§</p>
@@ -238,7 +232,7 @@ gpg --import-ownertrust gpg_ownertrust.asc</code></pre></div>
 </section>
 
           <div class='copyright'>
-  <p>Made in Orlando, FL, U.S.A. &copy; 1992-2019 &mdash; David Collantes. </p>
+  <p>Made in Orlando, FL, U.S.A. &copy; 1992-2020 &mdash; David Collantes. </p>
 </div>
 
         </div>

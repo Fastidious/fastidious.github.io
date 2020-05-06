@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>linux on David Collantes</title>
@@ -35,8 +35,9 @@ I have a Linux DNS/DHCP to change (Internet facing one).</description>
       <pubDate>Mon, 21 Apr 2008 14:00:00 +0000</pubDate>
       
       <guid>https://collantes.us/2008/04/21/linuxers-for-obama/</guid>
-      <description>Linuxers for Obama &amp;ndash; LinuxersForObama is a campaign for all Free and Open Source Software advocates to contribute to the Obama campaign. Sorry for the shorthand &amp;ldquo;LinuxForObama&amp;rdquo;, I know it should have been &amp;ldquo;FLOSSGNUX11BSDApacheMySQLForObama&amp;rdquo;, but I went for short and simple.
-Hopefully team LinuxForObama can do some nice fund raising for Obama and we can settle once and for all the argument about which operating system is the best.</description>
+      <description>Linuxers for Obama&amp;ndash; LinuxersForObama is a campaign for all Free and Open Source Software advocates to contribute to the Obama campaign. Sorry for the shorthand &amp;ldquo;LinuxForObama&amp;rdquo;, I know it should have been &amp;ldquo;FLOSSGNUX11BSDApacheMySQLForObama&amp;rdquo;, but I went for short and simple.
+Hopefully team LinuxForObama can do some nice fund raising for Obama and we can settle once and for all the argument about which operating system is the best.
+ I just donated a bit.</description>
     </item>
     
     <item>
@@ -45,7 +46,7 @@ Hopefully team LinuxForObama can do some nice fund raising for Obama and we can 
       <pubDate>Sun, 25 Apr 2004 14:00:00 +0000</pubDate>
       
       <guid>https://collantes.us/2004/04/25/fedora-core-test-3/</guid>
-      <description>I have installed Fedora Core Test 2 on my new XPS (dual boot), ran up2date, gotten Test 3 and I must say it is one sweet, nice coming along distribution. Hardened with SELinux, running kernel 2.6.3 and with a nice set of packages available, Fedora will certainly stand out.
+      <description>I have installed Fedora Core Test 2 on my new XPS(dual boot), ran up2date, gotten Test 3 and I must say it is one sweet, nice coming along distribution. Hardened with SELinux, running kernel 2.6.3 and with a nice set of packagesavailable, Fedora will certainly stand out.
 I am really contemplating getting one of those mighty cheap Dell servers, get Fedora (once it is released) installed and collocate. I might do that, seriously.</description>
     </item>
     

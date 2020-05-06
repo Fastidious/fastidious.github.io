@@ -14,7 +14,7 @@ Promptly I set off to migrate one of my domains over Route 53.'>
 <meta property='og:site_name' content='David Collantes'>
 <meta property='og:type' content='article'><meta property='og:image' content='https://collantes.us/resources/david_collantes.png' /><meta property='article:section' content='Blog'><meta property='article:tag' content='amazon'><meta property='article:published_time' content='2011-02-24T14:00:00Z'/><meta property='article:modified_time' content='2011-02-24T14:00:00Z'/><meta name='twitter:card' content='summary'><meta name='twitter:site' content='@connivingmonkey'><meta property='twitter:image' content='https://collantes.us/resources/david_collantes.png' />
 
-<meta name="generator" content="Hugo 0.56.0" />
+<meta name="generator" content="Hugo 0.69.2" />
 
   <title>Route 53, wish I could have used you - David Collantes</title>
   <link rel='canonical' href='https://collantes.us/2011/02/24/almost-at-route53-and-s3/'>
@@ -91,21 +91,17 @@ Promptly I set off to migrate one of my domains over Route 53.'>
   
   <div class='container entry-content'>
   <p>Ever since Amazon announced it&rsquo;s <a href="http://aws.amazon.com/route53/" title="Amazon Route 53">Route 53</a> service I have been dreaming on using it, but since I dislike to have services too spread out (got <a href="http://www.google.com/apps/intl/en/group/">Google Apps</a> and <a href="http://www.linode.com/">Linode</a> now), I held up. Two days ago or so, Amazon announced <a href="http://aws.amazon.com/about-aws/whats-new/2011/02/17/Amazon-S3-Website-Features/" title="Static websites in your bucket">new features</a> that make hosting static websites&mdash;such as this one&mdash;on <a href="http://aws.amazon.com/s3/">AWS S3</a> buckets possible. This was it, just what I have been waiting for!</p>
-
 <p>Promptly I set off to migrate one of my domains over Route 53. New buckets were created on my <a href="http://aws.amazon.com/s3/">S3</a>, to accommodate the new websites. Started to create all needed entries: Google Apps, all old &ldquo;<code>IN A</code>&rdquo; were converted to &ldquo;<code>IN CNAME</code>&rdquo;. Ready, set! Then it hit me.</p>
-
-<p>Since the rules of DNS <a href="http://www.ietf.org/rfc/rfc1034.txt">forbid CNAMEs</a><sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup> at the zone apex, you cannot set <em>domain.tld</em> (a &ldquo;naked&rdquo; domain) to also be a <code>CNAME</code> for your Amazon web enabled bucket. You need an &ldquo;<code>IN A</code>&rdquo;, an IP for that, which Amazon doesn&rsquo;t provide on S3. Bummer!</p>
-
+<p>Since the rules of DNS <a href="http://www.ietf.org/rfc/rfc1034.txt">forbid CNAMEs</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> at the zone apex, you cannot set <em>domain.tld</em> (a &ldquo;naked&rdquo; domain) to also be a <code>CNAME</code> for your Amazon web enabled bucket. You need an &ldquo;<code>IN A</code>&rdquo;, an IP for that, which Amazon doesn&rsquo;t provide on S3. Bummer!</p>
 <p>Too bad, so sad. Reversed everything. As we were!</p>
-<div class="footnotes">
-
-<hr />
-
+<section class="footnotes" role="doc-endnotes">
+<hr>
 <ol>
-<li id="fn:1">If a CNAME RR is present at a node, no other data should be present; this ensures that the data for a canonical name and its aliases cannot be different.
- <a class="footnote-return" href="#fnref:1">&#8673;</a></li>
+<li id="fn:1" role="doc-endnote">
+<p>If a CNAME RR is present at a node, no other data should be present; this ensures that the data for a canonical name and its aliases cannot be different. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
 </ol>
-</div>
+</section>
 
   
   <p class="endofpage">§</p>
@@ -218,7 +214,7 @@ Promptly I set off to migrate one of my domains over Route 53.'>
 </section>
 
           <div class='copyright'>
-  <p>Made in Orlando, FL, U.S.A. &copy; 1992-2019 &mdash; David Collantes. </p>
+  <p>Made in Orlando, FL, U.S.A. &copy; 1992-2020 &mdash; David Collantes. </p>
 </div>
 
         </div>

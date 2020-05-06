@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -24,25 +24,21 @@
   <url>
     <loc>https://collantes.us/tags/bofa/</loc>
     <lastmod>2019-08-02T16:40:20-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/categories/finances/</loc>
     <lastmod>2019-08-02T16:40:20-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/categories/personal/</loc>
     <lastmod>2019-08-02T16:40:20-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/rants/</loc>
     <lastmod>2019-08-02T16:40:20-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -53,19 +49,31 @@
   <url>
     <loc>https://collantes.us/tags/elections2020/</loc>
     <lastmod>2019-07-31T16:48:09-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/categories/politics/</loc>
     <lastmod>2019-07-31T16:48:09-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/trump/</loc>
     <lastmod>2019-07-31T16:48:09-04:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/tags/gpg/</loc>
+    <lastmod>2019-07-30T13:15:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/tags/openssl/</loc>
+    <lastmod>2019-07-30T13:15:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/categories/tech/</loc>
+    <lastmod>2019-07-30T13:15:56-04:00</lastmod>
   </url>
   
   <url>
@@ -74,38 +82,18 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/gpg/</loc>
-    <lastmod>2019-07-30T13:15:56-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/openssl/</loc>
-    <lastmod>2019-07-30T13:15:56-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/categories/tech/</loc>
-    <lastmod>2019-07-30T13:15:56-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/2019/07/29/there-is-always-a-first-time/</loc>
-    <lastmod>2019-07-29T17:04:16-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://collantes.us/tags/apple/</loc>
     <lastmod>2019-07-29T17:04:16-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/iphone/</loc>
     <lastmod>2019-07-29T17:04:16-04:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/2019/07/29/there-is-always-a-first-time/</loc>
+    <lastmod>2019-07-29T17:04:16-04:00</lastmod>
   </url>
   
   <url>
@@ -126,13 +114,21 @@
   <url>
     <loc>https://collantes.us/tags/images/</loc>
     <lastmod>2019-04-25T18:38:42-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/kent/</loc>
     <lastmod>2019-04-25T18:38:42-04:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/categories/family/</loc>
+    <lastmod>2019-02-11T20:22:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/tags/john/</loc>
+    <lastmod>2019-02-11T20:22:10-05:00</lastmod>
   </url>
   
   <url>
@@ -141,15 +137,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/categories/family/</loc>
-    <lastmod>2019-02-11T20:22:10-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/categories/life/</loc>
+    <lastmod>2018-08-24T10:54:11-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/john/</loc>
-    <lastmod>2019-02-11T20:22:10-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/tags/notes/</loc>
+    <lastmod>2018-08-24T10:54:11-04:00</lastmod>
   </url>
   
   <url>
@@ -158,15 +152,8 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/categories/life/</loc>
-    <lastmod>2018-08-24T10:54:11-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/notes/</loc>
-    <lastmod>2018-08-24T10:54:11-04:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/tags/facebook/</loc>
+    <lastmod>2018-03-25T18:02:05-04:00</lastmod>
   </url>
   
   <url>
@@ -175,9 +162,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/facebook/</loc>
-    <lastmod>2018-03-25T18:02:05-04:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/tags/mac/</loc>
+    <lastmod>2018-03-22T13:34:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/tags/macos/</loc>
+    <lastmod>2018-03-22T13:34:10-04:00</lastmod>
   </url>
   
   <url>
@@ -186,25 +177,18 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/macos/</loc>
-    <lastmod>2018-03-22T13:34:10-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://collantes.us/2018/03/17/another-meltdown/</loc>
     <lastmod>2018-03-17T21:19:21-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/2018/03/17/flowers-will-follow/</loc>
+    <loc>https://collantes.us/tags/flowers/</loc>
     <lastmod>2018-03-17T18:17:46-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/flowers/</loc>
+    <loc>https://collantes.us/2018/03/17/flowers-will-follow/</loc>
     <lastmod>2018-03-17T18:17:46-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -220,7 +204,11 @@
   <url>
     <loc>https://collantes.us/tags/hacks/</loc>
     <lastmod>2018-03-16T20:53:39-04:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/tags/mueller/</loc>
+    <lastmod>2018-03-15T19:50:42-04:00</lastmod>
   </url>
   
   <url>
@@ -229,15 +217,8 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/mueller/</loc>
-    <lastmod>2018-03-15T19:50:42-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://collantes.us/tags/russia/</loc>
     <lastmod>2018-03-15T19:50:42-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -248,7 +229,6 @@
   <url>
     <loc>https://collantes.us/tags/photography/</loc>
     <lastmod>2018-03-04T21:12:22-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -264,7 +244,16 @@
   <url>
     <loc>https://collantes.us/tags/grandparents/</loc>
     <lastmod>2018-01-13T14:40:14-05:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/tags/franken/</loc>
+    <lastmod>2017-12-08T13:14:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/tags/nyt/</loc>
+    <lastmod>2017-12-08T13:14:44-05:00</lastmod>
   </url>
   
   <url>
@@ -273,26 +262,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/franken/</loc>
-    <lastmod>2017-12-08T13:14:44-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/nyt/</loc>
-    <lastmod>2017-12-08T13:14:44-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/tags/att/</loc>
+    <lastmod>2017-10-08T12:42:10+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://collantes.us/2017/10/08/att-fibre/</loc>
     <lastmod>2017-10-08T12:42:10+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/att/</loc>
-    <lastmod>2017-10-08T12:42:10+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -306,20 +282,18 @@
   </url>
   
   <url>
+    <loc>https://collantes.us/tags/comey/</loc>
+    <lastmod>2017-05-11T16:56:28+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://collantes.us/2017/05/11/comey-sacking/</loc>
     <lastmod>2017-05-11T16:56:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/comey/</loc>
-    <lastmod>2017-05-11T16:56:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://collantes.us/tags/fbi/</loc>
     <lastmod>2017-05-11T16:56:28+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -330,37 +304,31 @@
   <url>
     <loc>https://collantes.us/tags/freebsd/</loc>
     <lastmod>2017-03-05T19:28:16-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/hugo/</loc>
     <lastmod>2017-03-05T19:28:16-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/jekyll/</loc>
     <lastmod>2017-03-05T19:28:16-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/linux/</loc>
     <lastmod>2017-03-05T19:28:16-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/ubuntu/</loc>
     <lastmod>2017-03-05T19:28:16-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/vultr/</loc>
     <lastmod>2017-03-05T19:28:16-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -371,13 +339,11 @@
   <url>
     <loc>https://collantes.us/tags/bush/</loc>
     <lastmod>2017-02-27T19:59:15-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/twitter/</loc>
     <lastmod>2017-02-27T19:59:15-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -398,13 +364,11 @@
   <url>
     <loc>https://collantes.us/tags/david/</loc>
     <lastmod>2017-02-12T11:04:35-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/kim/</loc>
     <lastmod>2017-02-12T11:04:35-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -423,14 +387,18 @@
   </url>
   
   <url>
+    <loc>https://collantes.us/tags/emoji/</loc>
+    <lastmod>2017-01-08T19:39:17+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://collantes.us/2017/01/08/warming-up-to-emoji/</loc>
     <lastmod>2017-01-08T19:39:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/emoji/</loc>
-    <lastmod>2017-01-08T19:39:17+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/tags/hillary/</loc>
+    <lastmod>2016-11-09T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -439,20 +407,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/hillary/</loc>
-    <lastmod>2016-11-09T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/categories/parenting/</loc>
+    <lastmod>2016-10-29T14:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://collantes.us/2016/10/29/what-have-you-taught-me/</loc>
     <lastmod>2016-10-29T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/categories/parenting/</loc>
-    <lastmod>2016-10-29T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -463,7 +424,6 @@
   <url>
     <loc>https://collantes.us/tags/sanders/</loc>
     <lastmod>2016-06-09T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -482,14 +442,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2015/11/12/amazon-cloud-drive-feedback/</loc>
+    <loc>https://collantes.us/tags/amazon/</loc>
     <lastmod>2015-11-12T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/amazon/</loc>
+    <loc>https://collantes.us/2015/11/12/amazon-cloud-drive-feedback/</loc>
     <lastmod>2015-11-12T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -500,19 +459,16 @@
   <url>
     <loc>https://collantes.us/tags/relationships/</loc>
     <lastmod>2015-11-08T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/sex/</loc>
     <lastmod>2015-11-08T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/categories/social/</loc>
     <lastmod>2015-11-08T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -526,14 +482,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2015/10/29/chinas-two-child-policy/</loc>
+    <loc>https://collantes.us/tags/china/</loc>
     <lastmod>2015-10-29T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/china/</loc>
+    <loc>https://collantes.us/2015/10/29/chinas-two-child-policy/</loc>
     <lastmod>2015-10-29T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -569,7 +524,6 @@
   <url>
     <loc>https://collantes.us/tags/school/</loc>
     <lastmod>2015-10-16T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -578,14 +532,18 @@
   </url>
   
   <url>
+    <loc>https://collantes.us/categories/funny/</loc>
+    <lastmod>2015-10-11T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://collantes.us/2015/10/11/good-office-slave-manual/</loc>
     <lastmod>2015-10-11T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/categories/funny/</loc>
-    <lastmod>2015-10-11T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/tags/adverts/</loc>
+    <lastmod>2015-10-10T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -594,20 +552,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2015/10/10/the-martian/</loc>
-    <lastmod>2015-10-10T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/adverts/</loc>
-    <lastmod>2015-10-10T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://collantes.us/tags/movies/</loc>
     <lastmod>2015-10-10T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/2015/10/10/the-martian/</loc>
+    <lastmod>2015-10-10T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -618,13 +569,11 @@
   <url>
     <loc>https://collantes.us/tags/syria/</loc>
     <lastmod>2015-10-08T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/usa/</loc>
     <lastmod>2015-10-08T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -640,7 +589,11 @@
   <url>
     <loc>https://collantes.us/tags/zen/</loc>
     <lastmod>2015-10-05T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/tags/guardian/</loc>
+    <lastmod>2015-10-04T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -651,12 +604,6 @@
   <url>
     <loc>https://collantes.us/2015/10/04/tempus-fugit/</loc>
     <lastmod>2015-10-04T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/guardian/</loc>
-    <lastmod>2015-10-04T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -672,7 +619,6 @@
   <url>
     <loc>https://collantes.us/categories/religion/</loc>
     <lastmod>2015-09-30T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -691,26 +637,23 @@
   </url>
   
   <url>
+    <loc>https://collantes.us/tags/ios/</loc>
+    <lastmod>2015-09-24T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://collantes.us/2015/09/24/selling-out/</loc>
     <lastmod>2015-09-24T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/ios/</loc>
-    <lastmod>2015-09-24T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://collantes.us/tags/videos/</loc>
     <lastmod>2015-09-24T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/youtube/</loc>
     <lastmod>2015-09-24T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -721,7 +664,11 @@
   <url>
     <loc>https://collantes.us/tags/google/</loc>
     <lastmod>2015-09-23T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/tags/francis/</loc>
+    <lastmod>2015-09-22T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -730,25 +677,18 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/francis/</loc>
-    <lastmod>2015-09-22T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://collantes.us/2015/09/20/shogi/</loc>
     <lastmod>2015-09-20T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/2015/09/19/microsoft-studio-code/</loc>
+    <loc>https://collantes.us/tags/microsoft/</loc>
     <lastmod>2015-09-19T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/microsoft/</loc>
+    <loc>https://collantes.us/2015/09/19/microsoft-studio-code/</loc>
     <lastmod>2015-09-19T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -772,14 +712,28 @@
   </url>
   
   <url>
+    <loc>https://collantes.us/tags/huckabee/</loc>
+    <lastmod>2015-09-02T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://collantes.us/2015/09/02/huckabee-offers-his-support/</loc>
     <lastmod>2015-09-02T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/huckabee/</loc>
-    <lastmod>2015-09-02T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/tags/atom/</loc>
+    <lastmod>2015-08-29T14:00:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/tags/git/</loc>
+    <lastmod>2015-08-29T14:00:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/tags/github/</loc>
+    <lastmod>2015-08-29T14:00:03+00:00</lastmod>
   </url>
   
   <url>
@@ -788,21 +742,8 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/atom/</loc>
-    <lastmod>2015-08-29T14:00:03+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/git/</loc>
-    <lastmod>2015-08-29T14:00:03+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/github/</loc>
-    <lastmod>2015-08-29T14:00:03+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/tags/sublime/</loc>
+    <lastmod>2015-08-29T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -811,9 +752,8 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/sublime/</loc>
-    <lastmod>2015-08-29T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/tags/archives/</loc>
+    <lastmod>2015-05-28T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -822,9 +762,8 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/archives/</loc>
-    <lastmod>2015-05-28T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/tags/gmail/</loc>
+    <lastmod>2015-05-16T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -833,20 +772,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/gmail/</loc>
-    <lastmod>2015-05-16T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/categories/culture/</loc>
+    <lastmod>2015-05-14T14:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://collantes.us/2015/05/14/the-very-last-of-something/</loc>
     <lastmod>2015-05-14T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/categories/culture/</loc>
-    <lastmod>2015-05-14T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -857,24 +789,21 @@
   <url>
     <loc>https://collantes.us/categories/science/</loc>
     <lastmod>2015-05-03T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/tidbits/</loc>
     <lastmod>2015-05-03T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/2015/05/02/icloud-mess/</loc>
-    <lastmod>2015-05-02T14:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/icloud/</loc>
     <lastmod>2015-05-02T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/2015/05/02/icloud-mess/</loc>
+    <lastmod>2015-05-02T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -908,14 +837,18 @@
   </url>
   
   <url>
+    <loc>https://collantes.us/tags/digitalocean/</loc>
+    <lastmod>2014-06-29T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://collantes.us/2014/06/29/moved-to-a-droplet/</loc>
     <lastmod>2014-06-29T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/digitalocean/</loc>
-    <lastmod>2014-06-29T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/tags/cloud/</loc>
+    <lastmod>2014-06-28T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -924,15 +857,8 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/cloud/</loc>
-    <lastmod>2014-06-28T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://collantes.us/tags/nas/</loc>
     <lastmod>2014-06-28T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -966,14 +892,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2013/12/27/the-joy-of-reading-hemingway/</loc>
+    <loc>https://collantes.us/tags/books/</loc>
     <lastmod>2013-12-27T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/books/</loc>
+    <loc>https://collantes.us/2013/12/27/the-joy-of-reading-hemingway/</loc>
     <lastmod>2013-12-27T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -987,20 +912,18 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2013/12/24/tmobile-and-the-ipad/</loc>
-    <lastmod>2013-12-24T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://collantes.us/tags/ipad/</loc>
     <lastmod>2013-12-24T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/t-mobile/</loc>
     <lastmod>2013-12-24T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/2013/12/24/tmobile-and-the-ipad/</loc>
+    <lastmod>2013-12-24T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1016,7 +939,6 @@
   <url>
     <loc>https://collantes.us/tags/tv/</loc>
     <lastmod>2013-12-23T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1030,14 +952,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2012/11/19/sprint-crookery/</loc>
+    <loc>https://collantes.us/tags/sprint/</loc>
     <lastmod>2012-11-19T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/sprint/</loc>
+    <loc>https://collantes.us/2012/11/19/sprint-crookery/</loc>
     <lastmod>2012-11-19T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1058,18 +979,16 @@
   <url>
     <loc>https://collantes.us/tags/philosophy/</loc>
     <lastmod>2012-02-02T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/2012/01/28/on-aws-s3/</loc>
-    <lastmod>2012-01-28T14:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/linode/</loc>
     <lastmod>2012-01-28T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/2012/01/28/on-aws-s3/</loc>
+    <lastmod>2012-01-28T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1080,24 +999,21 @@
   <url>
     <loc>https://collantes.us/tags/mum/</loc>
     <lastmod>2011-12-03T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/parents/</loc>
     <lastmod>2011-12-03T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/2011/10/26/steve-jobs-by-stephen-fry/</loc>
-    <lastmod>2011-10-26T14:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/jobs/</loc>
     <lastmod>2011-10-26T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/2011/10/26/steve-jobs-by-stephen-fry/</loc>
+    <lastmod>2011-10-26T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1126,14 +1042,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2011/05/12/what-i-thought-when-my-plane-crashed/</loc>
+    <loc>https://collantes.us/tags/cnn/</loc>
     <lastmod>2011-05-12T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/cnn/</loc>
+    <loc>https://collantes.us/2011/05/12/what-i-thought-when-my-plane-crashed/</loc>
     <lastmod>2011-05-12T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1162,20 +1077,18 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2011/03/14/japan-earthquake-tsunami-2011/</loc>
-    <lastmod>2011-03-14T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://collantes.us/categories/economy/</loc>
     <lastmod>2011-03-14T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/japan/</loc>
     <lastmod>2011-03-14T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/2011/03/14/japan-earthquake-tsunami-2011/</loc>
+    <lastmod>2011-03-14T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1191,18 +1104,16 @@
   <url>
     <loc>https://collantes.us/tags/wsj/</loc>
     <lastmod>2011-03-10T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/2011/02/27/happy-birthday-viejo/</loc>
-    <lastmod>2011-02-27T14:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/dad/</loc>
     <lastmod>2011-02-27T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/2011/02/27/happy-birthday-viejo/</loc>
+    <lastmod>2011-02-27T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1231,6 +1142,11 @@
   </url>
   
   <url>
+    <loc>https://collantes.us/tags/rumsfeld/</loc>
+    <lastmod>2011-01-12T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://collantes.us/2011/01/12/the-brotherhood/</loc>
     <lastmod>2011-01-12T14:00:00+00:00</lastmod>
   </url>
@@ -1241,12 +1157,6 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/rumsfeld/</loc>
-    <lastmod>2011-01-12T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://collantes.us/2011/01/04/steal-everything/</loc>
     <lastmod>2011-01-04T14:00:00+00:00</lastmod>
   </url>
@@ -1254,7 +1164,6 @@
   <url>
     <loc>https://collantes.us/tags/wisdom/</loc>
     <lastmod>2011-01-04T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1265,7 +1174,6 @@
   <url>
     <loc>https://collantes.us/tags/alyssa/</loc>
     <lastmod>2010-12-19T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1279,20 +1187,18 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2010/07/11/viva-spain/</loc>
-    <lastmod>2010-07-11T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://collantes.us/tags/football/</loc>
     <lastmod>2010-07-11T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/spain/</loc>
     <lastmod>2010-07-11T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/2010/07/11/viva-spain/</loc>
+    <lastmod>2010-07-11T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1308,7 +1214,6 @@
   <url>
     <loc>https://collantes.us/tags/dixie/</loc>
     <lastmod>2010-06-23T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1319,7 +1224,6 @@
   <url>
     <loc>https://collantes.us/tags/europe/</loc>
     <lastmod>2010-06-20T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1333,25 +1237,18 @@
   </url>
   
   <url>
+    <loc>https://collantes.us/tags/drobo/</loc>
+    <lastmod>2010-05-17T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://collantes.us/2010/05/17/drobo-fw800/</loc>
     <lastmod>2010-05-17T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/drobo/</loc>
-    <lastmod>2010-05-17T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://collantes.us/2010/05/05/its-decided/</loc>
     <lastmod>2010-05-05T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/mac/</loc>
-    <lastmod>2010-05-05T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1362,7 +1259,6 @@
   <url>
     <loc>https://collantes.us/tags/brighthouse/</loc>
     <lastmod>2010-05-02T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1371,18 +1267,17 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2010/04/29/thoughts-on-flash/</loc>
-    <lastmod>2010-04-29T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://collantes.us/tags/flash/</loc>
     <lastmod>2010-04-29T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/2010/04/29/ipad-3g-status/</loc>
+    <lastmod>2010-04-29T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/2010/04/29/thoughts-on-flash/</loc>
     <lastmod>2010-04-29T14:00:00+00:00</lastmod>
   </url>
   
@@ -1394,7 +1289,6 @@
   <url>
     <loc>https://collantes.us/tags/hawking/</loc>
     <lastmod>2010-04-28T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1410,7 +1304,6 @@
   <url>
     <loc>https://collantes.us/tags/ui/</loc>
     <lastmod>2010-04-26T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1431,7 +1324,6 @@
   <url>
     <loc>https://collantes.us/tags/north-korea/</loc>
     <lastmod>2009-12-03T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1442,7 +1334,11 @@
   <url>
     <loc>https://collantes.us/tags/serverbeach/</loc>
     <lastmod>2009-11-24T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/tags/bookmarklets/</loc>
+    <lastmod>2009-11-07T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1451,9 +1347,8 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/bookmarklets/</loc>
-    <lastmod>2009-11-07T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/tags/paypal/</loc>
+    <lastmod>2009-11-01T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1462,9 +1357,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/paypal/</loc>
-    <lastmod>2009-11-01T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/tags/android/</loc>
+    <lastmod>2009-10-22T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/tags/htc/</loc>
+    <lastmod>2009-10-22T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1473,26 +1372,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/android/</loc>
-    <lastmod>2009-10-22T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/htc/</loc>
-    <lastmod>2009-10-22T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://collantes.us/tags/ebay/</loc>
+    <lastmod>2009-10-13T14:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://collantes.us/2009/10/13/selling-iphone/</loc>
     <lastmod>2009-10-13T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/ebay/</loc>
-    <lastmod>2009-10-13T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1513,7 +1399,6 @@
   <url>
     <loc>https://collantes.us/tags/911/</loc>
     <lastmod>2009-09-11T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1529,7 +1414,6 @@
   <url>
     <loc>https://collantes.us/tags/ucf/</loc>
     <lastmod>2009-09-09T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1538,14 +1422,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2009/09/03/special-just-like-you/</loc>
+    <loc>https://collantes.us/tags/spam/</loc>
     <lastmod>2009-09-03T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/spam/</loc>
+    <loc>https://collantes.us/2009/09/03/special-just-like-you/</loc>
     <lastmod>2009-09-03T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1556,7 +1439,11 @@
   <url>
     <loc>https://collantes.us/tags/silly/</loc>
     <lastmod>2009-09-02T14:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/tags/aion/</loc>
+    <lastmod>2009-07-11T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1565,21 +1452,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/aion/</loc>
-    <lastmod>2009-07-11T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://collantes.us/categories/games/</loc>
     <lastmod>2009-07-11T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/tags/wow/</loc>
     <lastmod>2009-07-11T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1595,7 +1474,6 @@
   <url>
     <loc>https://collantes.us/tags/windows/</loc>
     <lastmod>2009-02-24T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1634,14 +1512,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2008/05/15/einstein-on-religion/</loc>
+    <loc>https://collantes.us/tags/einstein/</loc>
     <lastmod>2008-05-15T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/einstein/</loc>
+    <loc>https://collantes.us/2008/05/15/einstein-on-religion/</loc>
     <lastmod>2008-05-15T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1662,12 +1539,16 @@
   <url>
     <loc>https://collantes.us/tags/obama/</loc>
     <lastmod>2008-05-06T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://collantes.us/2008/05/01/lesbian-islanders/</loc>
     <lastmod>2008-05-01T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/tags/nato/</loc>
+    <lastmod>2008-04-30T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1678,12 +1559,6 @@
   <url>
     <loc>https://collantes.us/2008/04/30/nato-warns-russia/</loc>
     <lastmod>2008-04-30T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/nato/</loc>
-    <lastmod>2008-04-30T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1699,7 +1574,6 @@
   <url>
     <loc>https://collantes.us/tags/craigslist/</loc>
     <lastmod>2008-04-23T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1733,14 +1607,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2008/03/20/talk-radio-after-3pm/</loc>
+    <loc>https://collantes.us/tags/hannity/</loc>
     <lastmod>2008-03-20T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/hannity/</loc>
+    <loc>https://collantes.us/2008/03/20/talk-radio-after-3pm/</loc>
     <lastmod>2008-03-20T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1759,14 +1632,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2008/03/07/that-300am-call/</loc>
+    <loc>https://collantes.us/tags/mccain/</loc>
     <lastmod>2008-03-07T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/mccain/</loc>
+    <loc>https://collantes.us/2008/03/07/that-300am-call/</loc>
     <lastmod>2008-03-07T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1800,14 +1672,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2008/02/04/yahoo-and-the-future-of-the-internet/</loc>
+    <loc>https://collantes.us/tags/yahoo/</loc>
     <lastmod>2008-02-04T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/yahoo/</loc>
+    <loc>https://collantes.us/2008/02/04/yahoo-and-the-future-of-the-internet/</loc>
     <lastmod>2008-02-04T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1836,25 +1707,23 @@
   </url>
   
   <url>
+    <loc>https://collantes.us/tags/gates/</loc>
+    <lastmod>2007-12-28T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://collantes.us/2007/12/28/lets-make-sure/</loc>
+    <lastmod>2007-12-28T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://collantes.us/tags/sco/</loc>
     <lastmod>2007-12-28T14:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://collantes.us/2007/12/28/sco-receives-nasdaq-notice-letter/</loc>
     <lastmod>2007-12-28T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/gates/</loc>
-    <lastmod>2007-12-28T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/sco/</loc>
-    <lastmod>2007-12-28T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1873,14 +1742,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2007/12/18/want-the-darn-thing/</loc>
+    <loc>https://collantes.us/tags/cnet/</loc>
     <lastmod>2007-12-18T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/cnet/</loc>
+    <loc>https://collantes.us/2007/12/18/want-the-darn-thing/</loc>
     <lastmod>2007-12-18T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1899,6 +1767,11 @@
   </url>
   
   <url>
+    <loc>https://collantes.us/tags/dell/</loc>
+    <lastmod>2007-12-14T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://collantes.us/2007/12/14/i-had-to-have-them/</loc>
     <lastmod>2007-12-14T14:00:00+00:00</lastmod>
   </url>
@@ -1906,12 +1779,6 @@
   <url>
     <loc>https://collantes.us/2007/12/14/programmers-antisocials/</loc>
     <lastmod>2007-12-14T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/dell/</loc>
-    <lastmod>2007-12-14T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1925,6 +1792,11 @@
   </url>
   
   <url>
+    <loc>https://collantes.us/tags/c3/</loc>
+    <lastmod>2007-12-07T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://collantes.us/2007/12/07/supergenpass-update/</loc>
     <lastmod>2007-12-07T14:00:00+00:00</lastmod>
   </url>
@@ -1932,12 +1804,6 @@
   <url>
     <loc>https://collantes.us/2007/12/07/yes-they-sold-it/</loc>
     <lastmod>2007-12-07T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/c3/</loc>
-    <lastmod>2007-12-07T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2016,12 +1882,12 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2007/04/12/dont-want-vista-too-bad/</loc>
+    <loc>https://collantes.us/2007/04/12/iphone-is-near-leopard-not-so/</loc>
     <lastmod>2007-04-12T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/2007/04/12/iphone-is-near-leopard-not-so/</loc>
+    <loc>https://collantes.us/2007/04/12/dont-want-vista-too-bad/</loc>
     <lastmod>2007-04-12T14:00:00+00:00</lastmod>
   </url>
   
@@ -2041,14 +1907,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2007/03/28/stop-spamming-godaddy/</loc>
+    <loc>https://collantes.us/tags/godaddy/</loc>
     <lastmod>2007-03-28T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/godaddy/</loc>
+    <loc>https://collantes.us/2007/03/28/stop-spamming-godaddy/</loc>
     <lastmod>2007-03-28T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2152,6 +2017,11 @@
   </url>
   
   <url>
+    <loc>https://collantes.us/tags/bbc/</loc>
+    <lastmod>2006-05-16T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://collantes.us/2006/05/16/do-not-phone-and-drive/</loc>
     <lastmod>2006-05-16T14:00:00+00:00</lastmod>
   </url>
@@ -2159,12 +2029,6 @@
   <url>
     <loc>https://collantes.us/2006/05/16/nazi-crimes-archives-set-to-open-2/</loc>
     <lastmod>2006-05-16T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://collantes.us/tags/bbc/</loc>
-    <lastmod>2006-05-16T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2178,14 +2042,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2006/03/08/neoseeker-ibm-will-not-use-windows-vista/</loc>
+    <loc>https://collantes.us/tags/ibm/</loc>
     <lastmod>2006-03-08T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/ibm/</loc>
+    <loc>https://collantes.us/2006/03/08/neoseeker-ibm-will-not-use-windows-vista/</loc>
     <lastmod>2006-03-08T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2231,7 +2094,6 @@
   <url>
     <loc>https://collantes.us/tags/pgp/</loc>
     <lastmod>2005-07-13T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2247,7 +2109,6 @@
   <url>
     <loc>https://collantes.us/tags/uk/</loc>
     <lastmod>2005-07-08T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2346,14 +2207,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2005/01/06/more-on-voip/</loc>
+    <loc>https://collantes.us/tags/lingo/</loc>
     <lastmod>2005-01-06T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/lingo/</loc>
+    <loc>https://collantes.us/2005/01/06/more-on-voip/</loc>
     <lastmod>2005-01-06T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2469,7 +2329,6 @@
   <url>
     <loc>https://collantes.us/tags/wordpress/</loc>
     <lastmod>2004-07-13T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2555,7 +2414,6 @@
   <url>
     <loc>https://collantes.us/tags/php/</loc>
     <lastmod>2004-05-27T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2601,7 +2459,6 @@
   <url>
     <loc>https://collantes.us/tags/movable-type/</loc>
     <lastmod>2004-05-19T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2630,14 +2487,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2004/04/25/fedora-core-test-3/</loc>
+    <loc>https://collantes.us/tags/fedora/</loc>
     <lastmod>2004-04-25T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/fedora/</loc>
+    <loc>https://collantes.us/2004/04/25/fedora-core-test-3/</loc>
     <lastmod>2004-04-25T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2701,14 +2557,13 @@
   </url>
   
   <url>
-    <loc>https://collantes.us/2004/01/31/to-tampa-back-and-forth/</loc>
+    <loc>https://collantes.us/tags/tampa/</loc>
     <lastmod>2004-01-31T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://collantes.us/tags/tampa/</loc>
+    <loc>https://collantes.us/2004/01/31/to-tampa-back-and-forth/</loc>
     <lastmod>2004-01-31T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2799,7 +2654,6 @@
   <url>
     <loc>https://collantes.us/tags/iraq/</loc>
     <lastmod>2003-10-25T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2895,7 +2749,6 @@
   <url>
     <loc>https://collantes.us/tags/outsider/</loc>
     <lastmod>2003-06-05T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3066,7 +2919,6 @@
   
   <url>
     <loc>https://collantes.us/page/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

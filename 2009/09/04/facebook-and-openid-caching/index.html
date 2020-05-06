@@ -12,7 +12,7 @@
 <meta property='og:site_name' content='David Collantes'>
 <meta property='og:type' content='article'><meta property='og:image' content='https://collantes.us/resources/david_collantes.png' /><meta property='article:section' content='Blog'><meta property='article:tag' content='facebook'><meta property='article:published_time' content='2009-09-04T14:00:00Z'/><meta property='article:modified_time' content='2009-09-04T14:00:00Z'/><meta name='twitter:card' content='summary'><meta name='twitter:site' content='@connivingmonkey'><meta property='twitter:image' content='https://collantes.us/resources/david_collantes.png' />
 
-<meta name="generator" content="Hugo 0.56.0" />
+<meta name="generator" content="Hugo 0.69.2" />
 
   <title>Facebook and OpenID caching - David Collantes</title>
   <link rel='canonical' href='https://collantes.us/2009/09/04/facebook-and-openid-caching/'>
@@ -89,12 +89,9 @@
   
   <div class='container entry-content'>
   <p>When I first read that Facebook was going to allow OpenID logins, I was happy. OpenID means less usernames and passwords to remember. So I merrily went to setup mine, just to find out that their support was exclusively for OpenID version 2.0, and my implementation was 1.1. No graceful fall back, Facebook demands OpenID 2.0. So I decided it was time for me to upgrade my implementation for one capable to handle 1.1 and 2.0.</p>
-
-<p>Of course, the first one I tried I did not like it (and that one worked perfectly with Facebook). I ended up picking up, configuring and using <a href="http://sourceforge.net/projects/simpleid/">SimpleID</a>. Well, when I went ahead and tried to used it in Facebook, I found out that Facebook wasn&rsquo;t contacting my delegation anymore. It had stored my OpenID (<a href="http://collantes.us/">collantes.us</a>) and match it to the first implementation I tried, the one I did not like, which no longer existed.</p>
-
+<p>Of course, the first one I tried I did not like it (and that one worked perfectly with Facebook). I ended up picking up, configuring and using <!-- raw HTML omitted -->SimpleID<!-- raw HTML omitted -->. Well, when I went ahead and tried to used it in Facebook, I found out that Facebook wasn&rsquo;t contacting my delegation anymore. It had stored my OpenID (<!-- raw HTML omitted -->collantes.us<!-- raw HTML omitted -->) and match it to the first implementation I tried, the one I did not like, which no longer existed.</p>
 <p>Well, I thought, Facebook has many millions of users, some caching is expected. So I waited, and waited. A week passed by, and still going to the wrong server. I emailed them, clearly stated the problem, got the first canned reply acknowledging. Two days after got the second canned reply brushing me off.</p>
-
-<p>It has now being three weeks, and still Facebook insists on not going to <a href="https://collantes.us/">collantes.us</a> to check my OpenID delegation and reach the proper server. I wonder how long will it take. Makes me wonder how serious are they about OpenID.</p>
+<p>It has now being three weeks, and still Facebook insists on not going to <!-- raw HTML omitted -->collantes.us<!-- raw HTML omitted --> to check my OpenID delegation and reach the proper server. I wonder how long will it take. Makes me wonder how serious are they about OpenID.</p>
 
   
   <p class="endofpage">§</p>
@@ -207,7 +204,7 @@
 </section>
 
           <div class='copyright'>
-  <p>Made in Orlando, FL, U.S.A. &copy; 1992-2019 &mdash; David Collantes. </p>
+  <p>Made in Orlando, FL, U.S.A. &copy; 1992-2020 &mdash; David Collantes. </p>
 </div>
 
         </div>

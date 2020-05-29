@@ -16,7 +16,7 @@
       <pubDate>Thu, 27 May 2004 14:00:00 +0000</pubDate>
       
       <guid>https://collantes.us/2004/05/27/parsing-php-code/</guid>
-      <description>I am trying to implement a little hackthat will allow the use of PHP code within posts. Since I am the only &amp;ldquo;author&amp;rdquo; here, I do not think that will bring much of a security risk. This post is intended to test this hack. I will try the following, &amp;lt; ?php echo(&amp;ldquo;This hack has worked&amp;rdquo;); ?&amp;gt; to see if it does the trick. And here it goes:
+      <description>I am trying to implement a little hack that will allow the use of PHP code within posts. Since I am the only &amp;ldquo;author&amp;rdquo; here, I do not think that will bring much of a security risk. This post is intended to test this hack. I will try the following, &amp;lt; ?php echo(&amp;ldquo;This hack has worked&amp;rdquo;); ?&amp;gt; to see if it does the trick. And here it goes:
 This concludes this test.</description>
     </item>
     

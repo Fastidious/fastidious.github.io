@@ -35,7 +35,7 @@ As the few of you know, I used to run Movable Type (MT) and I was happy with it.
       <pubDate>Thu, 27 May 2004 14:00:00 +0000</pubDate>
       
       <guid>https://collantes.us/2004/05/27/parsing-php-code/</guid>
-      <description>I am trying to implement a little hackthat will allow the use of PHP code within posts. Since I am the only &amp;ldquo;author&amp;rdquo; here, I do not think that will bring much of a security risk. This post is intended to test this hack. I will try the following, &amp;lt; ?php echo(&amp;ldquo;This hack has worked&amp;rdquo;); ?&amp;gt; to see if it does the trick. And here it goes:
+      <description>I am trying to implement a little hack that will allow the use of PHP code within posts. Since I am the only &amp;ldquo;author&amp;rdquo; here, I do not think that will bring much of a security risk. This post is intended to test this hack. I will try the following, &amp;lt; ?php echo(&amp;ldquo;This hack has worked&amp;rdquo;); ?&amp;gt; to see if it does the trick. And here it goes:
 This concludes this test.</description>
     </item>
     
@@ -45,7 +45,7 @@ This concludes this test.</description>
       <pubDate>Tue, 25 May 2004 14:00:00 +0000</pubDate>
       
       <guid>https://collantes.us/2004/05/25/changing-servers/</guid>
-      <description>As if weren&amp;rsquo;t enough my move to WordPress and my internal debacle on what to do with the site design, now I am getting ready to move all domains and files &amp;ndash;physically&amp;ndash; to another hosting company, on a real colocated server (not VSanymore).
+      <description>As if weren&amp;rsquo;t enough my move to WordPress and my internal debacle on what to do with the site design, now I am getting ready to move all domains and files &amp;ndash;physically&amp;ndash; to another hosting company, on a real colocated server (not VS anymore).
 The virtual server I have used until now (and that I still use now, for the time being) served me well, but it is getting old (RH 8.</description>
     </item>
     
@@ -65,7 +65,7 @@ I am not alone on the habit though. Upgrading WP is, certainly, contagious.</des
       <pubDate>Wed, 19 May 2004 14:00:00 +0000</pubDate>
       
       <guid>https://collantes.us/2004/05/19/drawing-a-blank/</guid>
-      <description>I am drawing a blank trying to decided the new layout of this site. I have no problems with the previous one, but as I am running a new enginehere I would like the layout to be new as well. I spent a significant amount of time yesterday trying to come up with something and all went to waste.
+      <description>I am drawing a blank trying to decided the new layout of this site. I have no problems with the previous one, but as I am running a new engine here I would like the layout to be new as well. I spent a significant amount of time yesterday trying to come up with something and all went to waste.
 Perhaps I am procastinating until I see Wordpress 1.2 out, and have all links to be cruft free.</description>
     </item>
     
@@ -85,7 +85,7 @@ Perhaps I am procastinating until I see Wordpress 1.2 out, and have all links to
       
       <guid>https://collantes.us/2004/05/15/old-permalinks-broken/</guid>
       <description>If you had links to specific entries here you are finding out they broke. Let me start by apologizing, I did not know some people had links pointing to here.
-You see, I could&amp;rsquo;ve created permalinks on WordPressthat matched the old ones, but I was tired on having such large URI&amp;rsquo;s. That&amp;rsquo;s the reason I have changed them when I switched. The one&amp;rsquo;s in use now will last for a very long time, I have choosen them to be around for a while.</description>
+You see, I could&amp;rsquo;ve created permalinks on WordPress that matched the old ones, but I was tired on having such large URI&amp;rsquo;s. That&amp;rsquo;s the reason I have changed them when I switched. The one&amp;rsquo;s in use now will last for a very long time, I have choosen them to be around for a while.</description>
     </item>
     
     <item>
@@ -103,8 +103,9 @@ You see, I could&amp;rsquo;ve created permalinks on WordPressthat matched the ol
       <pubDate>Fri, 14 May 2004 14:00:00 +0000</pubDate>
       
       <guid>https://collantes.us/2004/05/14/i-am-not-alone/</guid>
-      <description>Looks like I am not the only one making the move. Judging by the length of the trackback liston &amp;ldquo;Mena&amp;rsquo;s Corner&amp;rdquo;, a whole lot of people is moving away from Movable Type. Since the news has bee Slashdotted, the WP server is overloaded by, not only switchers, but /. visitors. I am sure they will survive. Now ready for the weekend!
-NoteEven Mark Pilgrimswitched! The world is coming to an end :-)</description>
+      <description>Looks like I am not the only one making the move. Judging by the length of the trackback list on &amp;ldquo;Mena&amp;rsquo;s Corner&amp;rdquo;, a whole lot of people is moving away from Movable Type. Since the news has bee Slashdotted, the WP server is overloaded by, not only switchers, but /. visitors. I am sure they will survive. Now ready for the weekend!
+Note
+Even Mark Pilgrim switched! The world is coming to an end :-)</description>
     </item>
     
     <item>
@@ -113,7 +114,7 @@ NoteEven Mark Pilgrimswitched! The world is coming to an end :-)</description>
       <pubDate>Thu, 13 May 2004 14:00:00 +0000</pubDate>
       
       <guid>https://collantes.us/2004/05/13/in-the-process-of-moving/</guid>
-      <description>As you can see, I am in the process of moving from the now defunct Movable Typeto the sexy WordPress. Why, you may ask? Well, because I was already planning toand because Six Apart has changed to different venues that do not interest me at all. Also, I was getting tired of the lagginess of MT. Well, it is gone, history. Welcome to a dynamic scenario once again (it all started with i42, remember Stevo and Joey?</description>
+      <description>As you can see, I am in the process of moving from the now defunct Movable Type to the sexy WordPress. Why, you may ask? Well, because I was already planning to and because Six Apart has changed to different venues that do not interest me at all. Also, I was getting tired of the lagginess of MT. Well, it is gone, history. Welcome to a dynamic scenario once again (it all started with i42, remember Stevo and Joey?</description>
     </item>
     
   </channel>

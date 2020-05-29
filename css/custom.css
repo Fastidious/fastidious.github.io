@@ -181,8 +181,9 @@ blockquote {
 
 .entry-meta span {
     font-style: normal;
-    font-size: 0.9em;
-    font-family: Menlo, Consolas, Monaco, Ubuntu Mono, Liberation Mono, Lucida Console, monospace;
+    font-size: 0.85em;
+    color: #888888;
+    font-family: Inter, Menlo, Consolas, Monaco, Ubuntu Mono, Liberation Mono, Lucida Console, monospace;
 }
 
 .video-container {
@@ -272,4 +273,9 @@ kbd {
 @keyframes cursor{
   0%{opacity:0}
   50%{opacity:1}to{opacity:0}
+}
+
+time {
+  font-family: Menlo,Consolas,Inter;
+  font-size: 90%;
 }

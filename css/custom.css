@@ -279,3 +279,12 @@ time {
   font-family: Menlo,Consolas,Inter;
   font-size: 90%;
 }
+
+.sep-after:after, .sep-before:before {
+    content: "";
+    display: block;
+    width: 4em;
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+    border-bottom: .125em solid #ffcd00;
+}

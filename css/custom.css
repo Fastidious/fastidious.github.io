@@ -165,17 +165,17 @@ article a:hover, .list-container a:active, .list-container a:focus, .list-contai
 }
 
 blockquote p {
-    color: #909090;
+    color: #bfbfbf;
 }
 
 blockquote li {
-    color: #909090;
+    color: #bfbfbf;
 }
 
 blockquote {
     font-style: normal;
     font-size: 100%;
-    background-color: #181818;
+    background-color: #1a1a1a;
     padding: 15px;
 }
 

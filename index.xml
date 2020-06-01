@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David Collantes</title>
+    <title>David Collantes on David</title>
     <link>https://collantes.us/</link>
-    <description>Recent content on David Collantes</description>
+    <description>Recent content in David Collantes on David</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>david@collantes.us (David Collantes)</managingEditor>
@@ -11,7 +11,7 @@
     <lastBuildDate>Fri, 02 Aug 2019 16:40:20 -0400</lastBuildDate>
     <image>
       <url>https://collantes.us/apple-touch-icon-144x144.png</url>
-      <title>David Collantes</title>
+      <title>David Collantes on David</title>
       <link>https://collantes.us/</link>
       <width>144</width>
       <height>144</height>

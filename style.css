@@ -135,6 +135,7 @@ img {
 */
 main img {
   width: 100%;
+  border: 1px solid gray;
 }
 
 figure {
@@ -313,7 +314,7 @@ th:first-of-type, td:first-of-type {
 th {
   text-align: left;
   padding-bottom: 1rem;
-  border-bottom: 3px solid gray;
+  border-bottom: 1px solid #666;
 }
 
 /* Hack to add space between thead and tbody (https://stackoverflow.com/a/10762599) */
@@ -325,8 +326,8 @@ tbody::before
 }
 
 td {
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 
 tr > td:first-child {
@@ -599,6 +600,9 @@ button:disabled {
     text-decoration: none;
     border-bottom: none;
   }
+  tr:nth-child(2n) {
+    background-color: #222;
+  }
 }
 
 a.anchor {
@@ -627,4 +631,25 @@ a.anchor {
     border-width: .125em 0 0 0;
     background-color: transparent;
     text-align: left;
+}
+
+.container {
+    font-size: 1rem; margin-top: 0.5rem; color: slategray;
+}
+
+.video-container {
+    position:relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    margin-top: 20px;
+    height:0;
+    overflow:hidden;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
 }

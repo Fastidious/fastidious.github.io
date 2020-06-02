@@ -21,10 +21,10 @@
     
     <item>
       <title>Automatically scheduled bank payments</title>
-      <link>https://collantes.us/2019-08-02-automatically-scheduled-bank-payments/</link>
-      <pubDate>Fri, 02 Aug 2019 16:40:20 -0400</pubDate>
+      <link>https://collantes.us/2019/08/02/automatically-scheduled-bank-payments/</link>
+      <pubDate>Fri, 02 Aug 2019 16:40:20 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2019-08-02-automatically-scheduled-bank-payments/</guid>
+      <guid>https://collantes.us/2019/08/02/automatically-scheduled-bank-payments/</guid>
       <description>&lt;p&gt;So, you sign up for a gym, or another service, that gives you a small discount for paying using an automatic scheduled widthdraw from your bank&amp;rsquo;s checking account. Things go well for a while, then they go sour—or you simply change your mind—and you want to sever that agreement, to disconnect the link between them and &lt;em&gt;your&lt;/em&gt; bank account. Guess what? &lt;strong&gt;You can&amp;rsquo;t.&lt;/strong&gt; Not throught your mobile banking app, nor through a bank&amp;rsquo;s web site,  call, or in-person visit. It is a long process, not a simple action.&lt;/p&gt;
 &lt;p&gt;Cancelling a scheduled payment is close to impossible. It is 2019, we are preparing to send people to Mars, but this can&amp;rsquo;t be done simply. They can put a stop payment order to one, and/or future payments, but cutting ties?  They can&amp;rsquo;t. In other words, if you setup scheduled payments with your bank account, you are giving someone unlimited checks, hopefully with a pre-determined set amount.&lt;/p&gt;
 &lt;p&gt;To revoke authorisation you will need to go through a &lt;a href=&#34;https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/&#34;&gt;series of steps&lt;/a&gt; which conclude with a never-ending monitoring of your account, just in case an unathorised transfer occurs. Want to fully &amp;ldquo;break up?&amp;rdquo; Cancel your bank account, and create a new one. Moral of the story? Don&amp;rsquo;t ever setup automatic scheduled payments that widthdraw funds from your bank account. Never. Ever.&lt;/p&gt;
@@ -34,10 +34,10 @@
     
     <item>
       <title>Elections 2020</title>
-      <link>https://collantes.us/2019-07-31-elections-2020/</link>
+      <link>https://collantes.us/2019/07/31/elections-2020/</link>
       <pubDate>Wed, 31 Jul 2019 16:48:09 -0400</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2019-07-31-elections-2020/</guid>
+      <guid>https://collantes.us/2019/07/31/elections-2020/</guid>
       <description>&lt;p&gt;Election time is always an important time. We, the people, get to vote for the person that will be our nation’s president for at least four years—and with any luck, eight. The presidential election of 2020 is going to be an interesting one. I know, I know, we could say the same for every election. This time, though, it’s easy to understand why the upcoming election holds an extra weight.&lt;/p&gt;
 &lt;p&gt;I could go on, and describe the reasons why Trump shouldn’t get re-elected. They are the same reasons why he shouldn&amp;rsquo;t have been elected the first time. Those, plus so much more. Really. If you slightly follow politics, if you are honorable, if you don’t blatantly lie all the time, if you are educated, if you are smart, if you care about the environment and your fellow human beings, if you consider yourself to be an overall decent individual, if you have common sense… then you will know the reasons why Trump shouldn’t be president.&lt;/p&gt;
 &lt;p&gt;From a nonpartisan point of view, we need someone, anyone, but Trump. I can&amp;rsquo;t imagine it worse. As he will be the one running for re-election, and he was chosen by the Republican Party, we can eliminate the possibility of having a Republican running against him. That leaves us with a Democrat to replace him. The question is, who? With as many as &lt;a href=&#34;https://ballotpedia.org/Presidential_candidates,_2020&#34;&gt;25 democratic hopefuls&lt;/a&gt;, it becomes a difficult task, Presidential Debates or not. The chosen one will not only be required to be the very best to lead our country, but the one with the highest chances of defeating Trump. One will say, that’s so easy, right? I mean, come on, who will vote again for &lt;em&gt;that guy&lt;/em&gt;	? Well, many of our fellow Americans seem to have devolved—and I don’t understand why—so what would otherwise be a non-brainer, is no longer.&lt;/p&gt;
@@ -48,10 +48,10 @@
     
     <item>
       <title>Using Gnupg and openssl for encryption</title>
-      <link>https://collantes.us/2019-07-30-using-gpg-and-openssl-to-encrypt/</link>
+      <link>https://collantes.us/2019/07/30/using-gnupg-and-openssl-for-encryption/</link>
       <pubDate>Tue, 30 Jul 2019 13:15:56 -0400</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2019-07-30-using-gpg-and-openssl-to-encrypt/</guid>
+      <guid>https://collantes.us/2019/07/30/using-gnupg-and-openssl-for-encryption/</guid>
       <description>&lt;p&gt;I have used &lt;code&gt;Gnupg&lt;/code&gt; to encrypt my private files, specially those that I upload to the clouds, for a long time. I used to encrypt to self, using my own key, then later moved to symmetric encryption only. The command is easy:&lt;/p&gt;
 &lt;h3 id=&#34;using-gnupg&#34;&gt;Using Gnupg&lt;/h3&gt;
 &lt;p&gt;To &lt;strong&gt;encrypt&lt;/strong&gt;:&lt;/p&gt;
@@ -72,10 +72,10 @@
     
     <item>
       <title>There is always a first time</title>
-      <link>https://collantes.us/2019-07-29-there-is-always-a-first-time/</link>
+      <link>https://collantes.us/2019/07/29/there-is-always-a-first-time/</link>
       <pubDate>Mon, 29 Jul 2019 17:04:16 -0400</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2019-07-29-there-is-always-a-first-time/</guid>
+      <guid>https://collantes.us/2019/07/29/there-is-always-a-first-time/</guid>
       <description>&lt;p&gt;For eleven years I have used iPhones exclusively. More than half of that time, I have used them without any cover. My rationale? It is a beautifully crafted device, why to hide its beauty behind a cover? I never had an issue with it, until today. I am coming here to mark the first time my iPhone screen has ever shattered. I didn&amp;rsquo;t drop it, but placed it in a way that, after a few vibrations, made it fall to the floor—a tiled floor, nonetheless, the &amp;ldquo;evil&amp;rdquo; kind!&lt;/p&gt;
 &lt;p&gt;This will not change, nor affect how I keep my iPhones. The next one will continue to be used &amp;ldquo;naked,&amp;rdquo; in all its beauty.&lt;/p&gt;
 </description>
@@ -83,10 +83,10 @@
     
     <item>
       <title>Closing LinkedIn</title>
-      <link>https://collantes.us/2019-07-29-closing-linkedin/</link>
+      <link>https://collantes.us/2019/07/29/closing-linkedin/</link>
       <pubDate>Mon, 29 Jul 2019 11:48:32 -0400</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2019-07-29-closing-linkedin/</guid>
+      <guid>https://collantes.us/2019/07/29/closing-linkedin/</guid>
       <description>&lt;p&gt;Not long ago—not even a year now—I re-created a LinkedIn account, mostly following an invitation to join from one of my friends. I did it against my will, because for whatever reason I have hated LinkedIn even since before it was acquired by Microsoft. Yet, I joined, filled very little information, set privacy settings to fully closed—or so I thought—and moved on.&lt;/p&gt;
 &lt;p&gt;Soon after I started receiving UCE from medical, or pharmaceutical related companies. As many as ten emails per day. I called one, who happened to be local, mostly out of curiosity (although I was annoyed too). I got a hold of someone who told me in the last 15 years or so of him sending those emails, I was the first person to contact him via phone. He explained to me to the AI program he was using would compile information about people working in the medical field (his business is a collection agency, by the way), which he would, in turn, use to advertise his business. Did I mention I had set my LinkedIn privacy settings to be fully closed?&lt;/p&gt;
 &lt;p&gt;So, for the second, and final time, I am closing LinkedIn. I don&amp;rsquo;t trust them, I don&amp;rsquo;t find them useful, I hate them. I know how to find the people I care about, I don&amp;rsquo;t need anyone to &amp;ldquo;link&amp;rdquo; me to them.&lt;/p&gt;
@@ -95,10 +95,10 @@
     
     <item>
       <title>Close my account, Robinhood!</title>
-      <link>https://collantes.us/2019-07-12-close-my-account-robinhood/</link>
+      <link>https://collantes.us/2019/07/12/close-my-account-robinhood/</link>
       <pubDate>Fri, 12 Jul 2019 18:23:05 -0400</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2019-07-12-close-my-account-robinhood/</guid>
+      <guid>https://collantes.us/2019/07/12/close-my-account-robinhood/</guid>
       <description>&lt;p&gt;On 23 April, 2019 I sent an email to Robinhood, using their online help tool, because I couldn&amp;rsquo;t find a phone number to call on their website.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Couldn&amp;rsquo;t find […] a proper choice under &amp;ldquo;support issue,&amp;rdquo; so picked something that is close to what I want, but not quite. I would like to close, and delete my account (not just deactivate). Thanks!&lt;/p&gt;
@@ -124,10 +124,10 @@
     
     <item>
       <title>I am sorry I was late</title>
-      <link>https://collantes.us/2019-04-25-i-am-sorry-i-was-late/</link>
+      <link>https://collantes.us/2019/04/25/i-am-sorry-i-was-late/</link>
       <pubDate>Thu, 25 Apr 2019 18:38:42 -0400</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2019-04-25-i-am-sorry-i-was-late/</guid>
+      <guid>https://collantes.us/2019/04/25/i-am-sorry-i-was-late/</guid>
       <description>&lt;p&gt;I can explain why I was so late, I swear.&lt;/p&gt;
 &lt;p&gt;I woke up this morning after a brilliant two hours of sleep and went to milk the cow. She did not really have much, so the cereal kinda blew. Anyways, as I turned on my red 1993 Chevy Malibu I realised the garage was not opening. Great, the power was down! I went upstairs with a broom and woke up the hamster,  which must have fallen asleep on the job. It took some deliberation, taking a full three minutes to get the power working again.&lt;/p&gt;
 &lt;p&gt;I sped out of my local neighbourhood,  keenly aware I was cutting it close on time. Listening to &lt;strong&gt;Aqua’s&lt;/strong&gt; &amp;ldquo;&lt;em&gt;Barbie Girl&lt;/em&gt;&amp;rdquo; I was ready to take on any traffic peril thrown at my direction. That&amp;rsquo;s when the unexpected occurred. The mother of all meteors bursted at my 9 o’clock. I remained vigilant and undistracted, but the same could not be said about my fellow motorists. The vehicle directly in front of me slammed on his brakes. I was forced to expertly manoeuvre around him using the road’s shoulder. Unfortunately for me, a deceased porcupine happened to be on the shoulder, and caused severe damage to my forward right tire. My vessel was unsafe for travel.&lt;/p&gt;
@@ -140,10 +140,10 @@
     
     <item>
       <title>My friend</title>
-      <link>https://collantes.us/2019-02-11-my-friend/</link>
+      <link>https://collantes.us/2019/02/11/my-friend/</link>
       <pubDate>Mon, 11 Feb 2019 20:22:10 -0500</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2019-02-11-my-friend/</guid>
+      <guid>https://collantes.us/2019/02/11/my-friend/</guid>
       <description>&lt;p&gt;Friends are not easy to come by. They are made, just like good wine, after many years of ageing. At a certain point, which is hard to pinpoint, they cease to be just friends to become family. Just like a family member would, and should, they give you the best advise, uncompromisingly, unabashedly, unreservedly. They praise your virtues and take pride on them, but are quick to call out the stupid things you are bound to do. They are patient, they forgive, they forget. They listen, and they are always available.&lt;/p&gt;
 &lt;p&gt;John Chitty was a friend, who became family, whom I loved very much. He died peacefully tonight. He will be forever missed and remembered.&lt;/p&gt;
 </description>
@@ -151,10 +151,10 @@
     
     <item>
       <title>What is happiness?</title>
-      <link>https://collantes.us/2018-08-24-what-is-happiness/</link>
+      <link>https://collantes.us/2018/08/24/what-is-happiness/</link>
       <pubDate>Fri, 24 Aug 2018 10:54:11 -0400</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2018-08-24-what-is-happiness/</guid>
+      <guid>https://collantes.us/2018/08/24/what-is-happiness/</guid>
       <description>&lt;p&gt;After questioning myself on the meaning of life &amp;mdash;something I still do, by the way&amp;mdash; I long settled that, regardless of what it might be, living a happy life and aiming to be happy is what life is all about. Happiness, though, isn&amp;rsquo;t a fixed thing. Just like the many avatars of gods, their many incarnations, happiness comes from many sources, and is often found in subtle contexts throughout life. It is not absolute, and its definition may vary from person to person: what brings me happiness might be different to what brings you happiness.&lt;/p&gt;
 &lt;p&gt;On a &lt;a href=&#34;https://www.ted.com/talks/emily_esfahani_smith_there_s_more_to_life_than_being_happy/transcript&#34;&gt;TED Talk&lt;/a&gt;, &lt;a href=&#34;https://www.ted.com/speakers/emily_esfahani_smith&#34;&gt;Emily Esfahani&lt;/a&gt; said that there&amp;rsquo;s more to life than being happy. She summarises that having a meaning in life is what our aim should be. I do not disagree, I also agree that happiness comes and goes. Yet, I don&amp;rsquo;t think we should separate meaning from happiness: having a meaning in life &lt;strong&gt;contributes&lt;/strong&gt; to one happiness. I did say happiness wasn&amp;rsquo;t fixed, right? It encompasses many things.&lt;/p&gt;
 &lt;p&gt;Dr. &lt;a href=&#34;https://en.wikipedia.org/wiki/William_Glasser&#34;&gt;William Glasser&lt;/a&gt; suggested that finding happiness was achieved by &lt;a href=&#34;https://blogs.psychcentral.com/adhd/2010/06/is-there-such-a-thing-as-positive-addiction-dr-glasser-thinks-so-but-do-you/&#34;&gt;realising what to do, how to do it, and finding the strength of getting it done&lt;/a&gt;. He also &lt;a href=&#34;https://books.google.com/books?id=lHeBF01uFrYC&amp;amp;lpg=PP1&amp;amp;dq=Warning%3A%20Psychiatry%20Can%20Be%20Hazardous%20to%20Your%20Mental%20Health&amp;amp;pg=PP1#v=onepage&amp;amp;q=Warning:%20Psychiatry%20Can%20Be%20Hazardous%20to%20Your%20Mental%20Health&amp;amp;f=false&#34;&gt;defined happiness&lt;/a&gt; as:&lt;/p&gt;
@@ -179,20 +179,20 @@
     
     <item>
       <title>Someone is in trouble when...</title>
-      <link>https://collantes.us/2018-03-25-someone-is-in-trouble-when/</link>
+      <link>https://collantes.us/2018/03/25/someone-is-in-trouble-when.../</link>
       <pubDate>Sun, 25 Mar 2018 18:02:05 -0400</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2018-03-25-someone-is-in-trouble-when/</guid>
+      <guid>https://collantes.us/2018/03/25/someone-is-in-trouble-when.../</guid>
       <description>&lt;p&gt;You know a company is in trouble when they have to take a full page advertisement on several major newspapers in the U.S., and the U.K., with an apology from their chief. Facebook&amp;rsquo;s Mark Zuckerberg did &lt;a href=&#34;https://www.usatoday.com/story/tech/2018/03/25/zuckerberg-takes-out-ads-apologize-facebook-data-misuse-crisis-intensifies/456953002/&#34;&gt;just that&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Simplicity</title>
-      <link>https://collantes.us/2018-03-22-simplicity/</link>
+      <link>https://collantes.us/2018/03/22/simplicity/</link>
       <pubDate>Thu, 22 Mar 2018 13:34:10 -0400</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2018-03-22-simplicity/</guid>
+      <guid>https://collantes.us/2018/03/22/simplicity/</guid>
       <description>&lt;p&gt;That is a screenshot of my macOS desktop. It could be simpler, but as it is it does what I need, and want. When I need to use an app, I simply hit command (⌘) space and start typing the app name to launch it. That is, I use &lt;a href=&#34;https://support.apple.com/en-us/HT204014&#34;&gt;Spotlight&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Wouldn&amp;rsquo;t it be great that iOS could be customized like that too? Preferably it would be a setting, that would allow to turn off the visibility of all, or any app on the phone. Then, to open an app, one would use the &lt;a href=&#34;https://support.apple.com/en-us/HT201285&#34;&gt;Spotlight&lt;/a&gt; as well.&lt;/p&gt;
 &lt;p&gt;Maybe Apple will do something like that, one of these days.&lt;/p&gt;
@@ -201,10 +201,10 @@
     
     <item>
       <title>Another meltdown</title>
-      <link>https://collantes.us/2018-03-17-another-meltdown/</link>
+      <link>https://collantes.us/2018/03/17/another-meltdown/</link>
       <pubDate>Sat, 17 Mar 2018 21:19:21 -0400</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2018-03-17-another-meltdown/</guid>
+      <guid>https://collantes.us/2018/03/17/another-meltdown/</guid>
       <description>&lt;p&gt;Someone is having &lt;a href=&#34;https://twitter.com/realDonaldTrump/status/975163071361683456&#34;&gt;another meltdown&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The Mueller probe should never have been started in that there was no collusion and there was no crime. It was based on fraudulent activities and a Fake Dossier paid for by Crooked Hillary and the DNC, and improperly used in FISA COURT for surveillance of my campaign. WITCH HUNT!&lt;/p&gt;
@@ -217,20 +217,20 @@
     
     <item>
       <title>Flowers will follow</title>
-      <link>https://collantes.us/2018-03-17-flowers-will-follow/</link>
+      <link>https://collantes.us/2018/03/17/flowers-will-follow/</link>
       <pubDate>Sat, 17 Mar 2018 18:17:46 -0400</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2018-03-17-flowers-will-follow/</guid>
+      <guid>https://collantes.us/2018/03/17/flowers-will-follow/</guid>
       <description>&lt;p&gt;To the untrained, this image will have little meaning. Who could imagine that those &amp;ldquo;ugly sticks,&amp;rdquo; as the child called them, will soon bloom into hundreds of beautiful yellow flowers? Yet, as it has happened each year, flowers will follow!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Searching for the car</title>
-      <link>https://collantes.us/2018-03-17-searching-for-the-car/</link>
+      <link>https://collantes.us/2018/03/17/searching-for-the-car/</link>
       <pubDate>Sat, 17 Mar 2018 17:15:18 -0400</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2018-03-17-searching-for-the-car/</guid>
+      <guid>https://collantes.us/2018/03/17/searching-for-the-car/</guid>
       <description>&lt;p&gt;A year ago, Kent got his learner&amp;rsquo;s permit. With the help of John, and a little from me, he practiced driving for over 250 hours. A year later — more or less — on 9 March, he got his driver&amp;rsquo;s license, passing the practical test with a 96, out of 100 points, score. And so the asking for a car began.&lt;/p&gt;
 &lt;p&gt;What car should we get for a 17 year old?  &lt;a href=&#34;https://www.consumerreports.org/new-cars/best-new-cars-for-teens/&#34;&gt;New&lt;/a&gt;, or &lt;a href=&#34;https://www.consumerreports.org/used-cars/best-used-cars-for-teens/&#34;&gt;used&lt;/a&gt;? We want it to be safe, reliable, one he would like, but one not too expensive. Which will it be? A &lt;a href=&#34;https://www.toyota.com/corolla/&#34;&gt;Toyota Corolla&lt;/a&gt;, a &lt;a href=&#34;https://www.toyota.com/corollaim/&#34;&gt;Corolla IM&lt;/a&gt;? A &lt;a href=&#34;https://www.mazdausa.com/vehicles/mazda3-sedan&#34;&gt;Mazda 3&lt;/a&gt;? A &lt;a href=&#34;https://automobiles.honda.com/civic-sedan&#34;&gt;Honda Civic&lt;/a&gt;? A &lt;a href=&#34;https://shop.ford.com/build/focus/?gnav=vhpnav#/select/&#34;&gt;Ford Focus&lt;/a&gt;? Today we visited three dealers, Mazda, Honda, and Toyota, to test drive. It was just the beginning, more to follow.&lt;/p&gt;
 </description>
@@ -238,10 +238,10 @@
     
     <item>
       <title>Adrian Lamo has died</title>
-      <link>https://collantes.us/2018-03-16-adrian-lamo-has-died/</link>
+      <link>https://collantes.us/2018/03/16/adrian-lamo-has-died/</link>
       <pubDate>Fri, 16 Mar 2018 20:53:39 -0400</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2018-03-16-adrian-lamo-has-died/</guid>
+      <guid>https://collantes.us/2018/03/16/adrian-lamo-has-died/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Adrian_Lamo&#34;&gt;Adrian Lamo&lt;/a&gt;, mostly known as the hacker who broke into several major companies computer networks, and indirectly reported &lt;a href=&#34;https://en.wikipedia.org/wiki/Chelsea_Manning&#34;&gt;Chelsea Manning&lt;/a&gt;, has died — cause unknown thus far. The news was posted on &lt;a href=&#34;https://news.ycombinator.com/item?id=16601470&#34;&gt;Hacker News&lt;/a&gt;, of course, and I found &lt;a href=&#34;https://news.ycombinator.com/item?id=16602166&#34;&gt;one the comments&lt;/a&gt; — true or not — left there interesting.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;I had a car, while my friend did not, and Adrian had traveled via transit, so I spent the day with them hopping around town. At one point, we were downtown grabbing food in one of the larger complexes — Adrian breaks off for a second and asks a retail store employee a bunch of questions about working there, saying he was just hired at the cafe. We then ended up going into what was clearly an employee-only area — GUYS WE AREN&amp;rsquo;T SUPPOSED TO BE HERE WHAT IF WE GET IN TROUBLE OH GOD — we duck into a fire escape, hike up to the upper level where he picks the lock to the door with roof access, and there we are, highest point in the city. After a few minutes of me suggesting that MAYBE we go back down since this was cool BUT REALLY WE SHOULD GO, Adrian told me I&amp;rsquo;d miss the sunset if I kept worrying.&lt;/p&gt;
@@ -253,10 +253,10 @@
     
     <item>
       <title>Mueller goes after the Trump Organisation</title>
-      <link>https://collantes.us/2018-03-15-mueller-goes-after-trump-org/</link>
+      <link>https://collantes.us/2018/03/15/mueller-goes-after-the-trump-organisation/</link>
       <pubDate>Thu, 15 Mar 2018 19:50:42 -0400</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2018-03-15-mueller-goes-after-trump-org/</guid>
+      <guid>https://collantes.us/2018/03/15/mueller-goes-after-the-trump-organisation/</guid>
       <description>&lt;p&gt;I have disliked other presidents in the past, for actions taken while they were in the office that I — and many others — considered stupid, crazy, or just plain wrong. My dislike for the current president eclipses any of my previous. I voted for Hillary, and &lt;a href=&#34;https://collantes.us/2016/11/09/i-was-wrong/&#34;&gt;wrongly&lt;/a&gt; &lt;a href=&#34;https://collantes.us/2015/10/05/prediction/&#34;&gt;predicted&lt;/a&gt; that she would win the presidency.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2018/03/15/us/politics/trump-organization-subpoena-mueller-russia.html?smid=tw-nytimes&amp;amp;smtyp=cur&#34;&gt;Today news&lt;/a&gt;, although perhaps inconsequential, brings joy to an otherwise political nightmare.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -272,10 +272,10 @@
     
     <item>
       <title>On the market for a camera</title>
-      <link>https://collantes.us/2018-03-04-on-the-market-for-a-camera/</link>
+      <link>https://collantes.us/2018/03/04/on-the-market-for-a-camera/</link>
       <pubDate>Sun, 04 Mar 2018 21:12:22 -0500</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2018-03-04-on-the-market-for-a-camera/</guid>
+      <guid>https://collantes.us/2018/03/04/on-the-market-for-a-camera/</guid>
       <description>&lt;p&gt;We have gone through quite a few cameras. The very first one we recall was a &lt;a href=&#34;https://www.dpreview.com/reviews/canond30&#34;&gt;Canon EOS D30&lt;/a&gt;, with an &lt;em&gt;amazing&lt;/em&gt; 3.2 megapixel &amp;mdash; sarcasm aside, it took amazing photos. After that we had had many Sony Cyber-shots, a Canon &lt;a href=&#34;https://www.dpreview.com/reviews/canona640/&#34;&gt;Powershot A640&lt;/a&gt;, a couple of Canon &lt;a href=&#34;https://www.usa.canon.com/internet/portal/us/home/products/list/cameras/point-and-shoot&#34;&gt;Powershot Gs&lt;/a&gt;, and another bigger Canon, the &lt;a href=&#34;https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/dslr/eos-6d&#34;&gt;EOS 6D&lt;/a&gt;. In between we have used the camera that comes with the iPhones, starting with the &lt;a href=&#34;https://en.wikipedia.org/wiki/IPhone_(1st_generation)&#34;&gt;iPhone 2G&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Now, the iPhone camera isn&amp;rsquo;t too bad, and since we already carry the phone, it also means we carry a camera everywhere we go. Yet, neither wife nor I fully enjoy the photos that come out of it. In a bind, the iPhone camera does a decent job, but when looking for higher resolution, to blow up photos, or when greater details are needed, it simply doesn&amp;rsquo;t cut it. For that we need a dedicated camera. It is that need which have brought us, inexorably, here.&lt;/p&gt;
 &lt;p&gt;Which camera to buy? We really do not want to spend over $500, but we understand there aren&amp;rsquo;t many good choices at that price range. The &lt;a href=&#34;http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x_a5/&#34;&gt;Fujifilm X-A5&lt;/a&gt; goes for around $600, and it is not really that great. The Canon &lt;a href=&#34;https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/eos-m-series-digital-cameras/eos-m50-ef-m-15-45mm-is-stm-kit&#34;&gt;EOS M50&lt;/a&gt;, on the other hand, looks like a very good camera (and we like Canon very much), but it goes for $900. So, decisions, decisions. Which one to get?&lt;/p&gt;
@@ -285,10 +285,10 @@
     
     <item>
       <title>About the impermanence of things</title>
-      <link>https://collantes.us/2018-01-21-about-the-impermanence-of-things/</link>
+      <link>https://collantes.us/2018/01/21/about-the-impermanence-of-things/</link>
       <pubDate>Sun, 21 Jan 2018 11:13:50 -0500</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2018-01-21-about-the-impermanence-of-things/</guid>
+      <guid>https://collantes.us/2018/01/21/about-the-impermanence-of-things/</guid>
       <description>&lt;p&gt;Thinking about the impermanence of things is a reoccurring theme for me. It usually happens if I get mad at something I don&amp;rsquo;t like, which used to be quite often no long ago. I still notice situations that are less than desirable for my point of view, but I no longer get mad every single time. I am trying my very best not to get upset for anything, or with anyone. Yet, the thought of everything being temporary still surrounds me. The last time it came to mind was when &lt;a href=&#34;https://collantes.us/2018/01/13/grandfather-has-left-us/&#34; title=&#34;Grandfather has left us&#34;&gt;grandfather died&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Truly understanding the meaning, and embracing it could bring sadness first, but then content, and assurance. We have always wanted to be in control, to know as much as we can of the world around us. Both might never be truly achievable, but yet the fact that everything around us is impermanent, in flux, remains a constant.&lt;/p&gt;
 &lt;p&gt;I have never been very religious, even less so now. Nevertheless, I can&amp;rsquo;t help but to like, and agree with, one of the Buddha&amp;rsquo;s teaching: nothing, mental or physical, is permanent, and having an attachment to either leads to suffering. Fully resigning to this fact brings me much inner peace.&lt;/p&gt;
@@ -297,10 +297,10 @@
     
     <item>
       <title>Grandfather has left us</title>
-      <link>https://collantes.us/2018-01-12-grandfather-has-left-us/</link>
+      <link>https://collantes.us/2018/01/13/grandfather-has-left-us/</link>
       <pubDate>Sat, 13 Jan 2018 14:40:14 -0500</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2018-01-12-grandfather-has-left-us/</guid>
+      <guid>https://collantes.us/2018/01/13/grandfather-has-left-us/</guid>
       <description>&lt;p&gt;Grandfather died today.&lt;/p&gt;
 &lt;p&gt;Kim was very close to him because she lived with her grandparents since she was young, until we got married. Back in Vietnam, when she was in elementary school, grandpa took her and her siblings to school, and picked them up in his bicycle every day. He was more than a grandfather to her. He was, throughout her life, a father figure.&lt;/p&gt;
 &lt;p&gt;Grandpa was a soft spoken man. I never heard him raise his voice, never saw him mad. He was also a man of little wants; always giving, always sharing the little he had. His grandsons, granddaughter, daughters&amp;hellip; the entire family benefitted from his selflessness.&lt;/p&gt;
@@ -312,10 +312,10 @@
     
     <item>
       <title>Unalloyed irony</title>
-      <link>https://collantes.us/2017-12-08-unalloyed-irony/</link>
+      <link>https://collantes.us/2017/12/08/unalloyed-irony/</link>
       <pubDate>Fri, 08 Dec 2017 13:14:44 -0500</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2017-12-08-unalloyed-irony/</guid>
+      <guid>https://collantes.us/2017/12/08/unalloyed-irony/</guid>
       <description>&lt;p&gt;Soon to be ex-Senator &lt;a href=&#34;https://en.wikipedia.org/wiki/Al_Franken&#34;&gt;Al Franken&lt;/a&gt; announced, on an emotional speech, his resignation yesterday. He is leaving the Senate after been accused of sexual misconduct.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;I, of all people, am aware that there is some irony in the fact that I am leaving while a man who has bragged on tape about his history of sexual assault sits in the Oval Office, and a man who has repeatedly preyed on young girls campaigns for the Senate with the &lt;a href=&#34;https://www.nytimes.com/2017/12/04/us/politics/roy-moore-donald-trump.html&#34;&gt;full support of his party&lt;/a&gt;.&amp;rdquo;&lt;/p&gt;
@@ -394,10 +394,10 @@
     
     <item>
       <title>A few technical changes</title>
-      <link>https://collantes.us/2017-03-05-a-few-technical-changes/</link>
+      <link>https://collantes.us/2017/03/05/a-few-technical-changes/</link>
       <pubDate>Sun, 05 Mar 2017 19:28:16 -0500</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2017-03-05-a-few-technical-changes/</guid>
+      <guid>https://collantes.us/2017/03/05/a-few-technical-changes/</guid>
       <description>&lt;p&gt;A few things have happened on my current server setup. The biggest one was my move from &lt;a href=&#34;https://www.freebsd.org&#34;&gt;FreeBSD&lt;/a&gt; to &lt;a href=&#34;https://www.ubuntu.com/&#34;&gt;Ubuntu&lt;/a&gt;. I do not have complains about FreeBSD &amp;mdash; how could I? &amp;mdash; but I wanted to play with more recent stuff, and it was becoming very hard to do under BSD. I also wanted a refresh, since I had been running that VPS for a while and it was starting to feel &amp;ldquo;dirty.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;So, I spawned up an &lt;a href=&#34;http://releases.ubuntu.com/16.04/&#34;&gt;Ubuntu 16.04 LTS&lt;/a&gt; VPS, and migrated. It all worked like a charm, took couple of hours, mostly because I really enjoy doing things manually, without automation. To top it off, &lt;a href=&#34;http://www.vultr.com/?ref=6815414&#34;&gt;Vultr&lt;/a&gt; (affiliated link) upgraded their plans (and launched a brand new, $2.50/month one), so I now have 1GB RAM, and 25GB SSD, for my $5/month plan. Such a sweet deal!&lt;/p&gt;
 &lt;p&gt;I also changed my blog static generator from &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt; to &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;. The move was driven by the desire to gain speed (Hugo, writen in &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt;, is very fast), and by wishing to get rid of the many dependencies Jekyll has (being Ruby based and all). Additionally, I am hosting a presence, albeit pretty simple, for all my domains, all under &lt;a href=&#34;https://letsencrypt.org/&#34;&gt;Letscrypt&lt;/a&gt; SSL. I am also using &lt;a href=&#34;https://gitea.io/&#34;&gt;Gitea&lt;/a&gt; to manage my &lt;a href=&#34;https://git-scm.com/&#34;&gt;gits&lt;/a&gt; via the web. This very own weblog is generated upon a commit.&lt;/p&gt;
@@ -407,10 +407,10 @@
     
     <item>
       <title>An intelligent person</title>
-      <link>https://collantes.us/2017-02-27-an-intelligent-person/</link>
+      <link>https://collantes.us/2017/02/27/an-intelligent-person/</link>
       <pubDate>Mon, 27 Feb 2017 19:59:15 -0500</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2017-02-27-an-intelligent-person/</guid>
+      <guid>https://collantes.us/2017/02/27/an-intelligent-person/</guid>
       <description>&lt;p&gt;From Twitter:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The most amazing thing about the Trump presidency is that it’s made GWB look like a &lt;a href=&#34;https://t.co/yNxi8Vyzck&#34;&gt;reasonably intelligent person&lt;/a&gt;.&lt;/p&gt;
@@ -428,10 +428,10 @@
     
     <item>
       <title>The silence of the hacks</title>
-      <link>https://collantes.us/2017-02-18-the-silence-of-the-hacks/</link>
+      <link>https://collantes.us/2017/02/18/the-silence-of-the-hacks/</link>
       <pubDate>Sat, 18 Feb 2017 21:32:59 -0500</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2017-02-18-the-silence-of-the-hacks/</guid>
+      <guid>https://collantes.us/2017/02/18/the-silence-of-the-hacks/</guid>
       <description>&lt;p&gt;There is a reason why I subscribed to the &lt;a href=&#34;https://www.nytimes.com/subscriptions/Multiproduct/lp8HYKU.html?src=3004&amp;amp;campaignId=4XUYF&amp;amp;module=Subscribe-Now&amp;amp;pgtype=Homepage&#34;&gt;digital edition&lt;/a&gt; of &lt;em&gt;The New York Times&lt;/em&gt;. Its journalists are superb; it is a paper I trust, and have found to be veridical after cross referencing the news they post with other major, equally trusted, news sources.&lt;/p&gt;
 &lt;p&gt;From yesterday&amp;rsquo;s edition (some emphasis mine):&lt;/p&gt;
 &lt;blockquote&gt;
@@ -447,10 +447,10 @@
     
     <item>
       <title>Incapable of serving</title>
-      <link>https://collantes.us/2017-02-14-incapable-of-serving/</link>
+      <link>https://collantes.us/2017/02/14/incapable-of-serving/</link>
       <pubDate>Tue, 14 Feb 2017 05:49:38 -0500</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2017-02-14-incapable-of-serving/</guid>
+      <guid>https://collantes.us/2017/02/14/incapable-of-serving/</guid>
       <description>&lt;p&gt;From the opinion pages of &lt;em&gt;The New York Times&lt;/em&gt; yesterday, 13 of February, 2017, also appearing in print today. Some emphasis mine.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Mr. Trump’s speech and actions demonstrate an &lt;em&gt;inability to tolerate views different from his own&lt;/em&gt;, leading to &lt;strong&gt;rage reactions&lt;/strong&gt;. His words and behavior suggest a &lt;strong&gt;profound inability to empathize&lt;/strong&gt;. Individuals with these traits distort reality to suit their psychological state, attacking facts and those who convey them (journalists, scientists).&lt;/p&gt;
@@ -463,10 +463,10 @@
     
     <item>
       <title>Cleaning the plate</title>
-      <link>https://collantes.us/2017-02-12-cleaning-the-plate/</link>
+      <link>https://collantes.us/2017/02/12/cleaning-the-plate/</link>
       <pubDate>Sun, 12 Feb 2017 11:04:35 -0500</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2017-02-12-cleaning-the-plate/</guid>
+      <guid>https://collantes.us/2017/02/12/cleaning-the-plate/</guid>
       <description>&lt;p&gt;My wife has always told me, &amp;ldquo;don&amp;rsquo;t eat everything in your plate, leave something!&amp;rdquo; It is her believe, and her culture&amp;rsquo;s, that only poor people eats everything, and that if I do so, it will show I am dying of hunger, and thus, poor. If it were so, what&amp;rsquo;s wrong with being poor? Why will I leave food on the plate, food that I really like, to pretend what I am not? I am poor, &lt;em&gt;poor&lt;/em&gt;, &lt;strong&gt;poor&lt;/strong&gt;!&lt;/p&gt;
 &lt;p&gt;That custom, though, would be an easy one to follow if the food was bad. That&amp;rsquo;s something impossible when wife cooks, or mum. No kidding.&lt;/p&gt;
 </description>
@@ -474,10 +474,10 @@
     
     <item>
       <title>Fake email clients</title>
-      <link>https://collantes.us/2017-02-11-fake-email-clients/</link>
+      <link>https://collantes.us/2017/02/11/fake-email-clients/</link>
       <pubDate>Sat, 11 Feb 2017 21:06:15 -0500</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2017-02-11-fake-email-clients/</guid>
+      <guid>https://collantes.us/2017/02/11/fake-email-clients/</guid>
       <description>&lt;p&gt;For a few (years?) now, there has been an increase of so called email clients that are not so. I am talking about the &amp;ldquo;value added email clients&amp;rdquo; that require a third party server/service to work. Within that category there is &lt;a href=&#34;https://nylas.com&#34;&gt;Nylas&lt;/a&gt;, &lt;a href=&#34;https://polymail.io&#34;&gt;Polymail&lt;/a&gt;, and &lt;a href=&#34;https://sparkmailapp.com&#34;&gt;Sparkmail&lt;/a&gt;, to mention a few. Although they bring an array of features not normally found on an email client, they are worthless if the third party company server(s) goes down, or have problems. They will also cease to work as soon as the company who created them goes belly up. They are not email clients per se, they are &amp;ldquo;email services clients&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Not standard, but niche. &lt;strong&gt;No good&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;In times when we all live on a web browser, pretty much, email clients of all types, including the fake ones above, are quickly becoming a second class citizen. After all, who wants to open an application to read/compose emails, when you already have one open that can do it as well? Yet, should I insist on using one, I would rather use a client that will only misbehave if my email provider has problems. You know, a &lt;em&gt;regular&lt;/em&gt; IMAP one. As a macOS user, &lt;a href=&#34;https://support.apple.com/mail&#34;&gt;Mail.app&lt;/a&gt; does the job for me.&lt;/p&gt;
@@ -486,10 +486,10 @@
     
     <item>
       <title>Hard to believe</title>
-      <link>https://collantes.us/2017-02-09-hard-to-believe/</link>
+      <link>https://collantes.us/2017/02/09/hard-to-believe/</link>
       <pubDate>Thu, 09 Feb 2017 14:30:24 -0500</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2017-02-09-hard-to-believe/</guid>
+      <guid>https://collantes.us/2017/02/09/hard-to-believe/</guid>
       <description>&lt;p&gt;If you hear or read this somewhere else &amp;mdash; whether on social media, or via your clueless uncle Olaf &amp;mdash; you will find it hard, if not impossible, to believe. Now, finding it on Reuters is a different story.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;In his first call as president with Russian leader Vladimir Putin, Donald Trump denounced a treaty that caps U.S. and Russian deployment of nuclear warheads as a bad deal for the United States, according to two U.S. officials and one former U.S. official with knowledge of the call.&lt;/p&gt;
@@ -6222,10 +6222,10 @@ David Collantes&lt;/p&gt;
     
     <item>
       <title>Iraq, are we going to war?</title>
-      <link>https://collantes.us/2003-01-18-iraq-are-we-going-to-war/</link>
-      <pubDate>Sat, 18 Jan 2003 18:14:57 -0500</pubDate>
+      <link>https://collantes.us/2003/01/18/iraq-are-we-going-to-war/</link>
+      <pubDate>Sat, 18 Jan 2003 18:14:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2003-01-18-iraq-are-we-going-to-war/</guid>
+      <guid>https://collantes.us/2003/01/18/iraq-are-we-going-to-war/</guid>
       <description>&lt;p&gt;If you have been following the news you already know about the Iraq situation. You might still be asking yourself why are we building up such a massive military power in the area, that is, Middle East. Right, you are  not questioning that, since you know the answer: we are going to war. What you might be thinking is whether or not we should be there, should we care. All valid questions.&lt;/p&gt;
 &lt;p&gt;Why Iraq, when no one has yet to see a proof of it&amp;rsquo;s nuclear/chemical, &amp;ldquo;weapons of mass destruction&amp;rdquo; program? Is it the oil? Or we just tenderly care for millions of Iraqi citizens, oppressed under Saddam&amp;rsquo;s iron fist, and long to liberate them? Maybe it is, as a few out there joke about, that President Bush wants to finish what his father did not? Or is it that 1993 &lt;span class=&#34;information&#34; title=&#34;While ex-president George Bush was visiting Kuwait in 1993, someone tried to kill him. The CIA believes it was Saddam.&#34;&gt;Kuwait incident&lt;/span&gt; still itching somewhere? Whatever the reasons are, we are going to war. Unless&amp;hellip;&lt;/p&gt;
 &lt;blockquote&gt;

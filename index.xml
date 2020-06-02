@@ -25,9 +25,9 @@
       <pubDate>Fri, 02 Aug 2019 16:40:20 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2019/08/02/automatically-scheduled-bank-payments/</guid>
-      <description>&lt;p&gt;So, you sign up for a gym, or another service, that gives you a small discount for paying using an automatic scheduled widthdraw from your bank&amp;rsquo;s checking account. Things go well for a while, then they go sour—or you simply change your mind—and you want to sever that agreement, to disconnect the link between them and &lt;em&gt;your&lt;/em&gt; bank account. Guess what? &lt;strong&gt;You can&amp;rsquo;t.&lt;/strong&gt; Not throught your mobile banking app, nor through a bank&amp;rsquo;s web site,  call, or in-person visit. It is a long process, not a simple action.&lt;/p&gt;
-&lt;p&gt;Cancelling a scheduled payment is close to impossible. It is 2019, we are preparing to send people to Mars, but this can&amp;rsquo;t be done simply. They can put a stop payment order to one, and/or future payments, but cutting ties?  They can&amp;rsquo;t. In other words, if you setup scheduled payments with your bank account, you are giving someone unlimited checks, hopefully with a pre-determined set amount.&lt;/p&gt;
-&lt;p&gt;To revoke authorisation you will need to go through a &lt;a href=&#34;https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/&#34;&gt;series of steps&lt;/a&gt; which conclude with a never-ending monitoring of your account, just in case an unathorised transfer occurs. Want to fully &amp;ldquo;break up?&amp;rdquo; Cancel your bank account, and create a new one. Moral of the story? Don&amp;rsquo;t ever setup automatic scheduled payments that widthdraw funds from your bank account. Never. Ever.&lt;/p&gt;
+      <description>&lt;p&gt;So, you sign up for a gym, or another service, that gives you a small discount for paying using an automatic scheduled withdraw from your bank&amp;rsquo;s checking account. Things go well for a while, then they go sour—or you simply change your mind—and you want to sever that agreement, to disconnect the link between them and &lt;em&gt;your&lt;/em&gt; bank account. Guess what? &lt;strong&gt;You can&amp;rsquo;t.&lt;/strong&gt; Not through your mobile banking app, nor through a bank&amp;rsquo;s web site,  call, or in-person visit. It is a long process, not a simple action.&lt;/p&gt;
+&lt;p&gt;Cancelling a scheduled payment is close to impossible. It is 2019, we are preparing to send people to Mars, but this can&amp;rsquo;t be done simply. They can put a stop payment order to one, and/or future payments, but cutting ties?  They can&amp;rsquo;t. In other words, if you set-up scheduled payments with your bank account, you are giving someone unlimited checks, hopefully with a pre-determined set amount.&lt;/p&gt;
+&lt;p&gt;To revoke authorisation you will need to go through a &lt;a href=&#34;https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/&#34;&gt;series of steps&lt;/a&gt; which conclude with a never-ending monitoring of your account, just in case an unauthorised transfer occurs. Want to fully &amp;ldquo;break up?&amp;rdquo; Cancel your bank account, and create a new one. Moral of the story? Don&amp;rsquo;t ever set-up automatic scheduled payments that withdraw funds from your bank account. Never. Ever.&lt;/p&gt;
 &lt;p&gt;As a side note, if you are a Bank of America (BofA) customer, and &lt;strong&gt;are not&lt;/strong&gt; an &lt;em&gt;Advantage Member&lt;/em&gt;, be prepared to pay $30 for a stop payment order. Luckily for me, I am.&lt;/p&gt;
 </description>
     </item>
@@ -99,14 +99,14 @@
       <pubDate>Fri, 12 Jul 2019 18:23:05 -0400</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2019/07/12/close-my-account-robinhood/</guid>
-      <description>&lt;p&gt;On 23 April, 2019 I sent an email to Robinhood, using their online help tool, because I couldn&amp;rsquo;t find a phone number to call on their website.&lt;/p&gt;
+      <description>&lt;p&gt;On 23 April, 2019 I sent an email to Robinhood, using their on-line help tool, because I couldn&amp;rsquo;t find a phone number to call on their website.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Couldn&amp;rsquo;t find […] a proper choice under &amp;ldquo;support issue,&amp;rdquo; so picked something that is close to what I want, but not quite. I would like to close, and delete my account (not just deactivate). Thanks!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The reply promptly arrived the same day, stating, along other things:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;We&amp;rsquo;ve submitted a request to close your account. You’ll receive an email within 1-2 business days once your account has been successfully closed.&lt;/p&gt;
-&lt;p&gt;We’re required to preserve various books and records per Rule 17a-4 of the &lt;a href=&#34;http://www.sec.gov/answers/bdrecrd.htm&#34;&gt;Securities Exchange Act&lt;/a&gt;. We take the security of all collected data very seriously, and we don’t intend to use this data for anything other than the fulfillment of our regulatory requirements. — &lt;em&gt;Angelee&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We’re required to preserve various books and records per Rule 17a-4 of the &lt;a href=&#34;http://www.sec.gov/answers/bdrecrd.htm&#34;&gt;Securities Exchange Act&lt;/a&gt;. We take the security of all collected data very seriously, and we don’t intend to use this data for anything other than the fulfilment of our regulatory requirements. — &lt;em&gt;Angelee&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;So, my account was to be closed, but not deleted due to regulations. My account had no records, never used it, never conducted any transaction. Yet, regulations are regulations, and there is nothing we can do about it.&lt;/p&gt;
 &lt;p&gt;Almost three months passed, and today I get an email from Robinhood letting me know that my account statement was &lt;strong&gt;now&lt;/strong&gt; available. 😳&lt;/p&gt;
@@ -1064,7 +1064,7 @@ gpg --import-ownertrust gpg_ownertrust.asc
       <pubDate>Wed, 16 Sep 2015 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2015/09/16/secrets-of-living-to-200-years-old/</guid>
-      <description>&lt;p&gt;This &lt;a href=&#34;http://www.bbc.com/future/story/20150915-the-secrets-of-living-to-200-years-old&#34;&gt;article&lt;/a&gt; refers to aging as not being an inevitable fact of life. It goes to describe the marvelous capabilities that some animals have to live, seemingly, forever. Yet, do we really want to? With &lt;a href=&#34;http://www.howmany.org/big_picture.php&#34;&gt;all the problems&lt;/a&gt; we are having with over population, do we want to pursue the holy grail, and extend life to last hundreds?&lt;/p&gt;
+      <description>&lt;p&gt;This &lt;a href=&#34;http://www.bbc.com/future/story/20150915-the-secrets-of-living-to-200-years-old&#34;&gt;article&lt;/a&gt; refers to ageing as not being an inevitable fact of life. It goes to describe the marvellous capabilities that some animals have to live, seemingly, forever. Yet, do we really want to? With &lt;a href=&#34;http://www.howmany.org/big_picture.php&#34;&gt;all the problems&lt;/a&gt; we are having with over population, do we want to pursue the holy grail, and extend life to last hundreds?&lt;/p&gt;
 &lt;p&gt;We have already &amp;ldquo;extended&amp;rdquo; our lives considerably, taking into account that in 1950 the world &lt;a href=&#34;https://en.wikipedia.org/wiki/Life_expectancy&#34;&gt;average on life expectancy&lt;/a&gt; was 48 years old. I think we should strive to make our current quality of life better, not extend it. That is, live better, no longer. Otherwise we will have to leave our planet and &lt;a href=&#34;https://en.wikipedia.org/wiki/Space_colonization&#34;&gt;colonize&lt;/a&gt;, which &lt;a href=&#34;http://www.nytimes.com/2007/07/17/science/17tier.html?pagewanted=all&#34;&gt;is something&lt;/a&gt; that many argue &lt;a href=&#34;http://www.dailymail.co.uk/sciencetech/article-419573/Mankind-colonise-planets-survive-says-Hawking.html&#34;&gt;we should do&lt;/a&gt;, regardless.&lt;/p&gt;
 </description>
     </item>
@@ -1355,7 +1355,7 @@ exit
 &lt;li&gt;&lt;a href=&#34;https://www.onedrive.com/&#34;&gt;Microsoft OneDrive&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Any other?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;I used to have &lt;a href=&#34;http://www.haystacksoftware.com/arq/&#34;&gt;Arqbackup&lt;/a&gt;, but it became unreliable, and I never liked the way it stored the files on AWS. Sadly I have not been able to find a substitute to automate backups to the cloud. So, the questions are: which cloud storage, and what workflow to use?&lt;/p&gt;
+&lt;p&gt;I used to have &lt;a href=&#34;http://www.haystacksoftware.com/arq/&#34;&gt;Arqbackup&lt;/a&gt;, but it became unreliable, and I never liked the way it stored the files on AWS. Sadly I have not been able to find a substitute to automate backups to the cloud. So, the questions are: which cloud storage, and what work-flow to use?&lt;/p&gt;
 &lt;p&gt;From the ones listed above, I use Google Drive and iCloud already, but their current use is specific. Google Drive holds my everyday files, while iCloud synchronizes all my bookmarks, iCloud keychain, and iDevices documents and photo streams. iCloud is going to change drastically with the next version of OS X and iOS, but yet, what I am looking for is the storage to keep my automated backups.&lt;/p&gt;
 &lt;p&gt;If you have any suggestions, please drop me an &lt;a href=&#34;mailto:david@collantes.us&#34;&gt;email&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -1499,6 +1499,20 @@ exit
     </item>
     
     <item>
+      <title>Films to watch during Christmas</title>
+      <link>https://collantes.us/2013/12/25/films-to-watch-during-christmas/</link>
+      <pubDate>Wed, 25 Dec 2013 14:00:00 +0000</pubDate>
+      <author>david@collantes.us (David Collantes)</author>
+      <guid>https://collantes.us/2013/12/25/films-to-watch-during-christmas/</guid>
+      <description>&lt;p&gt;Christmas is not the same without watching certain films. The ones that are always a must for me are &amp;ldquo;&lt;a href=&#34;http://en.wikipedia.org/wiki/National_Lampoon%27s_European_Vacation&#34;&gt;National Lampoon&amp;rsquo;s European Vacation&lt;/a&gt;&amp;rdquo; and &amp;ldquo;&lt;a href=&#34;http://en.wikipedia.org/wiki/National_Lampoon%27s_Christmas_Vacation&#34;&gt;National Lampoon&amp;rsquo;s Christmas Vacation&lt;/a&gt;&amp;rdquo;. As I type this I am getting ready to watch them both. Those are the ones to laugh to tears and have fun. The other favourite one &amp;ndash;please don&amp;rsquo;t hate me&amp;ndash; is &amp;ldquo;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Sound_of_Music&#34;&gt;The Sound of Music&lt;/a&gt;.&amp;rdquo; There is something about it that just does it for me.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The hills are alive, with the sound of music!&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Funnily enough, Clark and family make fun of this one on &amp;ldquo;&lt;a href=&#34;http://en.wikipedia.org/wiki/National_Lampoon%27s_European_Vacation&#34;&gt;National Lampoon&amp;rsquo;s European Vacation&lt;/a&gt;.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>It is Christmas day</title>
       <link>https://collantes.us/2013/12/25/it-is-christmas-day/</link>
       <pubDate>Wed, 25 Dec 2013 14:00:00 +0000</pubDate>
@@ -1506,20 +1520,6 @@ exit
       <guid>https://collantes.us/2013/12/25/it-is-christmas-day/</guid>
       <description>&lt;p&gt;One of the many things to look forward to each year is, of course, the end of year holidays. Christmas, Festivus, or whatever you call it, the end of December is always a special time. My only complain, and that might be yours too, is that it comes and goes so fast! Kent has finished opening his presents, and somehow it feels &amp;ldquo;it is all over.&amp;rdquo; But we waited the whole year for this! We stayed up late wrapping gifts, gifts that are now open, and the &amp;ldquo;magic&amp;rdquo; gone. It should not be.&lt;/p&gt;
 &lt;p&gt;I know it is in our minds. The holidays and all. Why can&amp;rsquo;t we make it so it feels like now, the whole year round? What will it take?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Movies to watch during Christmas</title>
-      <link>https://collantes.us/2013/12/25/movies-to-watch-during-christmas/</link>
-      <pubDate>Wed, 25 Dec 2013 14:00:00 +0000</pubDate>
-      <author>david@collantes.us (David Collantes)</author>
-      <guid>https://collantes.us/2013/12/25/movies-to-watch-during-christmas/</guid>
-      <description>&lt;p&gt;Christmas is not the same without watching certain movies. The ones that are always a must for me are &amp;ldquo;&lt;a href=&#34;http://en.wikipedia.org/wiki/National_Lampoon%27s_European_Vacation&#34;&gt;National Lampoon&amp;rsquo;s European Vacation&lt;/a&gt;&amp;rdquo; and &amp;ldquo;&lt;a href=&#34;http://en.wikipedia.org/wiki/National_Lampoon%27s_Christmas_Vacation&#34;&gt;National Lampoon&amp;rsquo;s Christmas Vacation&lt;/a&gt;&amp;rdquo;. As I type this I am getting ready to watch them both. Those are the ones to laugh to tears and have fun. The other favorite one &amp;ndash;please don&amp;rsquo;t hate me&amp;ndash; is &amp;ldquo;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Sound_of_Music&#34;&gt;The Sound of Music&lt;/a&gt;.&amp;rdquo; There is something about it that just does it for me.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;The hills are alive, with the sound of music!&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Funnily enough, Clark and family make fun of this one on &amp;ldquo;&lt;a href=&#34;http://en.wikipedia.org/wiki/National_Lampoon%27s_European_Vacation&#34;&gt;National Lampoon&amp;rsquo;s European Vacation&lt;/a&gt;.&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     
@@ -1965,13 +1965,8 @@ decided instead to host with Godaddy.&lt;/li&gt;
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2011/03/24/science-fair-1st-place/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2011/03/24/science-fair-1st-place//resources/2011-03-24-science-fair-1st-place.jpg#full&#34; alt=&#34;&#34; title=&#34;Science Fair 1st Place&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Kent did it again (and we are so happy and proud of him!). The last time
-he brought home an award was for being on &lt;a href=&#34;https://collantes.us/2010/06/04/kent-principals-list/&#34;&gt;Principal’s list&lt;/a&gt;. This
-time he has gotten first place on Elementary School Science Fair. His
-project was “How is Electricity produced?”&lt;/p&gt;
-&lt;p&gt;Off topic, we need a new camera to replace our aged &lt;a href=&#34;https://collantes.us/2007/04/12/canon-powershot-a640/&#34;&gt;Powershot (Canon
-PowerShot A640)&lt;/a&gt;. Any
-&lt;a href=&#34;mailto:david@collantes.us?&#34;&gt;tips?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kent did it again (and we are so happy and proud of him!). The last time he brought home an award was for being on &lt;a href=&#34;https://collantes.us/2010/06/04/kent-principals-list/&#34;&gt;Principal&amp;rsquo;s list&lt;/a&gt;. This time he has gotten first place on Elementary School Science Fair. His project was “How is Electricity produced?&lt;/p&gt;
+&lt;p&gt;Off topic, we need a new camera to replace our aged &lt;a href=&#34;https://collantes.us/2007/04/12/canon-powershot-a640/&#34;&gt;PowerShot (Canon PowerShot A640)&lt;/a&gt;. Any &lt;a href=&#34;mailto:david@collantes.us?&#34;&gt;tips?&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -6233,7 +6228,7 @@ David Collantes&lt;/p&gt;
 &lt;p&gt;&amp;mdash; &lt;cite&gt;&lt;a href=&#34;http://www.msnbc.com/news/842500.asp?0cv=CA01&#34; title=&#34;MSNBC News: Exile for Saddam?&#34; target=&#34;_blank&#34;&gt;MSNBC&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Well, it seems there is a solution! Just tell a totalitarian, self-centered, narcissist, criminal-without-conscience dictator to leave the country he owns, leave all his palaces and slaves behind and go to take refuge on some country where, ultimately, someone will kill him. That makes perfect sense!&lt;/p&gt;
-&lt;p&gt;Is it me or this is just another crazy alternative &amp;mdash; which we know is not going to be accepted &amp;mdash; that will give us green light to go to war? Something at the same level of the empty shells we &amp;mdash; actually, the U.N. team &amp;mdash; found, which &amp;ldquo;irrefutably&amp;rdquo; prove an active Iraqi research and production of chemical weapons. Don&amp;rsquo;t get me wrong, I do not doubt that Iraq might be doing such research and production. Actually, I am almost convinced they are. But we can not &amp;mdash; well, should not &amp;mdash; annihilate a country based on suppositions. Proof, we need proof.&lt;/p&gt;
+&lt;p&gt;Is it me or this is just another crazy alternative&amp;mdash;which we know is not going to be accepted&amp;mdash;that will give us green light to go to war? Something at the same level of the empty shells we &amp;mdash; actually, the U.N. team &amp;mdash; found, which &amp;ldquo;irrefutably&amp;rdquo; prove an active Iraqi research and production of chemical weapons. Don&amp;rsquo;t get me wrong, I do not doubt that Iraq might be doing such research and production. Actually, I am almost convinced they are. But we can not&amp;mdash; well, should not&amp;mdash;annihilate a country based on suppositions. Proof, we need proof.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;What is at stake is not an imminent military or terrorist threat, but the economic imperative of U.S. growth. What is at stake is America&amp;rsquo;s need to demonstrate its military power to all of us &amp;mdash; to Europe and Russia and China, and poor mad little North Korea, as well as the Middle East; to show who rules America at home, and who is to be ruled by America abroad.&lt;/p&gt;
 &lt;p&gt;&amp;mdash; &lt;cite&gt;&lt;a href=&#34;http://www.timesonline.co.uk/article/0,,482-543296,00.html&#34; title=&#34;Times Online: The United States of America has gone mad&#34; target=&#34;_blank&#34;&gt;Times Online&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;

@@ -213,7 +213,7 @@ figure > video { margin-bottom: 1rem; }
 
 blockquote {
   margin-left: -1.3rem;
-  border-left: 0.3rem solid lightgray;
+  border-left: 0.3rem solid slategray;
   padding-left: 1rem;
   font-style: normal;
   color: slategray;
@@ -406,15 +406,15 @@ kbd {
 /* Footnotes */
 
 .footnote-ref { font-size: 0.9rem; margin-left: 0.15rem; }
-.footnotes { font-size: 1rem; margin-top: 2rem; color: slategray;}
-.footnotes > hr { border: 0.5px dotted; color: darkcyan; }
+.footnotes { font-size: 1rem; margin-top: 2rem; color: slategray; }
+.footnotes > hr { border-bottom: 1px solid; color: slategray; }
 .footnotes li::marker { font-size: 1rem; color: #333; }
 .footnotes::before { content: "Footnotes"; font-size: 1.3rem; }
 
 /* Footer */
 
 footer {
-  border-top: 1px solid darkcyan;
+  border-top: 1px solid #00bfff;
   text-align: center;
   font-size: 0.9rem;
   margin-top: 2rem;

@@ -24,7 +24,7 @@ time {
 }
 
 /* Don’t display the day name multiple times for days that have multiple entries */
-.day:not(.item-0) { color: white; }
+.day:not(.item-0) { color: #ffffff; }
 
 .date { 
   font-weight: normal;
@@ -40,11 +40,17 @@ time {
 
 @media (prefers-color-scheme: dark) {
   .day:not(.item-0) { 
-    color: black;
+    color: #000000;
   }
 }
 
 a.anchor {
   text-decoration: none;
   border-bottom: none;
+}
+
+/* Selects an element with an ID matching the current URL's fragment */
+:target {
+  padding: 1px 3px;
+  border-bottom: 1px dotted #00bfff;
 }

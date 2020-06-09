@@ -85,17 +85,17 @@
       <description>&lt;p&gt;I have used &lt;code&gt;Gnupg&lt;/code&gt; to encrypt my private files, specially those that I upload to the clouds, for a long time. I used to encrypt to self, using my own key, then later moved to symmetric encryption only. The command is easy:&lt;/p&gt;
 &lt;h3 id=&#34;using-gnupg&#34;&gt;Using Gnupg&lt;/h3&gt;
 &lt;p&gt;To &lt;strong&gt;encrypt&lt;/strong&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg --cipher-algo aes256 --symmetric file.txt
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg --cipher-algo aes256 --symmetric file.txt
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Adding the option &lt;code&gt;--armor&lt;/code&gt; to the above will produce an &lt;code&gt;ASCII&lt;/code&gt; armoured encrypted file.&lt;/p&gt;
 &lt;p&gt;To &lt;strong&gt;decrypt&lt;/strong&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg --output file.txt --decrypt file.txt.&lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;gpg,asc&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg --output file.txt --decrypt file.txt.&lt;span style=&#34;color:#719e07&#34;&gt;{&lt;/span&gt;gpg,asc&lt;span style=&#34;color:#719e07&#34;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Use &lt;code&gt;asc&lt;/code&gt; ending to decrypt, if encrypted with the &lt;code&gt;--armor&lt;/code&gt; option.&lt;/p&gt;
 &lt;h3 id=&#34;using-openssl&#34;&gt;Using OpenSSL&lt;/h3&gt;
 &lt;p&gt;Although &lt;code&gt;Gnupg&lt;/code&gt; is common, &lt;code&gt;openssl&lt;/code&gt; is even more so. Encrypting with &lt;code&gt;openssl&lt;/code&gt; is a breeze as well. Even though this should work on earlier versions of &lt;code&gt;openssl&lt;/code&gt;, I am going to assume &lt;code&gt;openssl&lt;/code&gt; v1.1 and up:&lt;/p&gt;
 &lt;p&gt;To &lt;strong&gt;encrypt:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;openssl enc -aes-256-cbc -md sha256 -iter &lt;span style=&#34;color:#ae81ff&#34;&gt;1000&lt;/span&gt; -in file.txt -out file.txt.enc
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;openssl enc -aes-256-cbc -md sha256 -iter &lt;span style=&#34;color:#2aa198&#34;&gt;1000&lt;/span&gt; -in file.txt -out file.txt.enc
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To &lt;strong&gt;decrypt:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;openssl enc -d -aes-256-cbc -md sha256 -iter &lt;span style=&#34;color:#ae81ff&#34;&gt;1000&lt;/span&gt; -in file.txt.enc -out file.txt
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;openssl enc -d -aes-256-cbc -md sha256 -iter &lt;span style=&#34;color:#2aa198&#34;&gt;1000&lt;/span&gt; -in file.txt.enc -out file.txt
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If a &lt;code&gt;base64&lt;/code&gt; output is preferred, then the option &lt;code&gt;-a&lt;/code&gt; should be added to both, encryption and decryption.&lt;/p&gt;
 </description>
     </item>
@@ -798,25 +798,25 @@
       <description>&lt;p&gt;If you use GPG to occasionally encrypt and/or sign your email, or to encrypt your files before placing them on the cloud, you will understand how important it is to have a backup of your GPG keys. Similarly important will be to know how to restore them as well.&lt;/p&gt;
 &lt;h3 id=&#34;backing-up-your-keys-and-configuration-files&#34;&gt;Backing up your keys and configuration files&lt;/h3&gt;
 &lt;p&gt;To back your private, and public keys, as well as your trust database, you will do&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg --armor --export-secret-keys &amp;gt; ~/Desktop/gpg_private_keys.asc
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg --armor --export-secret-keys &amp;gt; ~/Desktop/gpg_private_keys.asc
 gpg --armor --export &amp;gt; ~/Desktop/gpg_public_keys.asc
 gpg --export-ownertrust &amp;gt; ~/Desktop/gpg_ownertrust.asc
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;You might want to backup your &lt;code&gt;gpg.conf&lt;/code&gt; and &lt;code&gt;gpg-agent.conf&lt;/code&gt; as well:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;cp ~/.gnupg/gpg.conf ~/.gnupg/gpg-agent.conf ~/Desktop/
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;cp ~/.gnupg/gpg.conf ~/.gnupg/gpg-agent.conf ~/Desktop/
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Next, you will want to compress all the files into a single archive:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;cd ~/Desktop/; zip gpg_stuff.zip gpg_private_keys.asc gpg_public_keys.asc gpg_ownertrust.asc gpg.conf gpg-agent.conf
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;color:#b58900&#34;&gt;cd&lt;/span&gt; ~/Desktop/; zip gpg_stuff.zip gpg_private_keys.asc gpg_public_keys.asc gpg_ownertrust.asc gpg.conf gpg-agent.conf
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Finally, encrypt  &lt;code&gt;gpg_stuff.zip&lt;/code&gt; before uploading it to you cloud service of choice:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg -c -z &lt;span style=&#34;color:#ae81ff&#34;&gt;9&lt;/span&gt; --require-secmem --cipher-algo AES256 --s2k-cipher-algo AES256 --s2k-digest-algo SHA512 --digest-algo SHA512 --s2k-mode &lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt; --s2k-count &lt;span style=&#34;color:#ae81ff&#34;&gt;65000000&lt;/span&gt; --compress-algo BZIP2 --bzip2-compress-level &lt;span style=&#34;color:#ae81ff&#34;&gt;9&lt;/span&gt; gpg_stuff.zip
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg -c -z &lt;span style=&#34;color:#2aa198&#34;&gt;9&lt;/span&gt; --require-secmem --cipher-algo AES256 --s2k-cipher-algo AES256 --s2k-digest-algo SHA512 --digest-algo SHA512 --s2k-mode &lt;span style=&#34;color:#2aa198&#34;&gt;3&lt;/span&gt; --s2k-count &lt;span style=&#34;color:#2aa198&#34;&gt;65000000&lt;/span&gt; --compress-algo BZIP2 --bzip2-compress-level &lt;span style=&#34;color:#2aa198&#34;&gt;9&lt;/span&gt; gpg_stuff.zip
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Make sure to remember the password you used, as you will not be able to decompress the files if you forget it, and your keys and configuration files will be rendered worthless.&lt;/p&gt;
 &lt;h3 id=&#34;restoring-your-keys-and-configuration-files&#34;&gt;Restoring your keys and configuration files&lt;/h3&gt;
 &lt;p&gt;To restore the key and configuration files, you will first need to decrypt and decompress &lt;code&gt;gpg_stuff.zip.gpg&lt;/code&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg gpg_stuff.zip.gpg; unzip gpg_stuff.zip
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg gpg_stuff.zip.gpg; unzip gpg_stuff.zip
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And then restore the keys and trust database:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg --import gpg_private_keys.asc
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg --import gpg_private_keys.asc
 gpg --import gpg_public_keys.asc
 gpg --import-ownertrust gpg_ownertrust.asc
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Finally, copy your configuration files to the proper directory:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;cp gpg.conf gpg-agent.conf ~/.gnupg/
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;cp gpg.conf gpg-agent.conf ~/.gnupg/
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
@@ -1155,15 +1155,15 @@ gpg --import-ownertrust gpg_ownertrust.asc
 &lt;li&gt;Added my Jekyll files.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;What was left was to add the following &lt;code&gt;post-receive&lt;/code&gt; hook&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#!/bin/bash -l
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;GIT_REPOSITORY&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;/path/to/my/website.git
-TMP_GIT_CLONE&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;/tmp/git/website
-WWW_ROOT&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;/path/to/my/website
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;color:#719e07&#34;&gt;#!/bin/bash -l
+&lt;/span&gt;&lt;span style=&#34;color:#719e07&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#268bd2&#34;&gt;GIT_REPOSITORY&lt;/span&gt;&lt;span style=&#34;color:#719e07&#34;&gt;=&lt;/span&gt;/path/to/my/website.git
+&lt;span style=&#34;color:#268bd2&#34;&gt;TMP_GIT_CLONE&lt;/span&gt;&lt;span style=&#34;color:#719e07&#34;&gt;=&lt;/span&gt;/tmp/git/website
+&lt;span style=&#34;color:#268bd2&#34;&gt;WWW_ROOT&lt;/span&gt;&lt;span style=&#34;color:#719e07&#34;&gt;=&lt;/span&gt;/path/to/my/website
 
-git clone $GIT_REPOSITORY $TMP_GIT_CLONE
-jekyll build --source $TMP_GIT_CLONE --destination $WWW_ROOT
-rm -rf $TMP_GIT_CLONE
-exit
+git clone &lt;span style=&#34;color:#268bd2&#34;&gt;$GIT_REPOSITORY&lt;/span&gt; &lt;span style=&#34;color:#268bd2&#34;&gt;$TMP_GIT_CLONE&lt;/span&gt;
+jekyll build --source &lt;span style=&#34;color:#268bd2&#34;&gt;$TMP_GIT_CLONE&lt;/span&gt; --destination &lt;span style=&#34;color:#268bd2&#34;&gt;$WWW_ROOT&lt;/span&gt;
+rm -rf &lt;span style=&#34;color:#268bd2&#34;&gt;$TMP_GIT_CLONE&lt;/span&gt;
+&lt;span style=&#34;color:#b58900&#34;&gt;exit&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now a few seconds right after committing, my website will show the changes. Being able to use Atom with &lt;code&gt;markdown-writer&lt;/code&gt; to compose entries, and use git to deploy them is a bliss.&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;

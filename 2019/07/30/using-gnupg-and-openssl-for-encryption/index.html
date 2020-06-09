@@ -63,17 +63,17 @@
       <p>I have used <code>Gnupg</code> to encrypt my private files, specially those that I upload to the clouds, for a long time. I used to encrypt to self, using my own key, then later moved to symmetric encryption only. The command is easy:</p>
 <h3 id="using-gnupg">Using Gnupg</h3>
 <p>To <strong>encrypt</strong>:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gpg --cipher-algo aes256 --symmetric file.txt
+<div class="highlight"><pre style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gpg --cipher-algo aes256 --symmetric file.txt
 </code></pre></div><p>Adding the option <code>--armor</code> to the above will produce an <code>ASCII</code> armoured encrypted file.</p>
 <p>To <strong>decrypt</strong>:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gpg --output file.txt --decrypt file.txt.<span style="color:#f92672">{</span>gpg,asc<span style="color:#f92672">}</span>
+<div class="highlight"><pre style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gpg --output file.txt --decrypt file.txt.<span style="color:#719e07">{</span>gpg,asc<span style="color:#719e07">}</span>
 </code></pre></div><p>Use <code>asc</code> ending to decrypt, if encrypted with the <code>--armor</code> option.</p>
 <h3 id="using-openssl">Using OpenSSL</h3>
 <p>Although <code>Gnupg</code> is common, <code>openssl</code> is even more so. Encrypting with <code>openssl</code> is a breeze as well. Even though this should work on earlier versions of <code>openssl</code>, I am going to assume <code>openssl</code> v1.1 and up:</p>
 <p>To <strong>encrypt:</strong></p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">openssl enc -aes-256-cbc -md sha256 -iter <span style="color:#ae81ff">1000</span> -in file.txt -out file.txt.enc
+<div class="highlight"><pre style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">openssl enc -aes-256-cbc -md sha256 -iter <span style="color:#2aa198">1000</span> -in file.txt -out file.txt.enc
 </code></pre></div><p>To <strong>decrypt:</strong></p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">openssl enc -d -aes-256-cbc -md sha256 -iter <span style="color:#ae81ff">1000</span> -in file.txt.enc -out file.txt
+<div class="highlight"><pre style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">openssl enc -d -aes-256-cbc -md sha256 -iter <span style="color:#2aa198">1000</span> -in file.txt.enc -out file.txt
 </code></pre></div><p>If a <code>base64</code> output is preferred, then the option <code>-a</code> should be added to both, encryption and decryption.</p>
 
       <footer>

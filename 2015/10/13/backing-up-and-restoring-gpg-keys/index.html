@@ -40,7 +40,7 @@
 <meta itemprop="description" content="Relatively simple process to back up, and restore important GPG keys. Do it if, like me, you encrypt your important documents with your GPG key.">
 <meta itemprop="datePublished" content="2015-10-13T14:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2020-06-02T13:09:05-04:00" />
-<meta itemprop="wordCount" content="266">
+<meta itemprop="wordCount" content="264">
 <meta itemprop="image" content="https://collantes.us/resources/opengraph_card.png"/>
 
 
@@ -63,7 +63,7 @@
       
       <p>If you use GPG to occasionally encrypt and/or sign your email, or to encrypt your files before placing them on the cloud, you will understand how important it is to have a backup of your GPG keys. Similarly important will be to know how to restore them as well.</p>
 
-<h3 id="backing-up-your-keys-and-configuration-files">Backing up your keys and configuration files <span class="hash"><a href="#backing-up-your-keys-and-configuration-files" class="post__hash"><i class="fas fa-link"></i></a></span></h3><p>To back your private, and public keys, as well as your trust database, you will do<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>:</p>
+<h3 id="backing-up-your-keys-and-configuration-files"><span class="hash"><a href="#backing-up-your-keys-and-configuration-files" class="post__hash"><i class="fas fa-link"></i></a></span>Backing up your keys and configuration files</h3><p>To back your private, and public keys, as well as your trust database, you will do<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>:</p>
 <div class="highlight"><pre style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gpg --armor --export-secret-keys &gt; ~/Desktop/gpg_private_keys.asc
 gpg --armor --export &gt; ~/Desktop/gpg_public_keys.asc
 gpg --export-ownertrust &gt; ~/Desktop/gpg_ownertrust.asc
@@ -75,7 +75,7 @@ gpg --export-ownertrust &gt; ~/Desktop/gpg_ownertrust.asc
 <div class="highlight"><pre style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gpg -c -z <span style="color:#2aa198">9</span> --require-secmem --cipher-algo AES256 --s2k-cipher-algo AES256 --s2k-digest-algo SHA512 --digest-algo SHA512 --s2k-mode <span style="color:#2aa198">3</span> --s2k-count <span style="color:#2aa198">65000000</span> --compress-algo BZIP2 --bzip2-compress-level <span style="color:#2aa198">9</span> gpg_stuff.zip
 </code></pre></div><p>Make sure to remember the password you used, as you will not be able to decompress the files if you forget it, and your keys and configuration files will be rendered worthless.</p>
 
-<h3 id="restoring-your-keys-and-configuration-files">Restoring your keys and configuration files <span class="hash"><a href="#restoring-your-keys-and-configuration-files" class="post__hash"><i class="fas fa-link"></i></a></span></h3><p>To restore the key and configuration files, you will first need to decrypt and decompress <code>gpg_stuff.zip.gpg</code>:</p>
+<h3 id="restoring-your-keys-and-configuration-files"><span class="hash"><a href="#restoring-your-keys-and-configuration-files" class="post__hash"><i class="fas fa-link"></i></a></span>Restoring your keys and configuration files</h3><p>To restore the key and configuration files, you will first need to decrypt and decompress <code>gpg_stuff.zip.gpg</code>:</p>
 <div class="highlight"><pre style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gpg gpg_stuff.zip.gpg; unzip gpg_stuff.zip
 </code></pre></div><p>And then restore the keys and trust database:</p>
 <div class="highlight"><pre style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gpg --import gpg_private_keys.asc

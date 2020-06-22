@@ -61,6 +61,8 @@
       <h1><a class="anchor" href="/#20090904T140000Z">Facebook and OpenID caching</a></h1>
       <time class='single' datetime="2009-09-04T14:00:00Z"><a href="https://github.com/Fastidious/collantes.us/commit/00ba1b7cfa044b675495a25b2dc3004292cbba08" title="Starting new"><i class="fas fa-history"></i></a> Friday, 04 September 2009</time>
       
+
+      
       <p>When I first read that Facebook was going to allow OpenID logins, I was happy. OpenID means less usernames and passwords to remember. So I merrily went to setup mine, just to find out that their support was exclusively for OpenID version 2.0, and my implementation was 1.1. No graceful fall back, Facebook demands OpenID 2.0. So I decided it was time for me to upgrade my implementation for one capable to handle 1.1 and 2.0.</p>
 <p>Of course, the first one I tried I did not like it (and that one worked perfectly with Facebook). I ended up picking up, configuring and using <a href="http://sourceforge.net/projects/simpleid/">SimpleID</a>. Well, when I went ahead and tried to used it in Facebook, I found out that Facebook wasn&rsquo;t contacting my delegation anymore. It had stored my OpenID (<a href="http://collantes.us/">collantes.us</a>) and match it to the first implementation I tried, the one I did not like, which no longer existed.</p>
 <p>Well, I thought, Facebook has many millions of users, some caching is expected. So I waited, and waited. A week passed by, and still going to the wrong server. I emailed them, clearly stated the problem, got the first canned reply acknowledging. Two days after got the second canned reply brushing me off.</p>

@@ -80,11 +80,8 @@
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2019/07/31/elections-2020/</guid>
       <description>&lt;p&gt;Election time is always an important time. We, the people, get to vote for the person that will be our nation&amp;rsquo;s president for at least four years—and with any luck, eight. The presidential election of 2020 is going to be an interesting one. I know, I know, we could say the same for every election. This time, though, it’s easy to understand why the upcoming election holds an extra weight.&lt;/p&gt;
-
 &lt;h3 id=&#34;the-problem&#34;&gt;&lt;span class=&#34;hash&#34;&gt;&lt;a href=&#34;#the-problem&#34; class=&#34;post__hash&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/span&gt;The problem&lt;/h3&gt;&lt;p&gt;I could go on, and describe the reasons why Trump shouldn’t get re-elected. They are the same reasons why he shouldn&amp;rsquo;t have been elected the first time. Those, plus so much more. Really. If you slightly follow politics, if you are honourable, if you don’t blatantly lie all the time, if you are educated, if you are smart, if you care about the environment and your fellow human beings, if you consider yourself to be an overall decent individual, if you have common sense… then you will know the reasons why Trump shouldn&amp;rsquo;t be president.&lt;/p&gt;
-
 &lt;h3 id=&#34;whats-being-done&#34;&gt;&lt;span class=&#34;hash&#34;&gt;&lt;a href=&#34;#whats-being-done&#34; class=&#34;post__hash&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/span&gt;What&amp;rsquo;s being done?&lt;/h3&gt;&lt;p&gt;From a non-partisan point of view, we need someone, anyone, but Trump. I can&amp;rsquo;t imagine it worse. As he will be the one running for re-election, and he was chosen by the Republican Party, we can eliminate the possibility of having a Republican running against him. That leaves us with a Democrat to replace him. The question is, who? With as many as &lt;a href=&#34;https://ballotpedia.org/Presidential_candidates,_2020&#34;&gt;25 democratic hopefuls&lt;/a&gt;, it becomes a difficult task, Presidential Debates or not. The chosen one will not only be required to be the very best to lead our country, but the one with the highest chances of defeating Trump. One will say, that’s so easy, right? I mean, come on, who will vote again for &lt;em&gt;that guy&lt;/em&gt;	? Well, many of our fellow Americans seem to have devolved—and I don’t understand why—so what would otherwise be a non-brainier, is no longer.&lt;/p&gt;
-
 &lt;h3 id=&#34;what-to-do-then&#34;&gt;&lt;span class=&#34;hash&#34;&gt;&lt;a href=&#34;#what-to-do-then&#34; class=&#34;post__hash&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/span&gt;What to do then?&lt;/h3&gt;&lt;p&gt;What will be required to defeat Trump? For any presidential hopeful, lowering itself to Trump’s level would be unthinkable. He is the lowest of the lowest. What to do? How to open the eyes of those who support him? How to change the minds of those who subscribe to his behaviour, who might just be like him? Arduous, close to impossible task, isn’t it? The only thing that comes to mind is to win by sheer numbers. To win by popular vote. That could be it, right? Ah, alas, the &lt;a href=&#34;https://en.wikipedia.org/wiki/United_States_Electoral_College&#34;&gt;Electoral College&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;Either we are in a pickle, or we are f!@#$%.&lt;/p&gt;
 </description>
@@ -97,14 +94,12 @@
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2019/07/30/using-gnupg-and-openssl-for-encryption/</guid>
       <description>&lt;p&gt;I have used &lt;code&gt;Gnupg&lt;/code&gt; to encrypt my private files, specially those that I upload to the clouds, for a long time. I used to encrypt to self, using my own key, then later moved to symmetric encryption only. The command is easy:&lt;/p&gt;
-
 &lt;h3 id=&#34;using-gnupg&#34;&gt;&lt;span class=&#34;hash&#34;&gt;&lt;a href=&#34;#using-gnupg&#34; class=&#34;post__hash&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/span&gt;Using Gnupg&lt;/h3&gt;&lt;p&gt;To &lt;strong&gt;encrypt&lt;/strong&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg --cipher-algo aes256 --symmetric file.txt
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Adding the option &lt;code&gt;--armor&lt;/code&gt; to the above will produce an &lt;code&gt;ASCII&lt;/code&gt; armoured encrypted file.&lt;/p&gt;
 &lt;p&gt;To &lt;strong&gt;decrypt&lt;/strong&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg --output file.txt --decrypt file.txt.&lt;span style=&#34;color:#719e07&#34;&gt;{&lt;/span&gt;gpg,asc&lt;span style=&#34;color:#719e07&#34;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Use &lt;code&gt;asc&lt;/code&gt; ending to decrypt, if encrypted with the &lt;code&gt;--armor&lt;/code&gt; option.&lt;/p&gt;
-
 &lt;h3 id=&#34;using-openssl&#34;&gt;&lt;span class=&#34;hash&#34;&gt;&lt;a href=&#34;#using-openssl&#34; class=&#34;post__hash&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/span&gt;Using OpenSSL&lt;/h3&gt;&lt;p&gt;Although &lt;code&gt;Gnupg&lt;/code&gt; is common, &lt;code&gt;openssl&lt;/code&gt; is even more so. Encrypting with &lt;code&gt;openssl&lt;/code&gt; is a breeze as well. Even though this should work on earlier versions of &lt;code&gt;openssl&lt;/code&gt;, I am going to assume &lt;code&gt;openssl&lt;/code&gt; v1.1 and up:&lt;/p&gt;
 &lt;p&gt;To &lt;strong&gt;encrypt:&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;openssl enc -aes-256-cbc -md sha256 -iter &lt;span style=&#34;color:#2aa198&#34;&gt;1000&lt;/span&gt; -in file.txt -out file.txt.enc
@@ -817,7 +812,6 @@
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2015/10/13/backing-up-and-restoring-gpg-keys/</guid>
       <description>&lt;p&gt;If you use GPG to occasionally encrypt and/or sign your email, or to encrypt your files before placing them on the cloud, you will understand how important it is to have a backup of your GPG keys. Similarly important will be to know how to restore them as well.&lt;/p&gt;
-
 &lt;h3 id=&#34;backing-up-your-keys-and-configuration-files&#34;&gt;&lt;span class=&#34;hash&#34;&gt;&lt;a href=&#34;#backing-up-your-keys-and-configuration-files&#34; class=&#34;post__hash&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/span&gt;Backing up your keys and configuration files&lt;/h3&gt;&lt;p&gt;To back your private, and public keys, as well as your trust database, you will do&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg --armor --export-secret-keys &amp;gt; ~/Desktop/gpg_private_keys.asc
 gpg --armor --export &amp;gt; ~/Desktop/gpg_public_keys.asc
@@ -829,7 +823,6 @@ gpg --export-ownertrust &amp;gt; ~/Desktop/gpg_ownertrust.asc
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Finally, encrypt  &lt;code&gt;gpg_stuff.zip&lt;/code&gt; before uploading it to you cloud service of choice:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg -c -z &lt;span style=&#34;color:#2aa198&#34;&gt;9&lt;/span&gt; --require-secmem --cipher-algo AES256 --s2k-cipher-algo AES256 --s2k-digest-algo SHA512 --digest-algo SHA512 --s2k-mode &lt;span style=&#34;color:#2aa198&#34;&gt;3&lt;/span&gt; --s2k-count &lt;span style=&#34;color:#2aa198&#34;&gt;65000000&lt;/span&gt; --compress-algo BZIP2 --bzip2-compress-level &lt;span style=&#34;color:#2aa198&#34;&gt;9&lt;/span&gt; gpg_stuff.zip
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Make sure to remember the password you used, as you will not be able to decompress the files if you forget it, and your keys and configuration files will be rendered worthless.&lt;/p&gt;
-
 &lt;h3 id=&#34;restoring-your-keys-and-configuration-files&#34;&gt;&lt;span class=&#34;hash&#34;&gt;&lt;a href=&#34;#restoring-your-keys-and-configuration-files&#34; class=&#34;post__hash&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/span&gt;Restoring your keys and configuration files&lt;/h3&gt;&lt;p&gt;To restore the key and configuration files, you will first need to decrypt and decompress &lt;code&gt;gpg_stuff.zip.gpg&lt;/code&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;gpg gpg_stuff.zip.gpg; unzip gpg_stuff.zip
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And then restore the keys and trust database:&lt;/p&gt;
@@ -964,11 +957,7 @@ gpg --import-ownertrust gpg_ownertrust.asc
       <pubDate>Thu, 01 Oct 2015 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2015/10/01/on-a-rock/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2015-10-01-on-a-rock.jpg#full&#34;
-  alt=&#34;On a rock&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2015/10/01/on-a-rock//resources/2015-10-01-on-a-rock.jpg#full&#34; alt=&#34;On a rock&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;From our last vacation&amp;mdash;which occurred four months ago&amp;mdash;to Colorado. This one was taken somewhere around Pikes Peak. Kent was daring, and Kim was afraid. I took the photo.&lt;/p&gt;
 </description>
     </item>
@@ -1055,11 +1044,7 @@ gpg --import-ownertrust gpg_ownertrust.asc
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2015/09/23/autumnal-equinox/</guid>
       <description>&lt;p&gt;Today marks the beginning of one of my two favorite seasons, Autumn&amp;mdash;or Fall, as it is commonly called in the United States. Living in Florida makes the season a very, very mild one, with temperatures still quite high (it will be 90°F today), yet it brings the solid certainty that summer is being left behind.&lt;/p&gt;
-&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2015-09-23-autumnal-equinox.gif#full&#34;
-  alt=&#34;Autumnal Equinox&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://collantes.us/2015/09/23/autumnal-equinox//resources/2015-09-23-autumnal-equinox.gif#full&#34; alt=&#34;Autumnal Equinox&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Join me on celebrating the Autumnal Equinox today, at 04:21 US Eastern time, which is 08:21 UTC. Google is also celebrating it, with a &lt;a href=&#34;https://www.google.com/doodles/first-day-of-fall-2015-northern-hemisphere&#34;&gt;beautiful doodle&lt;/a&gt; and an adorable little squirrel.&lt;/p&gt;
 </description>
     </item>
@@ -1102,11 +1087,7 @@ gpg --import-ownertrust gpg_ownertrust.asc
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2015/09/19/microsoft-studio-code/</guid>
       <description>&lt;p&gt;Microsoft launched its free (non open source), cross-platform, &lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;code editor&lt;/a&gt; early this year (April, 2015), at its &lt;a href=&#34;http://www.buildwindows.com/&#34;&gt;Build Developer Conference&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2015-09-19-microsoft-studio-code.png#full&#34;
-  alt=&#34;Microsoft Visual Studio Code&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://collantes.us/2015/09/19/microsoft-studio-code//resources/2015-09-19-microsoft-studio-code.png#full&#34; alt=&#34;Microsoft Visual Studio Code&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;I have been tempted to try it, as I read its file comparison is very nice, its intelliSense, and it&amp;rsquo;s based on the &lt;a href=&#34;https://github.com/atom/electron&#34;&gt;same platform&lt;/a&gt; as Atom, which &lt;a href=&#34;https://collantes.us/2015/08/29/using-atom/&#34;&gt;I happen to love&lt;/a&gt;. Today was &lt;em&gt;the&lt;/em&gt; day, but as you can see, it is a non-signed OS X application. Microsoft is big enough, and rich enough to afford signing their OS X applications, but they chose not to. Therefore, I am passing. I am sure it&amp;rsquo;s very nice.&lt;/p&gt;
 </description>
     </item>
@@ -1273,11 +1254,7 @@ rm -rf &lt;span style=&#34;color:#268bd2&#34;&gt;$TMP_GIT_CLONE&lt;/span&gt;
       <pubDate>Thu, 14 May 2015 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2015/05/14/the-very-last-of-something/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2015-05-14-the-very-last-of-something.jpg#full&#34;
-  alt=&#34;The last of the rhinoceros&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2015/05/14/the-very-last-of-something//resources/2015-05-14-the-very-last-of-something.jpg#full&#34; alt=&#34;The last of the rhinoceros&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;There hasn&amp;rsquo;t been an article like this for a while, that fills me with such feeling of sadness, and emptiness. For as long as I can remember, a &lt;a href=&#34;https://www.youtube.com/watch?v=Q5nVu_LNrLg&#34;&gt;cartoon I saw&lt;/a&gt; as a child started my attraction for rhinoceros. Such lovely animals!&lt;/p&gt;
 &lt;p&gt;And now, the one pictured above (CB2/ZOB/Brent Stirton/National Geographic) is &lt;a href=&#34;http://www.theguardian.com/environment/2015/apr/27/ol-pejeta-kenya-sudan-worlds-last-male-northern-white-rhinoceros&#34;&gt;the last of his kind&lt;/a&gt;. Who do we have to thank for that? Us. On a &lt;a href=&#34;http://www.theguardian.com/commentisfree/2015/may/12/last-male-northern-white-rhino#comment-52111518&#34;&gt;comment to the article&lt;/a&gt;, a poster under a &amp;ldquo;&lt;a href=&#34;https://profile.theguardian.com/user/id/12388651&#34;&gt;Gordo Granudo&lt;/a&gt;&amp;rdquo; pseudonym writes:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1636,7 +1613,6 @@ rm -rf &lt;span style=&#34;color:#268bd2&#34;&gt;$TMP_GIT_CLONE&lt;/span&gt;
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2013/12/23/the-prophet/</guid>
       <description>&lt;p&gt;At the end of each episode of &amp;ldquo;&lt;a href=&#34;http://the-big-bang-theory.com/&#34;&gt;The Big Bang Theory&lt;/a&gt;&amp;rdquo; there is always something witty printed, that passes by so fast you can not read it. Today I saw, and remembered, &amp;ldquo;&lt;em&gt;&amp;hellip; the prophet did not answer right away &amp;hellip;&lt;/em&gt;.&amp;rdquo; I looked it up, and this came up.&lt;/p&gt;
-
 &lt;h3 id=&#34;the-prophet&#34;&gt;&lt;span class=&#34;hash&#34;&gt;&lt;a href=&#34;#the-prophet&#34; class=&#34;post__hash&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/span&gt;The Prophet&lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;A young woman stepped forward from the throng and asked, &lt;em&gt;&amp;ldquo;0&amp;rsquo; great prophet, tell us how we might find love that is unconditional, unwavering and unending.&amp;quot;&lt;/em&gt; The prophet did not answer right away. He looked off into the distance, gathering his thoughts. Silence descended upon the crowd. Then he turned his gaze upon the young woman and said, &lt;em&gt;&amp;ldquo;Get a dog.&amp;quot;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1747,11 +1723,7 @@ rm -rf &lt;span style=&#34;color:#268bd2&#34;&gt;$TMP_GIT_CLONE&lt;/span&gt;
       <pubDate>Sat, 03 Dec 2011 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2011/12/03/mi-vieja/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2011-12-03-mi-vieja.jpg#full&#34;
-  alt=&#34;Mi vieja&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2011/12/03/mi-vieja//resources/2011-12-03-mi-vieja.jpg#full&#34; alt=&#34;Mi vieja&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;She created me, all my flaws and gifts unintended. She nurtured and guided me through life the best she could, suffering for my mistakes&amp;mdash;but always hopeful&amp;mdash;and rejoicing on my victories. Always supportive she gave herself to me (and my siblings), selflessly.&lt;/p&gt;
 &lt;p&gt;After a lifetime mission, her time around here has expired. We knew it would come, but never fully prepared for it. And so we wept, sadness seeping through us. Forget her? Never. Miss her? Forever.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;XX January 19XX &amp;mdash; 3rd December 2011&lt;/strong&gt;&lt;/p&gt;
@@ -1779,11 +1751,7 @@ rm -rf &lt;span style=&#34;color:#268bd2&#34;&gt;$TMP_GIT_CLONE&lt;/span&gt;
       <pubDate>Wed, 05 Oct 2011 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2011/10/05/steve-jobs/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2011-10-05-steve-jobs.jpg#full&#34;
-  alt=&#34;Steve Jobs&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2011/10/05/steve-jobs//resources/2011-10-05-steve-jobs.jpg#full&#34; alt=&#34;Steve Jobs&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;A great man has passed away. While mourning, we celebrate all he brought to us&amp;hellip; his many accomplishments. He will not be forgotten.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;February 24, 1955 &amp;ndash; October 5, 2011&lt;/strong&gt;&lt;/p&gt;
 </description>
@@ -1880,7 +1848,6 @@ adapt it to a compromise. Please do not sue me.&lt;/p&gt;
 understand the learnings he gained from it.&lt;/p&gt;
 &lt;p&gt;Some emphasis mine.&lt;/p&gt;
 &lt;hr class=&#34;divider&#34; /&gt;
-
 
 &lt;h3 id=&#34;what-i-thought-when-my-plane-crashed&#34;&gt;&lt;span class=&#34;hash&#34;&gt;&lt;a href=&#34;#what-i-thought-when-my-plane-crashed&#34; class=&#34;post__hash&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/span&gt;What I thought when my plane crashed&lt;/h3&gt;&lt;p&gt;When you start your own company and become your own boss, you think,
 &amp;ldquo;Life is good.&amp;rdquo; When you actually start making money and growing your
@@ -2040,11 +2007,7 @@ decided instead to host with Godaddy.&lt;/li&gt;
       <pubDate>Thu, 24 Mar 2011 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2011/03/24/science-fair-1st-place/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2011-03-24-science-fair-1st-place.jpg#full&#34;
-  alt=&#34;&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2011/03/24/science-fair-1st-place//resources/2011-03-24-science-fair-1st-place.jpg#full&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Kent did it again (and we are so happy and proud of him!). The last time he brought home an award was for being on &lt;a href=&#34;https://collantes.us/2010/06/04/kent-principals-list/&#34;&gt;Principal&amp;rsquo;s list&lt;/a&gt;. This time he has gotten first place on Elementary School Science Fair. His project was “How is Electricity produced?&lt;/p&gt;
 &lt;p&gt;Off topic, we need a new camera to replace our aged &lt;a href=&#34;https://collantes.us/2007/04/12/canon-powershot-a640/&#34;&gt;PowerShot (Canon PowerShot A640)&lt;/a&gt;. Any &lt;a href=&#34;mailto:david@collantes.us?&#34;&gt;tips?&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -2056,11 +2019,7 @@ decided instead to host with Godaddy.&lt;/li&gt;
       <pubDate>Mon, 14 Mar 2011 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2011/03/14/japan-earthquake-tsunami-2011/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2011-03-14-japan-earthquake-tsunami-2011.jpg#full&#34;
-  alt=&#34;&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2011/03/14/japan-earthquake-tsunami-2011//resources/2011-03-14-japan-earthquake-tsunami-2011.jpg#full&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Japan’s destruction due to the recent earthquake and tsunami is
 unbelievable. It is more than heartbreaking. Google has &lt;a href=&#34;http://www.google.com/crisisresponse/japanquake2011.html&#34;&gt;setup a page
 (Google’s Japan Earthquake Crisis
@@ -2083,11 +2042,7 @@ today!&lt;/p&gt;
       <pubDate>Sat, 12 Mar 2011 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2011/03/12/st-augustine/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2011-03-12-st-augustine.jpg#full&#34;
-  alt=&#34;St. Augustine Fort&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2011/03/12/st-augustine//resources/2011-03-12-st-augustine.jpg#full&#34; alt=&#34;St. Augustine Fort&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Yesterday I went with Kent and classmates to &lt;a href=&#34;http://en.wikipedia.org/wiki/St._Augustine,_Florida&#34;&gt;St. Augustine&lt;/a&gt;, the oldest continuously occupied European established city and port in the continental United States.&lt;/p&gt;
 &lt;p&gt;It was a great trip, we learned a lot, we saw a lot, it was cold, we came home tired. We will return&amp;hellip; one day. The end.&lt;/p&gt;
 </description>
@@ -2106,7 +2061,6 @@ around long enough. If WSJ does not like what I have done, let me know
 and I will remove it, or adapt it to a compromise. Please do not sue me.&lt;/p&gt;
 &lt;p&gt;Some emphasis mine.&lt;/p&gt;
 &lt;hr class=&#34;divider&#34; /&gt;
-
 
 &lt;h3 id=&#34;ricky-gervais-why-im-an-atheist&#34;&gt;&lt;span class=&#34;hash&#34;&gt;&lt;a href=&#34;#ricky-gervais-why-im-an-atheist&#34; class=&#34;post__hash&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/span&gt;Ricky Gervais: Why I&amp;rsquo;m an Atheist&lt;/h3&gt;&lt;p&gt;Why don&amp;rsquo;t you believe in God? I get that question all the time. I always
 try to give a sensitive, reasoned answer. This is usually awkward, time
@@ -2252,11 +2206,7 @@ hell.&amp;rdquo;&lt;/p&gt;
       <pubDate>Sun, 27 Feb 2011 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2011/02/27/happy-birthday-viejo/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2011-02-27-happy-birthday-viejo.jpg#full&#34;
-  alt=&#34;Mom and Dad&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2011/02/27/happy-birthday-viejo//resources/2011-02-27-happy-birthday-viejo.jpg#full&#34; alt=&#34;Mom and Dad&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Not a day goes by without me thinking of my Dad. Today he would have
 being 92 years old.&lt;/p&gt;
 &lt;p&gt;I still remember him on his 90th birthday, doing push ups using only
@@ -2308,11 +2258,7 @@ Birthday, mi Viejo!&lt;/p&gt;
       <pubDate>Thu, 27 Jan 2011 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2011/01/27/insignificant/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2011-01-27-insignificant.png#full&#34;
-  alt=&#34;Pale dot&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2011/01/27/insignificant//resources/2011-01-27-insignificant.png#full&#34; alt=&#34;Pale dot&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Do you see the pale dot on the dark image above? You don&amp;rsquo;t see it? Look carefully, it is there! That &lt;a href=&#34;http://en.wikipedia.org/wiki/Pale_Blue_Dot&#34;&gt;pale dot&lt;/a&gt; could be us, Earth; but you pick: Solar System, Milky Way, it doesn&amp;rsquo;t matter. We are that insignificant because of the vastness of the universe we live in. And vastness is an understatement. After all, the universe is infinite.&lt;/p&gt;
 &lt;p&gt;We might try to explain what is at our noses, but that &amp;ldquo;what&amp;rdquo; will always be too insignificant to mean anything more than what is &lt;strong&gt;immediate&lt;/strong&gt;. That is why I shake my head and laugh when I read things like this:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -2402,11 +2348,7 @@ Birthday, mi Viejo!&lt;/p&gt;
       <pubDate>Fri, 26 Nov 2010 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2010/11/26/mi-viejo/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2010-11-26-mi-viejo.jpg#full&#34;
-  alt=&#34;Mi Viejo&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2010/11/26/mi-viejo//resources/2010-11-26-mi-viejo.jpg#full&#34; alt=&#34;Mi Viejo&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;A steady, yet gentle, rain was falling over Miami on the night of 24th November 2010. Some say rain are tears from the sky. I was crying as well. On 24th November my father died.&lt;/p&gt;
 &lt;p&gt;Those who have lost an infinitely dear one will understand how I feel. Not only did I lose the best father a son could have, I lost a lifetime friend, a restless protector, a confidant. The many memories that I have of him continue to bring tears. It hurts so much!&lt;/p&gt;
 &lt;p&gt;This entry is just another way I have to bring homage to him. My memories of him will one day die with me; until then I will never, ever, forget him.&lt;/p&gt;
@@ -2436,11 +2378,7 @@ Birthday, mi Viejo!&lt;/p&gt;
       <pubDate>Sun, 11 Jul 2010 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2010/07/11/viva-spain/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2010-07-11-viva-spain.png#full&#34;
-  alt=&#34;Spanish flag&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2010/07/11/viva-spain//resources/2010-07-11-viva-spain.png#full&#34; alt=&#34;Spanish flag&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Woohoo! Spain, Champions of Europe and now Champions of the World! What an amazing match! So excited! Now I can&amp;rsquo;t hardly wait until the next World Cup! :-) Viva España! Viva España!&lt;/p&gt;
 </description>
     </item>
@@ -2451,11 +2389,7 @@ Birthday, mi Viejo!&lt;/p&gt;
       <pubDate>Fri, 25 Jun 2010 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2010/06/25/the-unthinkable/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2010-06-25-the-unthinkable.jpg#full&#34;
-  alt=&#34;&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2010/06/25/the-unthinkable//resources/2010-06-25-the-unthinkable.jpg#full&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Yesterday I did the unthinkable. Something I have never done &amp;mdash; nor will I do again &amp;mdash; before. I went very early (03:15) to stand at the Millenia all, to be one of the first (or so I thought) to buy the &lt;a href=&#34;http://www.apple.com/iphone/&#34;&gt;iPhone 4&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t want to write long about something I am more than half way ashamed of. Suffice it to say that I got an iPhone 4 after standing in line for 14 hours (17:15). Never again.&lt;/p&gt;
 &lt;p&gt;The photo above was taken by &lt;a href=&#34;http://george.tsiokos.com/&#34;&gt;George&lt;/a&gt;, around 11:30, not even half way my day there. Did I say never again?&lt;/p&gt;
@@ -2468,11 +2402,7 @@ Birthday, mi Viejo!&lt;/p&gt;
       <pubDate>Wed, 23 Jun 2010 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2010/06/23/a-month/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/dixie.jpg#full&#34;
-  alt=&#34;Dixie J. McCoy&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2010/06/23/a-month//resources/dixie.jpg#full&#34; alt=&#34;Dixie J. McCoy&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;It has been a month since our Jean passed away. Times flies, yet it seems like it was yesterday. Nor a day has passed by without coming to mind, one way or another. We miss her like we did the first day. I truly dislike Warcraft, but I am keeping her toons alive, and advancing. Somehow playing something she dedicated so much time on, where she had so many good friends, gives me the feeling she still lives. Quiet mornings, though, speak otherwise.&lt;/p&gt;
 </description>
     </item>
@@ -2495,11 +2425,7 @@ Birthday, mi Viejo!&lt;/p&gt;
       <pubDate>Fri, 04 Jun 2010 16:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2010/06/04/kent-principals-list/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2010-06-04-kent-principals-list.jpg#full&#34;
-  alt=&#34;Kent and Principal&amp;amp;rsquo;s List trophy&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2010/06/04/kent-principals-list//resources/2010-06-04-kent-principals-list.jpg#full&#34; alt=&#34;Kent and Principal&amp;amp;rsquo;s List trophy&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Kent&amp;rsquo;s school Awards Ceremony was today. I did not take a picture there, but filmed a bit. The photo above was taken afterwards, at home. He was so happy &amp;ndash;and I so proud of him!&amp;ndash; to receive the trophy for being the whole third academic year on the Principal&amp;rsquo;s List (straight A in all subjects).&lt;/p&gt;
 &lt;p&gt;I am lucky I got him to smile too!&lt;/p&gt;
 </description>
@@ -2511,11 +2437,7 @@ Birthday, mi Viejo!&lt;/p&gt;
       <pubDate>Tue, 01 Jun 2010 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2010/06/01/dixie/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/dixie.jpg#full&#34;
-  alt=&#34;Dixie&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2010/06/01/dixie//resources/dixie.jpg#full&#34; alt=&#34;Dixie&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Our Dixie died in her sleep, on May 23rd, 2010. Her death brought sorrow, and she is greatly missed each day. We will never forget her sweetness, kindness, good advise&amp;hellip; Her gentle smile will live in our memories.&lt;/p&gt;
 &lt;p&gt;Rest in peace Maxie Bizzenscooter, Astlyr, Thorir, kitty, Dixie Jean McCoy. We loved you, we miss you, we will remember you.&lt;/p&gt;
 </description>
@@ -2552,7 +2474,6 @@ Birthday, mi Viejo!&lt;/p&gt;
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2010/05/02/bright-house-saga/</guid>
       <description>&lt;p&gt;In &lt;a href=&#34;https://collantes.us/2009/10/05/avoid-brighthouse/&#34; title=&#34;Avoid Bright House&#34;&gt;two&lt;/a&gt; &lt;a href=&#34;https://collantes.us/2009/10/09/bright-house-follow-up/&#34; title=&#34;Bright House follow up&#34;&gt;occasions&lt;/a&gt; I have written about Bright House service, or the lack of. Ever since my last entry, many issues aroused, but I never came here to document them.&lt;/p&gt;
-
 &lt;h3 id=&#34;what-where-those-issues&#34;&gt;&lt;span class=&#34;hash&#34;&gt;&lt;a href=&#34;#what-where-those-issues&#34; class=&#34;post__hash&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/span&gt;What where those issues?&lt;/h3&gt;&lt;p&gt;They vary, and cover a wide range. So many Bright House technicians has passed by my house, I lost count. The proverbial &amp;ldquo;how many technicians do Bright House needs&amp;hellip;&amp;rdquo; comes to mind. Issues:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Black out screens, with &amp;ldquo;&lt;strong&gt;Please wait&lt;/strong&gt;.&amp;rdquo;&lt;/li&gt;
@@ -2586,11 +2507,7 @@ Birthday, mi Viejo!&lt;/p&gt;
       <pubDate>Thu, 29 Apr 2010 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2010/04/29/ipad-3g-status/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2010-04-29-ipad-3g-status.jpg&#34;
-  alt=&#34;iPad status&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2010/04/29/ipad-3g-status//resources/2010-04-29-ipad-3g-status.jpg&#34; alt=&#34;iPad status&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;It seems that it will be here tomorrow before, or around 3:00PM after all. Just when I was starting to lose my faith&amp;hellip; So happy!&lt;/p&gt;
 </description>
     </item>
@@ -2810,11 +2727,7 @@ Birthday, mi Viejo!&lt;/p&gt;
       <pubDate>Fri, 11 Sep 2009 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2009/09/11/september-11th/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/twin_towers.jpg#full&#34;
-  alt=&#34;World Trade Center&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2009/09/11/september-11th//resources/twin_towers.jpg#full&#34; alt=&#34;World Trade Center&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;We will never forget.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/September_11_attacks&#34;&gt;Today&lt;/a&gt;, eight years ago, a group of humans, guided by a political agenda, a deep hatred towards the United States, and a mad religious fanaticism slammed airplanes into the World Trade Center, destroying the Twin Towers, damaging other buildings, and killing almost 3,000 people. A second airplane hit The Pentagon, and a third crashed near Pennsylvania after some of its passengers and flight crew attempted to retake control of it.&lt;/p&gt;
 &lt;p&gt;Lets us always remember our brothers and sisters who died that day. Let us also remember that human stupidity is infinite, and that we are our worse enemies.&lt;/p&gt;
@@ -3822,11 +3735,7 @@ dance&lt;/a&gt; - the one with no singing.&lt;/li&gt;
       <pubDate>Tue, 11 Sep 2007 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2007/09/11/we-remember-six-years-ago/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/twin_towers.jpg#full&#34;
-  alt=&#34;Twin Towers&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2007/09/11/we-remember-six-years-ago//resources/twin_towers.jpg#full&#34; alt=&#34;Twin Towers&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Today, &lt;a href=&#34;http://en.wikipedia.org/wiki/September_11%2C_2001_attacks&#34; title=&#34;September 11th 2001 attacks&#34;&gt;six years ago&lt;/a&gt;, a group of animals belonging to the human race decided to take away thousands of innocent lives by destroying the Twin Towers (see &lt;a href=&#34;http://en.wikipedia.org/wiki/World_Trade_Center&#34;&gt;World Trade Center&lt;/a&gt;).  Let us not to forget how stupid they were, how criminal they were, how inhuman they were. Let us remember our brothers and sisters who died that day. For me The Towers stand tall. They always will.&lt;/p&gt;
 &lt;p&gt;September 11th, 2001: We will never forget!&lt;/p&gt;
 </description>
@@ -4724,7 +4633,6 @@ BAD signature from &amp;quot;Microsoft Security Response Center&amp;quot; &amp;l
 &lt;p&gt;The &lt;a href=&#34;http://www.ntia.doc.gov/&#34;&gt;NTIA&lt;/a&gt;, which is the telecommunications and Internet arm of the Department of Commerce, has disallowed private registrations for .US domain names. This unfortunate decision was made by the NTIA, without a hearing or an opportunity for a response by those affected &amp;ndash; in fact; there was no due process of any kind. It&amp;rsquo;s ironic that the NTIA has taken away our first amendment rights to privacy for the one domain name (.US) that is specifically intended for Americans. These bureaucrats stripped away the privacy that you&amp;rsquo;re entitled to as an American; on the only domain name that says that you are an American.&lt;/p&gt;
 &lt;p&gt;Even while the NTIA has ruthlessly criticized &lt;a href=&#34;http://www.icann.org/&#34; title=&#34;Internet Corporation For Assigned Names and Numbers&#34;&gt;ICANN&lt;/a&gt; in the past for lack of transparency, the NTIA itself has been evasive and untruthful about the entire process, and has yet to provide a satisfactory explanation for the move.&lt;/p&gt;
 &lt;p&gt;After giving only two weeks&amp;rsquo; notice, the NTIA has stated that they would not consider any arguments and that its decision is final, leaving thousands of .US domain owners confused and exposed.&lt;/p&gt;
-
 &lt;h3 id=&#34;what-you-can-do-about-it&#34;&gt;&lt;span class=&#34;hash&#34;&gt;&lt;a href=&#34;#what-you-can-do-about-it&#34; class=&#34;post__hash&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/span&gt;What you can do about it&lt;/h3&gt;&lt;p&gt;Simply sign the petition &lt;a href=&#34;http://thedangerofnoprivacy.com/signpetition.php&#34; target=&#34;_blank&#34; title=&#34;Sign Petition!&#34;&gt;on this site&lt;/a&gt; and send an email to your elected representatives in Washington, D.C. to express your outrage and request their help in reversing the NTIA&amp;rsquo;s inappropriate decision. Your rights are at stake. &lt;a href=&#34;http://americansdeserveprivacy.com/sign.php&#34; target=&#34;_blank&#34;  title=&#34;Sign petition!&#34;&gt;Take action!&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -4833,11 +4741,7 @@ BAD signature from &amp;quot;Microsoft Security Response Center&amp;quot; &amp;l
       <pubDate>Sat, 11 Sep 2004 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2004/09/11/remembrance/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/twin_towers.jpg#full&#34;
-  alt=&#34;World Trade Center&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2004/09/11/remembrance//resources/twin_towers.jpg#full&#34; alt=&#34;World Trade Center&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Today, &lt;a href=&#34;http://en.wikipedia.org/wiki/September_11%2C_2001_attacks&#34; title=&#34;September 11th 2001 attacks&#34;&gt;three years ago&lt;/a&gt;, a group of animals belonging to the human race decided to take away thousands of innocent lives by destroying the Twin Towers (see &lt;a href=&#34;http://en.wikipedia.org/wiki/World_Trade_Center&#34;&gt;World TradeCenter&lt;/a&gt;).  Let us not to forget how stupid they were, how criminal they were, how non human they were. Let us remember our brothers and sisters who died that day. For me The Towers stand tall. They always will.&lt;/p&gt;
 &lt;p&gt;September 11th, 2001: We will never forget!&lt;/p&gt;
 </description>
@@ -4928,9 +4832,7 @@ BAD signature from &amp;quot;Microsoft Security Response Center&amp;quot; &amp;l
 &lt;p&gt;When something works fine there is very little to tell. The &amp;ldquo;installation&amp;rdquo; was as advertised: simply connect it, wait a minute and you have got a go. Calls are very clear even though you could hear some delay or noise at times (1 to 15 ratio).&lt;/p&gt;
 &lt;p&gt;Reaching their customer support, as I said, it is quite difficult. Most of the time you will get some message taker on the other side of the world and calls will not get returned. But if you insist and keep calling their technical support line and finally get a technician your problem will be resolved, unless it is something that is affecting everyone. I had to call twice &amp;ndash;well, three times&amp;ndash;, first call was my mistake, I did not  see how to change the number of rings until the voicemail kicks in on the web interface (duh!), but the guy did it for me nevertheless. The second, I realized that the voicemail timestamps were on GMT, so they change it to EST and the third was because I was loosing the dial tone (VoIP light will go off and the only way to get it back  was by hard resetting the gateway). On this third one they acknowledged it, they were aware of the problem and were working to get it fixed &amp;ndash;which it happened the next day.&lt;/p&gt;
 &lt;p&gt;Overall I am very happy with the service (quality and reliability) but unhappy with their technical support, since they are very difficult to reach. Their message taking in India is nothing good and their hold message when you call is very annoying. There are other VoIP providers out there, with more joining quite soon (AT&amp;amp;T, for example), but none offers all the features &lt;a href=&#34;http://www.lingo.com/&#34; title=&#34;Lingo&#34;&gt;Lingo&lt;/a&gt; does and all are at least twice more expensive.&lt;/p&gt;
-
 &lt;h3 id=&#34;about-the-gateway&#34;&gt;&lt;span class=&#34;hash&#34;&gt;&lt;a href=&#34;#about-the-gateway&#34; class=&#34;post__hash&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/span&gt;About the Gateway&lt;/h3&gt;&lt;p&gt;A little technical information here, if you are using the service. If you want to reset the device to its defaults, unplug it, then when you see the power led come on enter the following on the telephone connected to it: &lt;strong&gt;*#26845#&lt;/strong&gt;. Your gateway will then recycle. Also, if you want to access your gateway through its web interface, point your browser to &lt;strong&gt;172.25.25.1&lt;/strong&gt; and use &lt;strong&gt;user/ph3taswe&lt;/strong&gt; as the username and password.&lt;/p&gt;
-
 &lt;h3 id=&#34;conclusion&#34;&gt;&lt;span class=&#34;hash&#34;&gt;&lt;a href=&#34;#conclusion&#34; class=&#34;post__hash&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/span&gt;Conclusion&lt;/h3&gt;&lt;p&gt;I certainly recommend &lt;a href=&#34;http://www.lingo.com/&#34; title=&#34;Lingo&#34;&gt;Lingo&lt;/a&gt;. It is a relatively new company on the VoIP market, you may have ups and downs but it is, overall, very good. If you need to relay on your phone lines for mission critical operations, of course, the service is not for you. It&amp;rsquo;s requirements add more point of failure to your phone communications, since you also need Internet connectivity and power to make phone calls.&lt;/p&gt;
 </description>
     </item>
@@ -5038,11 +4940,7 @@ BAD signature from &amp;quot;Microsoft Security Response Center&amp;quot; &amp;l
       <pubDate>Sun, 18 Jul 2004 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2004/07/18/shredder-and-eggroll/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2004-07-18-shredder-and-eggroll.jpg#full&#34;
-  alt=&#34;Shredder and Eggroll&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2004/07/18/shredder-and-eggroll//resources/2004-07-18-shredder-and-eggroll.jpg#full&#34; alt=&#34;Shredder and Eggroll&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Kent assumes the personality of a different cartoon character &amp;mdash; or hero &amp;mdash; every day. He seems to shuffle between Ninja Turtles, Batman, Danny Phantom, Robin (from &amp;ldquo;Teen Titans&amp;rdquo;), Jackie Chang and others. He has even been Spongebob Squarepants! Needless is to say we &amp;mdash; Kim and I &amp;mdash; are always the bad guys.&lt;/p&gt;
 &lt;p&gt;Today he decided he was a Ninja Turtle (purple and blue at times) and that Kim and I were Shredders (of different colours, of course). Then Kim told him she was April (don&amp;rsquo;t ask me from what cartoon), which he understood as Eggroll and so a new hero was born: Kim, The Eggroll :-)&lt;/p&gt;
 &lt;p&gt;Here is him, as Robin (lead hero from &amp;ldquo;Teen Titans&amp;rdquo;). Don&amp;rsquo;t ask me what kind of &amp;ldquo;weapon&amp;rdquo; it is the inflatable mattress pump. It  is, for sure, a super weapon.&lt;/p&gt;
@@ -5171,11 +5069,7 @@ BAD signature from &amp;quot;Microsoft Security Response Center&amp;quot; &amp;l
       <description>&lt;p&gt;A while ago I wrote about a spam &lt;a href=&#34;https://collantes.us/2003/09/29/dissecting-a-nigerian-scam/&#34;&gt;I got from Nigeria&lt;/a&gt; (of course, we all know it could be from anywhere) and how Mr. Tanko lost his Internet connection when &lt;a href=&#34;https://collantes.us/2003/09/29/dissecting-a-nigerian-scam/&#34;&gt;I asked for $20&lt;/a&gt;. While it is true that before and after that posting I have gotten quite a few other offers of the kind, none of them came from a man in the United Arab Emirates, supposedly. Now, that is not the unusual thing about this one.&lt;/p&gt;
 &lt;p&gt;You see, this one is an ill man. Emmanuel Khan is an ill man to which his family has turned their back and stole a considerable amount of his money. Before becoming ill &amp;mdash;from esophageal cancer&amp;mdash; he managed to &amp;ldquo;distribute money to some charity organizations in the U.A.E, Algeria and Malaysia&amp;rdquo;, but now he can&amp;rsquo;t longer do it. That is why he is asking for my help to distribute it to several other charitable organizations around the world.&lt;/p&gt;
 &lt;p&gt;Now, the interesting (or funny) part of this whole thing is that, after my reply in which I expressed my willingness to help,  he even sent me his photo, supposedly taken in a hospital, so I could know that it was him. He wanted to make sure I could &amp;ldquo;see&amp;rdquo; his misery. See it for yourself:&lt;/p&gt;
-&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2004-06-28-they-keep-coming.jpg#full&#34;
-  alt=&#34;They keep coming&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://collantes.us/2004/06/28/they-keep-coming//resources/2004-06-28-they-keep-coming.jpg#full&#34; alt=&#34;They keep coming&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Doesn&amp;rsquo;t he inspire compassion? What wouldn&amp;rsquo;t you do for that poor man? Wouldn&amp;rsquo;t you help him? If you want, please email him offering your help (there is a 20% commission out of several millions for you) at Emmanuel Khan&amp;rsquo;s email addresses, &lt;a href=&#34;mailto:emmauelkhan@netscape.net&#34;&gt;here&lt;/a&gt; or &lt;a href=&#34;mailto:emmankhan@yahoo.com&#34;&gt;here&lt;/a&gt;. Tell him I sent you and offer to buy him a better digital camera, please! :-)&lt;/p&gt;
 </description>
     </item>
@@ -5518,11 +5412,7 @@ david@gmail.com
       <pubDate>Sun, 11 Apr 2004 14:00:00 +0000</pubDate>
       <author>david@collantes.us (David Collantes)</author>
       <guid>https://collantes.us/2004/04/11/sun-and-salty-water/</guid>
-      <description>&lt;p&gt;&lt;img
-  src=&#34;https://collantes.us/resources/2004-04-11-sun-and-salty-water.jpg#full&#34;
-  alt=&#34;Kent plays&#34; 
-  loading=&#34;lazy&#34; 
-/&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://collantes.us/2004/04/11/sun-and-salty-water//resources/2004-04-11-sun-and-salty-water.jpg#full&#34; alt=&#34;Kent plays&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;After almost a year, we returned to the beach yesterday. &lt;a href=&#34;http://www.jettyparkbeachandcampground.com/&#34;&gt;Jetty Park&lt;/a&gt;, by Port Cañaveral is around 45 miles from where we live, but still closer than Daytona. It is quite a nice park, with a decently clean beach. For those of you living constantly under the cold weather, sun and salty water is as good as it gets, right? :-)&lt;/p&gt;
 &lt;p&gt;Almost a year ago we took KM to Cocoa beach and at the time he was afraid to even touch the water. He cried and constantly asked to go home. Well, yesterday was the total opposite. Protected by the sunblock cream and armed with several of his toys (dump truck, shovel and pail) he did not only decided to build castles on the sand, but took over the sea and fearlessly ventured into the waters. Needless is to say that by the end of the day we had to fight a small battle to get him out.&lt;/p&gt;
 &lt;p&gt;KM was very protected from the sun with the sunblock cream. I, on the other hand, did not use any and today &amp;mdash; as I type this &amp;mdash; my back, front and face are burning still, while a soothing cream try to give me solace. Mental note: protect yourself the next time.&lt;/p&gt;

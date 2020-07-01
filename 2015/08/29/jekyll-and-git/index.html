@@ -77,15 +77,15 @@ Before hosting this weblog on Vultr, I had it on GitHub, and their Pages would d
 <li>Added my Jekyll files.</li>
 </ol>
 <p>What was left was to add the following <code>post-receive</code> hook<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>:</p>
-<div class="highlight"><pre style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#719e07">#!/bin/bash -l
-</span><span style="color:#719e07"></span><span style="color:#268bd2">GIT_REPOSITORY</span><span style="color:#719e07">=</span>/path/to/my/website.git
-<span style="color:#268bd2">TMP_GIT_CLONE</span><span style="color:#719e07">=</span>/tmp/git/website
-<span style="color:#268bd2">WWW_ROOT</span><span style="color:#719e07">=</span>/path/to/my/website
+<div class="highlight"><pre style="color:#8a8a8a;background-color:#1c1c1c;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#5f8700">#!/bin/bash -l
+</span><span style="color:#5f8700"></span><span style="color:#0087ff">GIT_REPOSITORY</span>=/path/to/my/website.git
+<span style="color:#0087ff">TMP_GIT_CLONE</span>=/tmp/git/website
+<span style="color:#0087ff">WWW_ROOT</span>=/path/to/my/website
 
-git clone <span style="color:#268bd2">$GIT_REPOSITORY</span> <span style="color:#268bd2">$TMP_GIT_CLONE</span>
-jekyll build --source <span style="color:#268bd2">$TMP_GIT_CLONE</span> --destination <span style="color:#268bd2">$WWW_ROOT</span>
-rm -rf <span style="color:#268bd2">$TMP_GIT_CLONE</span>
-<span style="color:#b58900">exit</span>
+git clone <span style="color:#0087ff">$GIT_REPOSITORY</span> <span style="color:#0087ff">$TMP_GIT_CLONE</span>
+jekyll build --source <span style="color:#0087ff">$TMP_GIT_CLONE</span> --destination <span style="color:#0087ff">$WWW_ROOT</span>
+rm -rf <span style="color:#0087ff">$TMP_GIT_CLONE</span>
+<span style="color:#0087ff">exit</span>
 </code></pre></div><p>Now a few seconds right after committing, my website will show the changes. Being able to use Atom with <code>markdown-writer</code> to compose entries, and use git to deploy them is a bliss.</p>
 <section class="footnotes" role="doc-endnotes">
 <hr>
@@ -99,9 +99,7 @@ rm -rf <span style="color:#268bd2">$TMP_GIT_CLONE</span>
       <footer>
   <section>
     <div>
-      <p class="summary">
-        1992 &mdash; 2020. David Collantes, v.00ba1b7.
-      </p>
+      <p class="summary">1992 &mdash; 2020. David Collantes, v.00ba1b7.</p>
     </div>
   </section>
 </footer>

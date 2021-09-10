@@ -643,7 +643,8 @@ tr:nth-child(2n) {
 /* Icons */
 header {
   display: grid;
-  grid-template-columns: 1fr 2.25rem 2rem 2.25rem 2.25rem;
+/*  grid-template-columns: 1fr 2.25rem 2rem 2.25rem 2.25rem; */
+  grid-template-columns: 1fr 2.25rem 2.25rem;
   grid-gap: 0.10rem;
   margin-bottom: 2.7rem;
   align-items: end;
@@ -898,7 +899,7 @@ a.anchor {
 .prompt {
     display: inline-block;
     width: 20px;
-    height: 35px;
+    height: 30px;
     background: var(--first-favourite-colour);
     margin-left: 2px;
     -webkit-animation: cursor 1.5s infinite;

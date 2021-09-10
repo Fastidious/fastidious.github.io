@@ -324,7 +324,7 @@ html, body {
 }
 
 body {
-  max-width: 40rem;
+  max-width: 54rem;
   margin-left: auto;
   margin-right: auto;
   line-height: 2rem;
@@ -362,7 +362,7 @@ time.single {
   font-size: 1rem;
   line-height: 1;
   font-weight: normal;
-  color: #94949a;
+  color: #5e5e62;
   text-align: left;
   margin-top: -0.3rem;
   font-feature-settings: "zero" 1, "ss03" 1;

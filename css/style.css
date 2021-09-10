@@ -898,10 +898,9 @@ a.anchor {
 .prompt {
     display: inline-block;
     width: 20px;
-    height: 30px;
+    height: 35px;
     background: var(--first-favourite-colour);
-    margin-left: 5px;
-    border-radius: 1px;
+    margin-left: 2px;
     -webkit-animation: cursor 1.5s infinite;
     animation: cursor 1.5s infinite;
 }

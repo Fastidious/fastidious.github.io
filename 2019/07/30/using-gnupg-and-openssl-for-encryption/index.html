@@ -61,6 +61,8 @@
 
 
       
+
+      
       <p>I have used <code>Gnupg</code> to encrypt my private files, specially those that I upload to the clouds, for a long time. I used to encrypt to self, using my own key, then later moved to symmetric encryption only. The command is easy:</p>
 <h3 id="using-gnupg"><span class="hash"><a href="#using-gnupg" class="post__hash"><i class="fas fa-link"></i></a></span>Using Gnupg</h3><p>To <strong>encrypt</strong>:</p>
 <div class="highlight"><pre style="color:#8a8a8a;background-color:#1c1c1c;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gpg --cipher-algo aes256 --symmetric file.txt
@@ -75,6 +77,7 @@
 <div class="highlight"><pre style="color:#8a8a8a;background-color:#1c1c1c;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">openssl enc -d -aes-256-cbc -md sha256 -iter <span style="color:#00afaf">1000</span> -in file.txt.enc -out file.txt
 </code></pre></div><p>If a <code>base64</code> output is preferred, then the option <code>-a</code> should be added to both, encryption and decryption.</p>
 
+      
       <footer>
   <section>
     <div>

@@ -61,6 +61,8 @@
 
 
       
+
+      
       <p>If you use GPG to occasionally encrypt and/or sign your email, or to encrypt your files before placing them on the cloud, you will understand how important it is to have a backup of your GPG keys. Similarly important will be to know how to restore them as well.</p>
 <h3 id="backing-up-your-keys-and-configuration-files"><span class="hash"><a href="#backing-up-your-keys-and-configuration-files" class="post__hash"><i class="fas fa-link"></i></a></span>Backing up your keys and configuration files</h3><p>To back your private, and public keys, as well as your trust database, you will do<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>:</p>
 <div class="highlight"><pre style="color:#8a8a8a;background-color:#1c1c1c;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gpg --armor --export-secret-keys &gt; ~/Desktop/gpg_private_keys.asc
@@ -85,11 +87,12 @@ gpg --import-ownertrust gpg_ownertrust.asc
 <hr>
 <ol>
 <li id="fn:1" role="doc-endnote">
-<p>This assumes your are using OS X. Change destinations depending on your OS accordingly, if using another Unix alike OS. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>This assumes your are using OS X. Change destinations depending on your OS accordingly, if using another Unix alike OS. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#8629;</a></p>
 </li>
 </ol>
 </section>
 
+      
       <footer>
   <section>
     <div>

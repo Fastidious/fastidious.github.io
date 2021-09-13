@@ -72,4 +72,5 @@ a.anchor {
 :target {
   padding: 1px 3px;
   border-bottom: 1px dotted var(--first-favourite-colour);
+  background-color: #282828;
 }

@@ -61,16 +61,14 @@ a {
     text-decoration: none;
     border-bottom: 1px dotted var(--first-favourite-colour); */
   }
+  :target {
+    padding: 1px 3px;
+    border-bottom: 1px dotted var(--first-favourite-colour);
+    background-color: #282828;
+  }
 }
 
 a.anchor {
   text-decoration: none;
   border-bottom: none;
-}
-
-/* Selects an element with an ID matching the current URL's fragment */
-:target {
-  padding: 1px 3px;
-  border-bottom: 1px dotted var(--first-favourite-colour);
-  background-color: #282828;
 }

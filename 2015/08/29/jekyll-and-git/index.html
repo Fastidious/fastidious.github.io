@@ -18,7 +18,7 @@
 Before hosting this weblog on Vultr, I had it on GitHub, and their Pages would do the publishing for me, right after a commit, which was great." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://collantes.us/2015/08/29/jekyll-and-git/" /><meta property="og:image" content="https://collantes.us/resources/opengraph_card.png"/><meta property="article:section" content="" />
-<meta property="article:published_time" content="2015-08-29T14:00:03&#43;00:00" />
+<meta property="article:published_time" content="2015-08-29T14:00:03+00:00" />
 <meta property="article:modified_time" content="2020-06-02T13:09:05-04:00" /><meta property="og:site_name" content="Blog" />
 
 
@@ -28,7 +28,7 @@ Before hosting this weblog on Vultr, I had it on GitHub, and their Pages would d
 Before hosting this weblog on Vultr, I had it on GitHub, and their Pages would do the publishing for me, right after a commit, which was great." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://collantes.us/2015/08/29/jekyll-and-git/" /><meta property="og:image" content="https://collantes.us/resources/opengraph_card.png"/><meta property="article:section" content="" />
-<meta property="article:published_time" content="2015-08-29T14:00:03&#43;00:00" />
+<meta property="article:published_time" content="2015-08-29T14:00:03+00:00" />
 <meta property="article:modified_time" content="2020-06-02T13:09:05-04:00" /><meta property="og:site_name" content="Blog" />
 
 
@@ -41,9 +41,9 @@ Before hosting this weblog on Vultr, I had it on GitHub, and their Pages would d
 
     <meta itemprop="name" content="Jekyll and Git">
 <meta itemprop="description" content="I have been using Jekyll for a while now, but all this time I have been generating it on the server, That is, I had had a directory on the server holding the Jekyll files, in which I would run jekyll build to generate the website. Not too streamlined.
-Before hosting this weblog on Vultr, I had it on GitHub, and their Pages would do the publishing for me, right after a commit, which was great."><meta itemprop="datePublished" content="2015-08-29T14:00:03&#43;00:00" />
+Before hosting this weblog on Vultr, I had it on GitHub, and their Pages would do the publishing for me, right after a commit, which was great."><meta itemprop="datePublished" content="2015-08-29T14:00:03+00:00" />
 <meta itemprop="dateModified" content="2020-06-02T13:09:05-04:00" />
-<meta itemprop="wordCount" content="179"><meta itemprop="image" content="https://collantes.us/resources/opengraph_card.png"/>
+<meta itemprop="wordCount" content="178"><meta itemprop="image" content="https://collantes.us/resources/opengraph_card.png"/>
 <meta itemprop="keywords" content="jekyll,git,vultr,github,atom," />
   </head>
   <body>
@@ -72,7 +72,7 @@ Before hosting this weblog on Vultr, I had it on GitHub, and their Pages would d
 <li>Added my Jekyll files.</li>
 </ol>
 <p>What was left was to add the following <code>post-receive</code> hook<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>:</p>
-<div class="highlight"><pre style="color:#8a8a8a;background-color:#1c1c1c;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#5f8700">#!/bin/bash -l
+<div class="highlight"><pre tabindex="0" style="color:#8a8a8a;background-color:#1c1c1c;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#5f8700">#!/bin/bash -l
 </span><span style="color:#5f8700"></span><span style="color:#0087ff">GIT_REPOSITORY</span>=/path/to/my/website.git
 <span style="color:#0087ff">TMP_GIT_CLONE</span>=/tmp/git/website
 <span style="color:#0087ff">WWW_ROOT</span>=/path/to/my/website
@@ -86,7 +86,7 @@ rm -rf <span style="color:#0087ff">$TMP_GIT_CLONE</span>
 <hr>
 <ol>
 <li id="fn:1" role="doc-endnote">
-<p>Thanks to <a href="https://www.digitalocean.com/community/tutorials/how-to-deploy-jekyll-blogs-with-git">Matt Harzewski</a> for pointing me to the right path. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#8629;</a></p>
+<p>Thanks to <a href="https://www.digitalocean.com/community/tutorials/how-to-deploy-jekyll-blogs-with-git">Matt Harzewski</a> for pointing me to the right path.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#8629;</a></p>
 </li>
 </ol>
 </section>

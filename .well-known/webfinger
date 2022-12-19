@@ -1,0 +1,22 @@
+{
+  "subject": "acct:david@collantes.us",
+  "aliases": [
+    "https://simmulation.com/@david"
+  ],
+  "links": [
+     {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://simmulation.com/@david"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://simmulation.com/@david"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://simmulation.com/authorize_interaction?uri={uri}"
+    }
+  ]
+}

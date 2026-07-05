@@ -10,3 +10,4 @@
 2026-07-05T15:39:59Z	(#bcoki3ldl7bb) This is a fork, coming from the [twtxt.app](https://twtxt.app) (yes, @<prologic https://twtxt.net/user/prologic/twtxt.txt> is going to be bankrupt on domain registrations, I know). Let’s see how forks fork!
 2026-07-05T15:46:59Z	(#opfyyfuds2lb) Hahaha! I thought the idea was to bend'em, no? 🤪
 2026-07-05T15:55:47Z	(#2z5saducasqc) This is pretty cool, @<prologic https://twtxt.net/user/prologic/twtxt.txt>! I am using it on the desktop now, but will soon try mobile as well. Will test the “connecting” feature, see how it goes.  Not need to say, but this one on GitHub works great. I have to go edit the `twtxt.txt` file to add `nick`, `url`, `avatar`, and `description`, and I am sure I have given more permissions than needed to the token, but it works great!
+2026-07-05T18:32:23Z	(#tz62go5twlrz) Hmm, what broke this is puzzling my mind.

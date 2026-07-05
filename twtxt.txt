@@ -1,6 +1,7 @@
 # nick = david
 # avatar = https://collantes.us/resources/david_collantes.png
 # description = “A lifetime Apple user. Partner says I am fastidious, sarcastic, and cynic. I just want to be me.”
+# url = https://raw.githubusercontent.com/Fastidious/fastidious.github.com/master/twtxt.txt
 2026-07-05T15:23:08Z	OK, so this is on GitHub now. Let’s see how it goes. I am sure it isn’t setup with the right permissions (perhaps too permissive), but I can always fine tune.  Alright, let’s hit “Twt”!
 2026-07-05T15:24:05Z	(#7ooxzqo4e4pa) It looks like it worked. Now I need to get someone to follow me, to be fully sure.
 2026-07-05T15:27:37Z	(#7ooxzqo4e4pa) OK, pinging @<bender https://twtxt.net/user/bender/twtxt.txt> to see how long does this takes to go across. I will have to test Markdown at certain point, but baby steps!

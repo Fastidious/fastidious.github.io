@@ -6,3 +6,4 @@
 2026-07-05T15:24:05Z	(#7ooxzqo4e4pa) It looks like it worked. Now I need to get someone to follow me, to be fully sure.
 2026-07-05T15:27:37Z	(#7ooxzqo4e4pa) OK, pinging @<bender https://twtxt.net/user/bender/twtxt.txt> to see how long does this takes to go across. I will have to test Markdown at certain point, but baby steps!
 2026-07-05T15:39:59Z	(#bcoki3ldl7bb) This is a fork, coming from the [twtxt.app](https://twtxt.app) (yes, @<prologic https://twtxt.net/user/prologic/twtxt.txt> is going to be bankrupt on domain registrations, I know). Let’s see how forks fork!
+2026-07-05T15:46:59Z	(#opfyyfuds2lb) Hahaha! I thought the idea was to bend'em, no? 🤪

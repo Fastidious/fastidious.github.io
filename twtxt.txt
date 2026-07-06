@@ -20,3 +20,4 @@
 2026-07-06T12:30:58Z	(#o2vg2f4jolqs) Hmm, so, one fork of a fork is missing now. This one: ``` 2026-07-06T12:23:18Z	(#o2vg2f4jolqs) I just hit “fork” on a previous fork. ```
 2026-07-06T14:23:16Z	(#jyp5m5z4gaq4) So, when using GitHub one can’t simply send twtxts one after the other, especially if the default repository (username.github.io) has “pages” enabled, because they need time to build.  This is what I have done. I have disabled pages (because I was not using them anyway), and now I am going to further test to see.
 2026-07-06T14:26:54Z	(#hw2vzrov4mdi) OK, I think I have now truly disabled Pages. Sending the reply, and looking at the repository to see if actions run.
+2026-07-06T14:29:28Z	(#hw2vzrov4mdi) Hmm, it seems username.github.io cannot fully disable pages, so that will always be a delay from the time I hit reply, to when the reply will make it to the `twtxt.txt` file. 🤔

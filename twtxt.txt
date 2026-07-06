@@ -13,3 +13,4 @@
 2026-07-05T18:32:23Z	(#tz62go5twlrz) Hmm, what broke this is puzzling my mind.
 2026-07-05T18:33:23Z	(#hky6mzvn4gpg) I see this thread just fine on twtxt.app. But @<movq https://www.uninformativ.de/twtxt.txt> didn’t, nor it shows fine on twtxt.net. Hmm 🤔.
 2026-07-06T12:18:58Z	Testing forks here again, to see at which point it breaks on TWTXT.net.
+2026-07-06T12:19:48Z	(#ucojr6a25xvv) This is the first reply to the OP.
